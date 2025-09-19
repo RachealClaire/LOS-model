@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/993118495688724571
+creation_time: 1739951126177
+experiment_id: '993118495688724571'
+last_update_time: 1739951126177
+lifecycle_stage: active
+name: MLflow huber model

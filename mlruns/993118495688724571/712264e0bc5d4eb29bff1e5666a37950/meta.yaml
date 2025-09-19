@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/712264e0bc5d4eb29bff1e5666a37950/artifacts
+end_time: 1741682125289
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 712264e0bc5d4eb29bff1e5666a37950
+run_name: clumsy-asp-732
+run_uuid: 712264e0bc5d4eb29bff1e5666a37950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741682125159
+status: 3
+tags: []
+user_id: kyomukama

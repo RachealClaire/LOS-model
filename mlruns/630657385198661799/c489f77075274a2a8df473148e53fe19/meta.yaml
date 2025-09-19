@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/c489f77075274a2a8df473148e53fe19/artifacts
+end_time: 1741082277458
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: c489f77075274a2a8df473148e53fe19
+run_name: fearless-goose-960
+run_uuid: c489f77075274a2a8df473148e53fe19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082274370
+status: 3
+tags: []
+user_id: kyomukama

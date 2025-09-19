@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/8fac2c5c8a694dad8f88325627f9e2dc/artifacts
+end_time: 1741245776212
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 8fac2c5c8a694dad8f88325627f9e2dc
+run_name: indecisive-bass-721
+run_uuid: 8fac2c5c8a694dad8f88325627f9e2dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741245776099
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/f540203b3fef4b0e93669d4598b1f648/artifacts
+end_time: 1741086984075
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: f540203b3fef4b0e93669d4598b1f648
+run_name: stately-smelt-143
+run_uuid: f540203b3fef4b0e93669d4598b1f648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741086979409
+status: 3
+tags: []
+user_id: kyomukama

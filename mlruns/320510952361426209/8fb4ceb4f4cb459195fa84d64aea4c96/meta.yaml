@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/8fb4ceb4f4cb459195fa84d64aea4c96/artifacts
+end_time: 1741084386290
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 8fb4ceb4f4cb459195fa84d64aea4c96
+run_name: powerful-duck-29
+run_uuid: 8fb4ceb4f4cb459195fa84d64aea4c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741084382280
+status: 3
+tags: []
+user_id: kyomukama

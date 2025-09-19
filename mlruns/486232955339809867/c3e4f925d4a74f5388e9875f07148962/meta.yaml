@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/c3e4f925d4a74f5388e9875f07148962/artifacts
+end_time: 1739966084484
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: c3e4f925d4a74f5388e9875f07148962
+run_name: placid-seal-855
+run_uuid: c3e4f925d4a74f5388e9875f07148962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966083973
+status: 3
+tags: []
+user_id: racheal

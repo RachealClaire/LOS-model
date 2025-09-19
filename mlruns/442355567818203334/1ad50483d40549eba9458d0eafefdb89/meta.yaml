@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/1ad50483d40549eba9458d0eafefdb89/artifacts
+end_time: 1741069282364
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 1ad50483d40549eba9458d0eafefdb89
+run_name: learned-mule-754
+run_uuid: 1ad50483d40549eba9458d0eafefdb89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741069280530
+status: 3
+tags: []
+user_id: kyomukama

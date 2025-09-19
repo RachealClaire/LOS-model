@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/cd6e176fa4f24982a33eb490b2c2486c/artifacts
+end_time: 1740914981866
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: cd6e176fa4f24982a33eb490b2c2486c
+run_name: judicious-crab-928
+run_uuid: cd6e176fa4f24982a33eb490b2c2486c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740914981690
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/eeb48cc0a4be4c2a9809c826cd1c3568/artifacts
+end_time: 1741682126254
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: eeb48cc0a4be4c2a9809c826cd1c3568
+run_name: wise-mule-620
+run_uuid: eeb48cc0a4be4c2a9809c826cd1c3568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741682126127
+status: 3
+tags: []
+user_id: kyomukama

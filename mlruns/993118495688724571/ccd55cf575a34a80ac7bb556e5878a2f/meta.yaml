@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/ccd55cf575a34a80ac7bb556e5878a2f/artifacts
+end_time: 1740984530645
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: ccd55cf575a34a80ac7bb556e5878a2f
+run_name: gentle-kite-279
+run_uuid: ccd55cf575a34a80ac7bb556e5878a2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740984530484
+status: 3
+tags: []
+user_id: kyomukama

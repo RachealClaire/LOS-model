@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/3abe8c24641348958de90f75b8249bbf/artifacts
+end_time: 1740995394026
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 3abe8c24641348958de90f75b8249bbf
+run_name: nebulous-lamb-809
+run_uuid: 3abe8c24641348958de90f75b8249bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740995389496
+status: 3
+tags: []
+user_id: kyomukama

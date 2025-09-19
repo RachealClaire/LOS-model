@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/33ec89778b154e41b1bc203dc093d977/artifacts
+end_time: 1739956771056
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 33ec89778b154e41b1bc203dc093d977
+run_name: abrasive-eel-935
+run_uuid: 33ec89778b154e41b1bc203dc093d977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956770904
+status: 3
+tags: []
+user_id: racheal

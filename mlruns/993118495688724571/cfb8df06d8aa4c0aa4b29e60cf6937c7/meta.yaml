@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/cfb8df06d8aa4c0aa4b29e60cf6937c7/artifacts
+end_time: 1740654166373
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: cfb8df06d8aa4c0aa4b29e60cf6937c7
+run_name: fearless-skink-467
+run_uuid: cfb8df06d8aa4c0aa4b29e60cf6937c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740654165223
+status: 3
+tags: []
+user_id: racheal

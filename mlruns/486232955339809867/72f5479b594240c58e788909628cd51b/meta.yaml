@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/72f5479b594240c58e788909628cd51b/artifacts
+end_time: 1739957414701
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 72f5479b594240c58e788909628cd51b
+run_name: clumsy-auk-130
+run_uuid: 72f5479b594240c58e788909628cd51b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957414485
+status: 3
+tags: []
+user_id: racheal

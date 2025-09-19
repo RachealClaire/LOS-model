@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyomukama/ACE/camonet/ml%20%28NEW%29/mlruns/0/843b738ebd3b403097af9081fca7cda7/artifacts
+end_time: 1741079586613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 843b738ebd3b403097af9081fca7cda7
+run_name: sneaky-kite-70
+run_uuid: 843b738ebd3b403097af9081fca7cda7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741079582019
+status: 3
+tags: []
+user_id: kyomukama

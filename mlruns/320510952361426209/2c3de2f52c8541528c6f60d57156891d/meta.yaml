@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/2c3de2f52c8541528c6f60d57156891d/artifacts
+end_time: 1741004732928
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 2c3de2f52c8541528c6f60d57156891d
+run_name: upset-swan-791
+run_uuid: 2c3de2f52c8541528c6f60d57156891d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741004728955
+status: 3
+tags: []
+user_id: kyomukama

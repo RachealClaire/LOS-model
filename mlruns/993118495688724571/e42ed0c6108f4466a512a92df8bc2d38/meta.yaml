@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/e42ed0c6108f4466a512a92df8bc2d38/artifacts
+end_time: 1741245777712
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: e42ed0c6108f4466a512a92df8bc2d38
+run_name: treasured-slug-690
+run_uuid: e42ed0c6108f4466a512a92df8bc2d38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741245777574
+status: 3
+tags: []
+user_id: kyomukama

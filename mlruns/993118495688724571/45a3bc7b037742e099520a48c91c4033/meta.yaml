@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/45a3bc7b037742e099520a48c91c4033/artifacts
+end_time: 1740654182582
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 45a3bc7b037742e099520a48c91c4033
+run_name: puzzled-finch-424
+run_uuid: 45a3bc7b037742e099520a48c91c4033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740654181355
+status: 3
+tags: []
+user_id: racheal

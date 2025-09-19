@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/e810b1e74360466ab33e6da90e7230c8/artifacts
+end_time: 1739956804773
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: e810b1e74360466ab33e6da90e7230c8
+run_name: vaunted-slug-674
+run_uuid: e810b1e74360466ab33e6da90e7230c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956804337
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/c226ba4232fe47088a68541b5a5bf266/artifacts
+end_time: 1741165056704
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: c226ba4232fe47088a68541b5a5bf266
+run_name: intrigued-cod-367
+run_uuid: c226ba4232fe47088a68541b5a5bf266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741165056652
+status: 3
+tags: []
+user_id: kyomukama

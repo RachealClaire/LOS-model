@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/0f8c48b57e424140bebdb323e8e6971f/artifacts
+end_time: 1739957350802
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 0f8c48b57e424140bebdb323e8e6971f
+run_name: marvelous-crow-574
+run_uuid: 0f8c48b57e424140bebdb323e8e6971f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957350248
+status: 3
+tags: []
+user_id: racheal

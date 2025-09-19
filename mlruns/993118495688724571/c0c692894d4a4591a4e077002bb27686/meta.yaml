@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/c0c692894d4a4591a4e077002bb27686/artifacts
+end_time: 1741067572430
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: c0c692894d4a4591a4e077002bb27686
+run_name: bustling-midge-591
+run_uuid: c0c692894d4a4591a4e077002bb27686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741067572379
+status: 3
+tags: []
+user_id: kyomukama

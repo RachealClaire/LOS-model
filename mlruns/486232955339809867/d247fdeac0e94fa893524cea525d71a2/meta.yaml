@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/d247fdeac0e94fa893524cea525d71a2/artifacts
+end_time: 1739956940632
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: d247fdeac0e94fa893524cea525d71a2
+run_name: colorful-stoat-757
+run_uuid: d247fdeac0e94fa893524cea525d71a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956940073
+status: 3
+tags: []
+user_id: racheal

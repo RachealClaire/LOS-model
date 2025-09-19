@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/7e929fb621f24b2cb211bc8bb5972a37/artifacts
+end_time: 1739957393170
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 7e929fb621f24b2cb211bc8bb5972a37
+run_name: resilient-perch-266
+run_uuid: 7e929fb621f24b2cb211bc8bb5972a37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957392784
+status: 3
+tags: []
+user_id: racheal

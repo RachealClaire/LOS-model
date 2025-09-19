@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/3fd599d100cd44a6aa99eb9349ca6e1e/artifacts
+end_time: 1739965918663
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 3fd599d100cd44a6aa99eb9349ca6e1e
+run_name: burly-roo-355
+run_uuid: 3fd599d100cd44a6aa99eb9349ca6e1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965918109
+status: 3
+tags: []
+user_id: racheal

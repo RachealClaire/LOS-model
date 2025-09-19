@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/fadd540c5c794ce0a0c2b0f370a7131b/artifacts
+end_time: 1739956737616
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: fadd540c5c794ce0a0c2b0f370a7131b
+run_name: resilient-bear-121
+run_uuid: fadd540c5c794ce0a0c2b0f370a7131b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956737329
+status: 3
+tags: []
+user_id: racheal

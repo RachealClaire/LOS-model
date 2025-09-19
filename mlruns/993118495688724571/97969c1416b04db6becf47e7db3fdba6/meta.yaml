@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/97969c1416b04db6becf47e7db3fdba6/artifacts
+end_time: 1740472453689
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 97969c1416b04db6becf47e7db3fdba6
+run_name: melodic-chimp-679
+run_uuid: 97969c1416b04db6becf47e7db3fdba6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740472452946
+status: 3
+tags: []
+user_id: racheal

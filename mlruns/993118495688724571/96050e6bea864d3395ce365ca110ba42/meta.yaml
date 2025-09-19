@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/96050e6bea864d3395ce365ca110ba42/artifacts
+end_time: 1740659272454
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 96050e6bea864d3395ce365ca110ba42
+run_name: languid-ant-513
+run_uuid: 96050e6bea864d3395ce365ca110ba42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740659271868
+status: 3
+tags: []
+user_id: racheal

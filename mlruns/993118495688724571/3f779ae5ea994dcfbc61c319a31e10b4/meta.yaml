@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/3f779ae5ea994dcfbc61c319a31e10b4/artifacts
+end_time: 1741682125678
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 3f779ae5ea994dcfbc61c319a31e10b4
+run_name: capricious-pig-28
+run_uuid: 3f779ae5ea994dcfbc61c319a31e10b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741682125601
+status: 3
+tags: []
+user_id: kyomukama

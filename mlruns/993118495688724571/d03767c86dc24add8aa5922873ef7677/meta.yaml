@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/d03767c86dc24add8aa5922873ef7677/artifacts
+end_time: 1741245775131
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: d03767c86dc24add8aa5922873ef7677
+run_name: rogue-asp-767
+run_uuid: d03767c86dc24add8aa5922873ef7677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741245775020
+status: 3
+tags: []
+user_id: kyomukama

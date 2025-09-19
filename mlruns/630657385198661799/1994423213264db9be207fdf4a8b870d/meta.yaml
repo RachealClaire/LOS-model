@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/1994423213264db9be207fdf4a8b870d/artifacts
+end_time: 1741003247655
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 1994423213264db9be207fdf4a8b870d
+run_name: persistent-worm-44
+run_uuid: 1994423213264db9be207fdf4a8b870d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003244813
+status: 3
+tags: []
+user_id: kyomukama

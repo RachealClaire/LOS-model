@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/3c1f4c7b27cf4ea08c3eef9e0a64e5e5/artifacts
+end_time: 1739956656424
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 3c1f4c7b27cf4ea08c3eef9e0a64e5e5
+run_name: delightful-goat-771
+run_uuid: 3c1f4c7b27cf4ea08c3eef9e0a64e5e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956656052
+status: 3
+tags: []
+user_id: racheal

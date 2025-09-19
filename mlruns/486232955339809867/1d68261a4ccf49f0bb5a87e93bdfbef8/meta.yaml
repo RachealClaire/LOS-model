@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/1d68261a4ccf49f0bb5a87e93bdfbef8/artifacts
+end_time: 1739957366921
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 1d68261a4ccf49f0bb5a87e93bdfbef8
+run_name: masked-jay-754
+run_uuid: 1d68261a4ccf49f0bb5a87e93bdfbef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957366624
+status: 3
+tags: []
+user_id: racheal

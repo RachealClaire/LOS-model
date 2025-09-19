@@ -1,0 +1,37 @@
+artifact_path: LGBM_regressor_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 2405279
+model_uuid: 0706cb99e84e40dd939feda77dfa4784
+run_id: 2a7b3a692b464020b0d3c3175b8e0f29
+signature:
+  inputs: '[{"type": "long", "name": "name_of_rrh", "required": true}, {"type": "double",
+    "name": "age", "required": true}, {"type": "long", "name": "sex", "required":
+    true}, {"type": "long", "name": "Number of sites infected", "required": true},
+    {"type": "long", "name": "referral", "required": true}, {"type": "long", "name":
+    "ward", "required": true}, {"type": "long", "name": "antib_prior_admi", "required":
+    true}, {"type": "long", "name": "sympt_dura", "required": true}, {"type": "long",
+    "name": "hiv_status", "required": true}, {"type": "long", "name": "intubated",
+    "required": true}, {"type": "long", "name": "cormobid_condition", "required":
+    true}, {"type": "long", "name": "antibiotics", "required": true}, {"type": "long",
+    "name": "Number of antibiotics prescribed", "required": true}, {"type": "long",
+    "name": "organism_isolated", "required": true}, {"type": "long", "name": "Resistance",
+    "required": true}, {"type": "long", "name": "antib_aft_culture", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-06 10:42:49.713754'

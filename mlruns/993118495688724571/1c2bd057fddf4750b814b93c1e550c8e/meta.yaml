@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/1c2bd057fddf4750b814b93c1e550c8e/artifacts
+end_time: 1740467766451
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 1c2bd057fddf4750b814b93c1e550c8e
+run_name: receptive-sloth-968
+run_uuid: 1c2bd057fddf4750b814b93c1e550c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740467765381
+status: 3
+tags: []
+user_id: racheal

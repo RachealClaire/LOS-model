@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/2a7b3a692b464020b0d3c3175b8e0f29/artifacts
+end_time: 1741257773555
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 2a7b3a692b464020b0d3c3175b8e0f29
+run_name: nimble-ant-915
+run_uuid: 2a7b3a692b464020b0d3c3175b8e0f29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741257769657
+status: 3
+tags: []
+user_id: kyomukama

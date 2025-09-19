@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/d97b3446c3474148aaf88e0686ee3d12/artifacts
+end_time: 1741245775382
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: d97b3446c3474148aaf88e0686ee3d12
+run_name: big-smelt-190
+run_uuid: d97b3446c3474148aaf88e0686ee3d12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741245775273
+status: 3
+tags: []
+user_id: kyomukama

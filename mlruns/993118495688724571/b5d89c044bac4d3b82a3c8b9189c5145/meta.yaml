@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/b5d89c044bac4d3b82a3c8b9189c5145/artifacts
+end_time: 1741241884732
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: b5d89c044bac4d3b82a3c8b9189c5145
+run_name: bemused-deer-885
+run_uuid: b5d89c044bac4d3b82a3c8b9189c5145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241884547
+status: 3
+tags: []
+user_id: kyomukama

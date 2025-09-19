@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/5783f96919c7477ea1c858f6c95bc141/artifacts
+end_time: 1739957171323
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 5783f96919c7477ea1c858f6c95bc141
+run_name: burly-vole-431
+run_uuid: 5783f96919c7477ea1c858f6c95bc141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957170850
+status: 3
+tags: []
+user_id: racheal

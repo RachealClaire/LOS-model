@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/ea699411861543ae97b95ad9f0bab318/artifacts
+end_time: 1739956681552
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: ea699411861543ae97b95ad9f0bab318
+run_name: serious-robin-14
+run_uuid: ea699411861543ae97b95ad9f0bab318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956681290
+status: 3
+tags: []
+user_id: racheal

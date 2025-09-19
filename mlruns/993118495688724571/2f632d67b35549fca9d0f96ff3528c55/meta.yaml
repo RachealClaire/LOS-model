@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/2f632d67b35549fca9d0f96ff3528c55/artifacts
+end_time: 1741246200830
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 2f632d67b35549fca9d0f96ff3528c55
+run_name: honorable-turtle-869
+run_uuid: 2f632d67b35549fca9d0f96ff3528c55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741246197559
+status: 3
+tags: []
+user_id: kyomukama

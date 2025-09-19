@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/69112c74ebfa4c7cb02c56e425bb2165/artifacts
+end_time: 1739968004077
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 69112c74ebfa4c7cb02c56e425bb2165
+run_name: useful-ant-642
+run_uuid: 69112c74ebfa4c7cb02c56e425bb2165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739967988713
+status: 3
+tags: []
+user_id: racheal

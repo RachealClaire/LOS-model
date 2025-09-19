@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/822887533196691341/90685769303c40c698b99adb68ce4618/artifacts
+end_time: 1740477485793
+entry_point_name: ''
+experiment_id: '822887533196691341'
+lifecycle_stage: active
+run_id: 90685769303c40c698b99adb68ce4618
+run_name: lyrical-mouse-539
+run_uuid: 90685769303c40c698b99adb68ce4618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740477477360
+status: 3
+tags: []
+user_id: racheal

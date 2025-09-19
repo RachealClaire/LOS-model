@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/822887533196691341/de54340e9d844b42beecce99338a0f12/artifacts
+end_time: 1741069497691
+entry_point_name: ''
+experiment_id: '822887533196691341'
+lifecycle_stage: active
+run_id: de54340e9d844b42beecce99338a0f12
+run_name: unruly-dove-34
+run_uuid: de54340e9d844b42beecce99338a0f12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741069495106
+status: 3
+tags: []
+user_id: kyomukama

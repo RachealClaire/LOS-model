@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/7ec53e2129594baab9f08a4076f287c7/artifacts
+end_time: 1741245774704
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 7ec53e2129594baab9f08a4076f287c7
+run_name: bright-fish-836
+run_uuid: 7ec53e2129594baab9f08a4076f287c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741245771983
+status: 3
+tags: []
+user_id: kyomukama

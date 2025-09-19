@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/f1bd3871aede4900b050c3300806277b/artifacts
+end_time: 1739965739161
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: f1bd3871aede4900b050c3300806277b
+run_name: incongruous-hare-236
+run_uuid: f1bd3871aede4900b050c3300806277b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965739082
+status: 3
+tags: []
+user_id: racheal

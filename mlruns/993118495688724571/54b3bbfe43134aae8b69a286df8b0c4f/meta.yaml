@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/54b3bbfe43134aae8b69a286df8b0c4f/artifacts
+end_time: 1741082404458
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 54b3bbfe43134aae8b69a286df8b0c4f
+run_name: delightful-snipe-600
+run_uuid: 54b3bbfe43134aae8b69a286df8b0c4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082404241
+status: 3
+tags: []
+user_id: kyomukama

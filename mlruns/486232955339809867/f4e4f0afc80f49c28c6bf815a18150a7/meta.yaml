@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/f4e4f0afc80f49c28c6bf815a18150a7/artifacts
+end_time: 1739957465951
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: f4e4f0afc80f49c28c6bf815a18150a7
+run_name: debonair-moth-288
+run_uuid: f4e4f0afc80f49c28c6bf815a18150a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957465693
+status: 3
+tags: []
+user_id: racheal

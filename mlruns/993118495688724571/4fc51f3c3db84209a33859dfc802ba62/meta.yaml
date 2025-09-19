@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/4fc51f3c3db84209a33859dfc802ba62/artifacts
+end_time: 1740559182010
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 4fc51f3c3db84209a33859dfc802ba62
+run_name: glamorous-dog-742
+run_uuid: 4fc51f3c3db84209a33859dfc802ba62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740559181165
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/89d206a7ac664a24b687fe940ef64382/artifacts
+end_time: 1741082305144
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 89d206a7ac664a24b687fe940ef64382
+run_name: enthused-dolphin-527
+run_uuid: 89d206a7ac664a24b687fe940ef64382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082304921
+status: 3
+tags: []
+user_id: kyomukama

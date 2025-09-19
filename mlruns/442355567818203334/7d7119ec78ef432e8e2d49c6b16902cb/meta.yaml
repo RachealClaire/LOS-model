@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/7d7119ec78ef432e8e2d49c6b16902cb/artifacts
+end_time: 1741085870058
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 7d7119ec78ef432e8e2d49c6b16902cb
+run_name: bold-whale-148
+run_uuid: 7d7119ec78ef432e8e2d49c6b16902cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741085869984
+status: 4
+tags: []
+user_id: kyomukama

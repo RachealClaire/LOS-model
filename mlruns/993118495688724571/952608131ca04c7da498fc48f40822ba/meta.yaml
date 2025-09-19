@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/952608131ca04c7da498fc48f40822ba/artifacts
+end_time: 1741082303789
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 952608131ca04c7da498fc48f40822ba
+run_name: inquisitive-koi-208
+run_uuid: 952608131ca04c7da498fc48f40822ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082303655
+status: 3
+tags: []
+user_id: kyomukama

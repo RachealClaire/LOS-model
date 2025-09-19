@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/4626a53a056c420fa6b16746d259b20e/artifacts
+end_time: 1739957189052
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 4626a53a056c420fa6b16746d259b20e
+run_name: righteous-fly-81
+run_uuid: 4626a53a056c420fa6b16746d259b20e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957188704
+status: 3
+tags: []
+user_id: racheal

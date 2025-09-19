@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/c0ed874d07ba4724bb9083c58c93f6da/artifacts
+end_time: 1741241118091
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: c0ed874d07ba4724bb9083c58c93f6da
+run_name: suave-midge-63
+run_uuid: c0ed874d07ba4724bb9083c58c93f6da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241117965
+status: 3
+tags: []
+user_id: kyomukama

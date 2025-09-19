@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/5bc4f1cef6384c458c23d7a6a90c695c/artifacts
+end_time: 1741004756043
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 5bc4f1cef6384c458c23d7a6a90c695c
+run_name: orderly-ape-303
+run_uuid: 5bc4f1cef6384c458c23d7a6a90c695c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741004753258
+status: 3
+tags: []
+user_id: kyomukama

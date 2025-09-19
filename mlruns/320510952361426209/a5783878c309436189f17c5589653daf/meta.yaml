@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/a5783878c309436189f17c5589653daf/artifacts
+end_time: 1740993792085
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: a5783878c309436189f17c5589653daf
+run_name: mercurial-smelt-671
+run_uuid: a5783878c309436189f17c5589653daf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740993789257
+status: 3
+tags: []
+user_id: kyomukama

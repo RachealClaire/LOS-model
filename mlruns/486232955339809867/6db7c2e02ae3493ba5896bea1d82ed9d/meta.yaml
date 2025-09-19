@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/6db7c2e02ae3493ba5896bea1d82ed9d/artifacts
+end_time: 1739966197549
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 6db7c2e02ae3493ba5896bea1d82ed9d
+run_name: resilient-wolf-262
+run_uuid: 6db7c2e02ae3493ba5896bea1d82ed9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966197145
+status: 3
+tags: []
+user_id: racheal

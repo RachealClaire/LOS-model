@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/a0ae9bab582842fc96d797c74c789a64/artifacts
+end_time: 1739966547349
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: a0ae9bab582842fc96d797c74c789a64
+run_name: invincible-newt-591
+run_uuid: a0ae9bab582842fc96d797c74c789a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966546594
+status: 3
+tags: []
+user_id: racheal

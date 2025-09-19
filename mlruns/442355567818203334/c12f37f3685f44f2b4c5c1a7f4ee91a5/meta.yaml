@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/c12f37f3685f44f2b4c5c1a7f4ee91a5/artifacts
+end_time: 1740915209540
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: c12f37f3685f44f2b4c5c1a7f4ee91a5
+run_name: industrious-cub-761
+run_uuid: c12f37f3685f44f2b4c5c1a7f4ee91a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740915206071
+status: 3
+tags: []
+user_id: kyomukama

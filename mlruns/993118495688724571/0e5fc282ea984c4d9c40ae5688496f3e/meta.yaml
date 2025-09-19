@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/0e5fc282ea984c4d9c40ae5688496f3e/artifacts
+end_time: 1741257689924
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 0e5fc282ea984c4d9c40ae5688496f3e
+run_name: thundering-shrew-792
+run_uuid: 0e5fc282ea984c4d9c40ae5688496f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741257689802
+status: 3
+tags: []
+user_id: kyomukama

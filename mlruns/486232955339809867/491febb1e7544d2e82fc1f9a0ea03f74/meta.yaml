@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/491febb1e7544d2e82fc1f9a0ea03f74/artifacts
+end_time: 1739957072490
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 491febb1e7544d2e82fc1f9a0ea03f74
+run_name: defiant-grouse-605
+run_uuid: 491febb1e7544d2e82fc1f9a0ea03f74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957072322
+status: 3
+tags: []
+user_id: racheal

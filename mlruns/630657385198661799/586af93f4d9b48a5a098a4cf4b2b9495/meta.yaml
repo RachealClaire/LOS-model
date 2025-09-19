@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/586af93f4d9b48a5a098a4cf4b2b9495/artifacts
+end_time: 1741080004278
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 586af93f4d9b48a5a098a4cf4b2b9495
+run_name: brawny-jay-924
+run_uuid: 586af93f4d9b48a5a098a4cf4b2b9495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741080000599
+status: 3
+tags: []
+user_id: kyomukama

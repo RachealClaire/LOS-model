@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/a0ee50d5891d41c3916da2c1b0bb97a1/artifacts
+end_time: 1740984529570
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: a0ee50d5891d41c3916da2c1b0bb97a1
+run_name: mercurial-bee-335
+run_uuid: a0ee50d5891d41c3916da2c1b0bb97a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740984525020
+status: 3
+tags: []
+user_id: kyomukama

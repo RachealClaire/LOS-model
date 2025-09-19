@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/822887533196691341/20edd2f35d5745a689fcf6074cb86bcb/artifacts
+end_time: 1741004873004
+entry_point_name: ''
+experiment_id: '822887533196691341'
+lifecycle_stage: active
+run_id: 20edd2f35d5745a689fcf6074cb86bcb
+run_name: overjoyed-shrimp-229
+run_uuid: 20edd2f35d5745a689fcf6074cb86bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741004868951
+status: 3
+tags: []
+user_id: kyomukama

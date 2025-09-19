@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/da1c9b9c04ed4ae6ba088da9cab98e3f/artifacts
+end_time: 1741241120954
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: da1c9b9c04ed4ae6ba088da9cab98e3f
+run_name: overjoyed-fox-940
+run_uuid: da1c9b9c04ed4ae6ba088da9cab98e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241120805
+status: 3
+tags: []
+user_id: kyomukama

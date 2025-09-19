@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/e3a721d1e3ba4cb884bc926365dc9a5d/artifacts
+end_time: 1741246524296
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: e3a721d1e3ba4cb884bc926365dc9a5d
+run_name: hilarious-mare-202
+run_uuid: e3a721d1e3ba4cb884bc926365dc9a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741246524177
+status: 3
+tags: []
+user_id: kyomukama

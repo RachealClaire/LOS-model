@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/99d77e6f570c415c8d6f3e3205630070/artifacts
+end_time: 1741624608347
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 99d77e6f570c415c8d6f3e3205630070
+run_name: colorful-foal-874
+run_uuid: 99d77e6f570c415c8d6f3e3205630070
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741624608229
+status: 3
+tags: []
+user_id: kyomukama

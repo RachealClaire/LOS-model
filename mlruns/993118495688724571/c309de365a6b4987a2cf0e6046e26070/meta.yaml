@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/c309de365a6b4987a2cf0e6046e26070/artifacts
+end_time: 1741067572936
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: c309de365a6b4987a2cf0e6046e26070
+run_name: redolent-fox-467
+run_uuid: c309de365a6b4987a2cf0e6046e26070
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741067572878
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/5fa038bd74f44db89fa14693a8f813f2/artifacts
+end_time: 1739956775466
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 5fa038bd74f44db89fa14693a8f813f2
+run_name: defiant-bird-88
+run_uuid: 5fa038bd74f44db89fa14693a8f813f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956775045
+status: 3
+tags: []
+user_id: racheal

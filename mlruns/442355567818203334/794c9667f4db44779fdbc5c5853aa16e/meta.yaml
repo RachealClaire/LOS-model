@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/794c9667f4db44779fdbc5c5853aa16e/artifacts
+end_time: 1740464651803
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 794c9667f4db44779fdbc5c5853aa16e
+run_name: amusing-moth-845
+run_uuid: 794c9667f4db44779fdbc5c5853aa16e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740464643098
+status: 3
+tags: []
+user_id: racheal

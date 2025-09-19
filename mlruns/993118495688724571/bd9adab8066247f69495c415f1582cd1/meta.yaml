@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/bd9adab8066247f69495c415f1582cd1/artifacts
+end_time: 1741069207657
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: bd9adab8066247f69495c415f1582cd1
+run_name: adaptable-panda-286
+run_uuid: bd9adab8066247f69495c415f1582cd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741069207593
+status: 3
+tags: []
+user_id: kyomukama

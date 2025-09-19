@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/7f60fb3519e34eab9cf3edc8a7faac6f/artifacts
+end_time: 1740659285285
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 7f60fb3519e34eab9cf3edc8a7faac6f
+run_name: mysterious-worm-351
+run_uuid: 7f60fb3519e34eab9cf3edc8a7faac6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740659284742
+status: 3
+tags: []
+user_id: racheal

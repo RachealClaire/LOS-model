@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741676543600
+current_stage: None
+description: ''
+last_updated_timestamp: 1741676543600
+name: GB Regressor model
+run_id: b8c2ef6945134675b133fe1d0648273d
+run_link: ''
+source: mlflow-artifacts:/442355567818203334/b8c2ef6945134675b133fe1d0648273d/artifacts/growth
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/442355567818203334/b8c2ef6945134675b133fe1d0648273d/artifacts/growth
+user_id: null
+version: 44

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/35c096466d6246a388339ad1531cf096/artifacts
+end_time: 1739956944796
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 35c096466d6246a388339ad1531cf096
+run_name: secretive-asp-651
+run_uuid: 35c096466d6246a388339ad1531cf096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956944175
+status: 3
+tags: []
+user_id: racheal

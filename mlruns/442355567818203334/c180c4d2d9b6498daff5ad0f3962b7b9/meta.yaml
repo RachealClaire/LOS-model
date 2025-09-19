@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/c180c4d2d9b6498daff5ad0f3962b7b9/artifacts
+end_time: 1740474381888
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: c180c4d2d9b6498daff5ad0f3962b7b9
+run_name: skittish-dog-840
+run_uuid: c180c4d2d9b6498daff5ad0f3962b7b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740474374078
+status: 3
+tags: []
+user_id: racheal

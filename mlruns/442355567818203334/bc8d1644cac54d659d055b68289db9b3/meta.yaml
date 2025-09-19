@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/bc8d1644cac54d659d055b68289db9b3/artifacts
+end_time: 1740559714029
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: bc8d1644cac54d659d055b68289db9b3
+run_name: calm-cub-589
+run_uuid: bc8d1644cac54d659d055b68289db9b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740559707506
+status: 3
+tags: []
+user_id: racheal

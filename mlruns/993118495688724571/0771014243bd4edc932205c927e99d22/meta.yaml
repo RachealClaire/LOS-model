@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/0771014243bd4edc932205c927e99d22/artifacts
+end_time: 1739967885143
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 0771014243bd4edc932205c927e99d22
+run_name: efficient-mule-219
+run_uuid: 0771014243bd4edc932205c927e99d22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739967853959
+status: 3
+tags: []
+user_id: racheal

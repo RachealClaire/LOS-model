@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/8c5f3c02de254c438fc55ea5f487da90/artifacts
+end_time: 1739966256983
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 8c5f3c02de254c438fc55ea5f487da90
+run_name: upbeat-mare-363
+run_uuid: 8c5f3c02de254c438fc55ea5f487da90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966256495
+status: 3
+tags: []
+user_id: racheal

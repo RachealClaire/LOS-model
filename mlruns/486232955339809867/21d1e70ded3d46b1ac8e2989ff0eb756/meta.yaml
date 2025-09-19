@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/21d1e70ded3d46b1ac8e2989ff0eb756/artifacts
+end_time: 1739957094591
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 21d1e70ded3d46b1ac8e2989ff0eb756
+run_name: colorful-crow-381
+run_uuid: 21d1e70ded3d46b1ac8e2989ff0eb756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957094249
+status: 3
+tags: []
+user_id: racheal

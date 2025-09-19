@@ -1,0 +1,44 @@
+artifact_path: growth
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 143525
+model_uuid: 3e86fb1814fa4a6091b30ff6b27ff27a
+run_id: 978c081918f3486c88b1af0387ee2ba2
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "age", "required": true}, {"type": "long",
+    "name": "name_of_rrh", "required": true}, {"type": "long", "name": "Antibioitic_aft_cul_1",
+    "required": true}, {"type": "long", "name": "first_organism", "required": true},
+    {"type": "long", "name": "Infection_Site_1", "required": true}, {"type": "long",
+    "name": "Resistance", "required": true}, {"type": "long", "name": "organism_isolated",
+    "required": true}, {"type": "long", "name": "ward", "required": true}, {"type":
+    "long", "name": "complications", "required": true}, {"type": "long", "name": "Prescribed_antib_2",
+    "required": true}, {"type": "long", "name": "Infection_Site_2", "required": true},
+    {"type": "long", "name": "Prescribed_antib_1", "required": true}, {"type": "long",
+    "name": "hiv_status", "required": true}, {"type": "long", "name": "sympt_dura",
+    "required": true}, {"type": "long", "name": "antib_prior_admi", "required": true},
+    {"type": "long", "name": "sex", "required": true}, {"type": "long", "name": "sec_organism",
+    "required": true}, {"type": "long", "name": "cormobid_condition", "required":
+    true}, {"type": "long", "name": "referral", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-04 10:12:35.078979'

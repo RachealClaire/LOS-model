@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/95ea471909304a2db93244141f975c97/artifacts
+end_time: 1740467767603
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 95ea471909304a2db93244141f975c97
+run_name: dazzling-whale-827
+run_uuid: 95ea471909304a2db93244141f975c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740467766510
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/d67f92a3162546fea9742863f49ad993/artifacts
+end_time: 1739956876202
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: d67f92a3162546fea9742863f49ad993
+run_name: able-trout-48
+run_uuid: d67f92a3162546fea9742863f49ad993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956876036
+status: 3
+tags: []
+user_id: racheal

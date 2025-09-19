@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/ace9c78525cb43b596d24818eb5f2593/artifacts
+end_time: 1739957158120
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: ace9c78525cb43b596d24818eb5f2593
+run_name: zealous-wren-190
+run_uuid: ace9c78525cb43b596d24818eb5f2593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957157644
+status: 3
+tags: []
+user_id: racheal

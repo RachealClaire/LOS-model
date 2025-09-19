@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/abdd885ee0e0433287904450ec2101ff/artifacts
+end_time: 1740660861129
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: abdd885ee0e0433287904450ec2101ff
+run_name: masked-panda-261
+run_uuid: abdd885ee0e0433287904450ec2101ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740660851014
+status: 3
+tags: []
+user_id: racheal

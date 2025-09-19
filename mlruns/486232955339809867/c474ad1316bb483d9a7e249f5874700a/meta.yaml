@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/c474ad1316bb483d9a7e249f5874700a/artifacts
+end_time: 1739956670980
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: c474ad1316bb483d9a7e249f5874700a
+run_name: angry-pig-18
+run_uuid: c474ad1316bb483d9a7e249f5874700a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956670851
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/bf93aea4cbf44b2686ca3cf8769b1a78/artifacts
+end_time: 1740654181284
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: bf93aea4cbf44b2686ca3cf8769b1a78
+run_name: fearless-lark-110
+run_uuid: bf93aea4cbf44b2686ca3cf8769b1a78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740654180089
+status: 3
+tags: []
+user_id: racheal

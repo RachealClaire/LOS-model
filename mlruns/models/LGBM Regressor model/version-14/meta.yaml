@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741007111576
+current_stage: None
+description: ''
+last_updated_timestamp: 1741007111576
+name: LGBM Regressor model
+run_id: e53a065384df492f8414f6d20355c7fc
+run_link: ''
+source: mlflow-artifacts:/822887533196691341/e53a065384df492f8414f6d20355c7fc/artifacts/growth
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/822887533196691341/e53a065384df492f8414f6d20355c7fc/artifacts/growth
+user_id: null
+version: 14

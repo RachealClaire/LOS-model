@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/2c7db0cae8f2430ba7daf1a1f2c26110/artifacts
+end_time: 1740040405185
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 2c7db0cae8f2430ba7daf1a1f2c26110
+run_name: bemused-wolf-15
+run_uuid: 2c7db0cae8f2430ba7daf1a1f2c26110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740040395418
+status: 3
+tags: []
+user_id: racheal

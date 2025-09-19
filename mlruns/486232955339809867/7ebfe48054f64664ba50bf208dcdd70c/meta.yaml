@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/7ebfe48054f64664ba50bf208dcdd70c/artifacts
+end_time: 1739957184948
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 7ebfe48054f64664ba50bf208dcdd70c
+run_name: big-yak-694
+run_uuid: 7ebfe48054f64664ba50bf208dcdd70c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957184787
+status: 3
+tags: []
+user_id: racheal

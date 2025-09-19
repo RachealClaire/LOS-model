@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/7e283678882d4341b0709268b8bdafe5/artifacts
+end_time: 1740466352669
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 7e283678882d4341b0709268b8bdafe5
+run_name: placid-worm-619
+run_uuid: 7e283678882d4341b0709268b8bdafe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740466351648
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740579972903
+current_stage: None
+description: ''
+last_updated_timestamp: 1740579972903
+name: XGB Regressor model
+run_id: 2c72a8bf56cd431fa131373999a3e8ef
+run_link: ''
+source: mlflow-artifacts:/317490332836945887/2c72a8bf56cd431fa131373999a3e8ef/artifacts/growth
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/317490332836945887/2c72a8bf56cd431fa131373999a3e8ef/artifacts/growth
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/607cc93dcaa04e8e94aed5d4c66aa203/artifacts
+end_time: 1739957195545
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 607cc93dcaa04e8e94aed5d4c66aa203
+run_name: abrasive-smelt-405
+run_uuid: 607cc93dcaa04e8e94aed5d4c66aa203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957195414
+status: 3
+tags: []
+user_id: racheal

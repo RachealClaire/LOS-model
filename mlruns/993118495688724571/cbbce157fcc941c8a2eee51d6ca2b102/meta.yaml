@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/cbbce157fcc941c8a2eee51d6ca2b102/artifacts
+end_time: 1741082402816
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: cbbce157fcc941c8a2eee51d6ca2b102
+run_name: unique-wren-983
+run_uuid: cbbce157fcc941c8a2eee51d6ca2b102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082402666
+status: 3
+tags: []
+user_id: kyomukama

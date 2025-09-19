@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/d538d0fcfc6347808e1ba28fb217c22c/artifacts
+end_time: 1739956951091
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: d538d0fcfc6347808e1ba28fb217c22c
+run_name: kindly-finch-733
+run_uuid: d538d0fcfc6347808e1ba28fb217c22c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956950844
+status: 3
+tags: []
+user_id: racheal

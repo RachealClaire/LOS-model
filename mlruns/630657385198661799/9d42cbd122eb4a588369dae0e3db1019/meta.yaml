@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/9d42cbd122eb4a588369dae0e3db1019/artifacts
+end_time: 1741243443100
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 9d42cbd122eb4a588369dae0e3db1019
+run_name: stately-crow-963
+run_uuid: 9d42cbd122eb4a588369dae0e3db1019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741243440022
+status: 3
+tags: []
+user_id: kyomukama

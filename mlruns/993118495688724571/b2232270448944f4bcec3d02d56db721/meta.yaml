@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/b2232270448944f4bcec3d02d56db721/artifacts
+end_time: 1740659271828
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: b2232270448944f4bcec3d02d56db721
+run_name: funny-rat-728
+run_uuid: b2232270448944f4bcec3d02d56db721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740659271286
+status: 3
+tags: []
+user_id: racheal

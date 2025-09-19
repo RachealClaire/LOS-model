@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/1533e59cd790438d9e446978d7b84271/artifacts
+end_time: 1739957256126
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 1533e59cd790438d9e446978d7b84271
+run_name: upset-skunk-319
+run_uuid: 1533e59cd790438d9e446978d7b84271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957255975
+status: 3
+tags: []
+user_id: racheal

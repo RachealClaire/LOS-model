@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/f19f35792f7f4754943ce821ecdec311/artifacts
+end_time: 1741083182810
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: f19f35792f7f4754943ce821ecdec311
+run_name: whimsical-kite-797
+run_uuid: f19f35792f7f4754943ce821ecdec311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741083178496
+status: 3
+tags: []
+user_id: kyomukama

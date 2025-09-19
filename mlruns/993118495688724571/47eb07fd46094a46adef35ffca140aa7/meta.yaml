@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/47eb07fd46094a46adef35ffca140aa7/artifacts
+end_time: 1739967915129
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 47eb07fd46094a46adef35ffca140aa7
+run_name: intrigued-ray-90
+run_uuid: 47eb07fd46094a46adef35ffca140aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739967900819
+status: 3
+tags: []
+user_id: racheal

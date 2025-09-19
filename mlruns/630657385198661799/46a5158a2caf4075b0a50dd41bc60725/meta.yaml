@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/46a5158a2caf4075b0a50dd41bc60725/artifacts
+end_time: 1741243994899
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 46a5158a2caf4075b0a50dd41bc60725
+run_name: charming-yak-487
+run_uuid: 46a5158a2caf4075b0a50dd41bc60725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741243992182
+status: 3
+tags: []
+user_id: kyomukama

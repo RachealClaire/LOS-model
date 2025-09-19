@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/783d1250e1f9402ab148b34a2cd3225c/artifacts
+end_time: 1739965848216
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 783d1250e1f9402ab148b34a2cd3225c
+run_name: respected-lamb-15
+run_uuid: 783d1250e1f9402ab148b34a2cd3225c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965847630
+status: 3
+tags: []
+user_id: racheal

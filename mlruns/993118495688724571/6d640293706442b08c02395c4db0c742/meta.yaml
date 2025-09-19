@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/6d640293706442b08c02395c4db0c742/artifacts
+end_time: 1741082592163
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 6d640293706442b08c02395c4db0c742
+run_name: silent-kite-268
+run_uuid: 6d640293706442b08c02395c4db0c742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082587593
+status: 3
+tags: []
+user_id: kyomukama

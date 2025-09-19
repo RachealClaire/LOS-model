@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/e614f1cdc4f944fe8ffd479d0d9b24be/artifacts
+end_time: 1741257688317
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: e614f1cdc4f944fe8ffd479d0d9b24be
+run_name: legendary-lynx-102
+run_uuid: e614f1cdc4f944fe8ffd479d0d9b24be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741257688205
+status: 3
+tags: []
+user_id: kyomukama

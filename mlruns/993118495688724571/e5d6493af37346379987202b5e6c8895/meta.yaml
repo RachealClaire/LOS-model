@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/e5d6493af37346379987202b5e6c8895/artifacts
+end_time: 1741682124853
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: e5d6493af37346379987202b5e6c8895
+run_name: debonair-sheep-327
+run_uuid: e5d6493af37346379987202b5e6c8895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741682124746
+status: 3
+tags: []
+user_id: kyomukama

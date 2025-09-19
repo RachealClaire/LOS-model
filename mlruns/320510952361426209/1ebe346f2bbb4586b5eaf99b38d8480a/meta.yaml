@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/1ebe346f2bbb4586b5eaf99b38d8480a/artifacts
+end_time: 1740994135495
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 1ebe346f2bbb4586b5eaf99b38d8480a
+run_name: marvelous-shrew-140
+run_uuid: 1ebe346f2bbb4586b5eaf99b38d8480a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740994131423
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/294c08d001eb4da39fa8b04f9c532ce1/artifacts
+end_time: 1741165057585
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 294c08d001eb4da39fa8b04f9c532ce1
+run_name: unequaled-bat-407
+run_uuid: 294c08d001eb4da39fa8b04f9c532ce1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741165057517
+status: 3
+tags: []
+user_id: kyomukama

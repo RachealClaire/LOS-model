@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/b52670d1620744a3a285ec150ed743fe/artifacts
+end_time: 1739966536645
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: b52670d1620744a3a285ec150ed743fe
+run_name: delightful-pig-420
+run_uuid: b52670d1620744a3a285ec150ed743fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966536012
+status: 3
+tags: []
+user_id: racheal

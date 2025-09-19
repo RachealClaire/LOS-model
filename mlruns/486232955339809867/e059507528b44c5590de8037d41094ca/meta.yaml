@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/e059507528b44c5590de8037d41094ca/artifacts
+end_time: 1739966391797
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: e059507528b44c5590de8037d41094ca
+run_name: kindly-whale-152
+run_uuid: e059507528b44c5590de8037d41094ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966391417
+status: 3
+tags: []
+user_id: racheal

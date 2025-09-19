@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/53cdbfd15c9d44e4814a581748e2a716/artifacts
+end_time: 1741685889879
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 53cdbfd15c9d44e4814a581748e2a716
+run_name: calm-cub-194
+run_uuid: 53cdbfd15c9d44e4814a581748e2a716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741685888084
+status: 3
+tags: []
+user_id: kyomukama

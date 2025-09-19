@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/6442e522445d48c08d9affbc80e0b2be/artifacts
+end_time: 1741681933789
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 6442e522445d48c08d9affbc80e0b2be
+run_name: useful-shrike-614
+run_uuid: 6442e522445d48c08d9affbc80e0b2be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741681930213
+status: 3
+tags: []
+user_id: kyomukama

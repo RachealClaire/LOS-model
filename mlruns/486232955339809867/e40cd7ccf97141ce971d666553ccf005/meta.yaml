@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/e40cd7ccf97141ce971d666553ccf005/artifacts
+end_time: 1739956699676
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: e40cd7ccf97141ce971d666553ccf005
+run_name: powerful-zebra-20
+run_uuid: e40cd7ccf97141ce971d666553ccf005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956699347
+status: 3
+tags: []
+user_id: racheal

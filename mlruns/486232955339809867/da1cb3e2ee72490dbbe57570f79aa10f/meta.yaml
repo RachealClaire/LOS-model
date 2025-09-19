@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/da1cb3e2ee72490dbbe57570f79aa10f/artifacts
+end_time: 1739966166531
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: da1cb3e2ee72490dbbe57570f79aa10f
+run_name: useful-carp-376
+run_uuid: da1cb3e2ee72490dbbe57570f79aa10f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966166084
+status: 3
+tags: []
+user_id: racheal

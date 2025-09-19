@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/3a4d6a1d76c34211a746ff75769a02d1/artifacts
+end_time: 1741241885251
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 3a4d6a1d76c34211a746ff75769a02d1
+run_name: treasured-eel-531
+run_uuid: 3a4d6a1d76c34211a746ff75769a02d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241885093
+status: 3
+tags: []
+user_id: kyomukama

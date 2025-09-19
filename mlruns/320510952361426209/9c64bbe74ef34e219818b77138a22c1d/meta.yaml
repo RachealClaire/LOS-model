@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/9c64bbe74ef34e219818b77138a22c1d/artifacts
+end_time: 1740993997608
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 9c64bbe74ef34e219818b77138a22c1d
+run_name: exultant-conch-677
+run_uuid: 9c64bbe74ef34e219818b77138a22c1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740993993639
+status: 3
+tags: []
+user_id: kyomukama

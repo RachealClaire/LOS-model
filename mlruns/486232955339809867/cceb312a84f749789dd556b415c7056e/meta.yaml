@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/cceb312a84f749789dd556b415c7056e/artifacts
+end_time: 1739957162949
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: cceb312a84f749789dd556b415c7056e
+run_name: able-whale-692
+run_uuid: cceb312a84f749789dd556b415c7056e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957162769
+status: 3
+tags: []
+user_id: racheal

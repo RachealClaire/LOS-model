@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/894d45ee94d540fcb8ccda6e3d4e734b/artifacts
+end_time: 1741624937777
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 894d45ee94d540fcb8ccda6e3d4e734b
+run_name: illustrious-flea-764
+run_uuid: 894d45ee94d540fcb8ccda6e3d4e734b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741624935062
+status: 3
+tags: []
+user_id: kyomukama

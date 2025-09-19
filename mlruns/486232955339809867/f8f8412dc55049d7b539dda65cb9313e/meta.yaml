@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/f8f8412dc55049d7b539dda65cb9313e/artifacts
+end_time: 1739956931552
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: f8f8412dc55049d7b539dda65cb9313e
+run_name: languid-fowl-490
+run_uuid: f8f8412dc55049d7b539dda65cb9313e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956931391
+status: 3
+tags: []
+user_id: racheal

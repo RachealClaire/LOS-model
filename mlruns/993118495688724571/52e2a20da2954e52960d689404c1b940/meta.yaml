@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/52e2a20da2954e52960d689404c1b940/artifacts
+end_time: 1741624611106
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 52e2a20da2954e52960d689404c1b940
+run_name: capricious-rat-663
+run_uuid: 52e2a20da2954e52960d689404c1b940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741624610977
+status: 3
+tags: []
+user_id: kyomukama

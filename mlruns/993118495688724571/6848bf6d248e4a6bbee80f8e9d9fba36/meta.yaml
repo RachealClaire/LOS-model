@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/6848bf6d248e4a6bbee80f8e9d9fba36/artifacts
+end_time: 1740654174581
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 6848bf6d248e4a6bbee80f8e9d9fba36
+run_name: dashing-deer-147
+run_uuid: 6848bf6d248e4a6bbee80f8e9d9fba36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740654173882
+status: 3
+tags: []
+user_id: racheal

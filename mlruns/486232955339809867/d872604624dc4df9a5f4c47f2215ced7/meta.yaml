@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/d872604624dc4df9a5f4c47f2215ced7/artifacts
+end_time: 1739965933347
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: d872604624dc4df9a5f4c47f2215ced7
+run_name: serious-lamb-463
+run_uuid: d872604624dc4df9a5f4c47f2215ced7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965932975
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/d9426bf3e4eb46c983ff3f0476149fcf/artifacts
+end_time: 1741241118919
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: d9426bf3e4eb46c983ff3f0476149fcf
+run_name: crawling-fowl-218
+run_uuid: d9426bf3e4eb46c983ff3f0476149fcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241118779
+status: 3
+tags: []
+user_id: kyomukama

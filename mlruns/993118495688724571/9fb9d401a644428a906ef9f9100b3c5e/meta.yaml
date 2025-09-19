@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/9fb9d401a644428a906ef9f9100b3c5e/artifacts
+end_time: 1741165057856
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 9fb9d401a644428a906ef9f9100b3c5e
+run_name: luminous-panda-576
+run_uuid: 9fb9d401a644428a906ef9f9100b3c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741165057803
+status: 3
+tags: []
+user_id: kyomukama

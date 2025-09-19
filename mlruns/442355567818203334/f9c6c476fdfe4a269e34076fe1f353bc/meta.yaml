@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/f9c6c476fdfe4a269e34076fe1f353bc/artifacts
+end_time: 1740474312313
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: f9c6c476fdfe4a269e34076fe1f353bc
+run_name: sedate-penguin-341
+run_uuid: f9c6c476fdfe4a269e34076fe1f353bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740474303821
+status: 3
+tags: []
+user_id: racheal

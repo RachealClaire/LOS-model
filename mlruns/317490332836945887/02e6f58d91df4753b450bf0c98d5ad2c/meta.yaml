@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/317490332836945887/02e6f58d91df4753b450bf0c98d5ad2c/artifacts
+end_time: 1741003866240
+entry_point_name: ''
+experiment_id: '317490332836945887'
+lifecycle_stage: active
+run_id: 02e6f58d91df4753b450bf0c98d5ad2c
+run_name: tasteful-fly-49
+run_uuid: 02e6f58d91df4753b450bf0c98d5ad2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003860999
+status: 3
+tags: []
+user_id: kyomukama

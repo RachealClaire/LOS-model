@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/ab70b8ce7f434f25a564c1200823c2a3/artifacts
+end_time: 1739966415047
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: ab70b8ce7f434f25a564c1200823c2a3
+run_name: dazzling-smelt-168
+run_uuid: ab70b8ce7f434f25a564c1200823c2a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966414546
+status: 3
+tags: []
+user_id: racheal

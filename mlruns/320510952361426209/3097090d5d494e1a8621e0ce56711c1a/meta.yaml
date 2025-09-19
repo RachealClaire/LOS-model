@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/3097090d5d494e1a8621e0ce56711c1a/artifacts
+end_time: 1740994139870
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 3097090d5d494e1a8621e0ce56711c1a
+run_name: bustling-goat-866
+run_uuid: 3097090d5d494e1a8621e0ce56711c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740994135776
+status: 3
+tags: []
+user_id: kyomukama

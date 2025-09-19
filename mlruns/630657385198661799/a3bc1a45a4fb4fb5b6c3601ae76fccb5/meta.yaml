@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/a3bc1a45a4fb4fb5b6c3601ae76fccb5/artifacts
+end_time: 1741069541180
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: a3bc1a45a4fb4fb5b6c3601ae76fccb5
+run_name: popular-hawk-686
+run_uuid: a3bc1a45a4fb4fb5b6c3601ae76fccb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741069539413
+status: 3
+tags: []
+user_id: kyomukama

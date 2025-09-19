@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/35bfc1a3014b49cba9544534b0c60dab/artifacts
+end_time: 1741257689107
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 35bfc1a3014b49cba9544534b0c60dab
+run_name: flawless-ray-604
+run_uuid: 35bfc1a3014b49cba9544534b0c60dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741257688993
+status: 3
+tags: []
+user_id: kyomukama

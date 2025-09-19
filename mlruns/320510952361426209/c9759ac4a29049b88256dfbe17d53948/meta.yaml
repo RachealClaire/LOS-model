@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/c9759ac4a29049b88256dfbe17d53948/artifacts
+end_time: 1741069215992
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: c9759ac4a29049b88256dfbe17d53948
+run_name: suave-deer-80
+run_uuid: c9759ac4a29049b88256dfbe17d53948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741069214104
+status: 3
+tags: []
+user_id: kyomukama

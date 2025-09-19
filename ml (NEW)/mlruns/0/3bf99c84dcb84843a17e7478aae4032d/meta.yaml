@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyomukama/ACE/camonet/ml%20%28NEW%29/mlruns/0/3bf99c84dcb84843a17e7478aae4032d/artifacts
+end_time: 1741785281898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bf99c84dcb84843a17e7478aae4032d
+run_name: luminous-ram-232
+run_uuid: 3bf99c84dcb84843a17e7478aae4032d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741785279207
+status: 3
+tags: []
+user_id: kyomukama

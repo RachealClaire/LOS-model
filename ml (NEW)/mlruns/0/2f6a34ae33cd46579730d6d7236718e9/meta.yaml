@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyomukama/ACE/camonet/ml%20%28NEW%29/mlruns/0/2f6a34ae33cd46579730d6d7236718e9/artifacts
+end_time: 1741624602875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f6a34ae33cd46579730d6d7236718e9
+run_name: smiling-cod-191
+run_uuid: 2f6a34ae33cd46579730d6d7236718e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741624598324
+status: 3
+tags: []
+user_id: kyomukama

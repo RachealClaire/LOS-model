@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyomukama/ACE/camonet/ml%20%28NEW%29/mlruns/0/abc0e18e50d74dc6969268b7b03fdb6e/artifacts
+end_time: 1745478332560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abc0e18e50d74dc6969268b7b03fdb6e
+run_name: big-asp-319
+run_uuid: abc0e18e50d74dc6969268b7b03fdb6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745478327029
+status: 3
+tags: []
+user_id: kyomukama

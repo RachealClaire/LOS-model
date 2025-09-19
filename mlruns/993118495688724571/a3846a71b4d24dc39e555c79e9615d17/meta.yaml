@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/a3846a71b4d24dc39e555c79e9615d17/artifacts
+end_time: 1739967845287
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: a3846a71b4d24dc39e555c79e9615d17
+run_name: sedate-shrimp-14
+run_uuid: a3846a71b4d24dc39e555c79e9615d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739967839889
+status: 3
+tags: []
+user_id: racheal

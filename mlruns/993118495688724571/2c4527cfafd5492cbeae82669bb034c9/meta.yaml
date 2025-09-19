@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/2c4527cfafd5492cbeae82669bb034c9/artifacts
+end_time: 1740398130177
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 2c4527cfafd5492cbeae82669bb034c9
+run_name: likeable-crane-745
+run_uuid: 2c4527cfafd5492cbeae82669bb034c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740398129466
+status: 3
+tags: []
+user_id: racheal

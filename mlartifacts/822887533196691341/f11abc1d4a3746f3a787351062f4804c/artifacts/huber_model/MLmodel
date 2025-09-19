@@ -1,0 +1,30 @@
+artifact_path: huber_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 990
+model_uuid: 640c4d91f8744a0eb01b1235d15976cd
+run_id: f11abc1d4a3746f3a787351062f4804c
+signature:
+  inputs: '[{"type": "long", "name": "name_of_rrh", "required": true}, {"type": "long",
+    "name": "ward", "required": true}, {"type": "double", "name": "age", "required":
+    true}, {"type": "long", "name": "sex", "required": true}, {"type": "long", "name":
+    "cormobid_condition", "required": true}, {"type": "long", "name": "Resistance",
+    "required": true}, {"type": "long", "name": "referral", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-03 12:25:21.741856'

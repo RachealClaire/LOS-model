@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/8dbebfcb5bf74568923dbd84db6185a4/artifacts
+end_time: 1740654176341
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 8dbebfcb5bf74568923dbd84db6185a4
+run_name: overjoyed-slug-435
+run_uuid: 8dbebfcb5bf74568923dbd84db6185a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740654175584
+status: 3
+tags: []
+user_id: racheal

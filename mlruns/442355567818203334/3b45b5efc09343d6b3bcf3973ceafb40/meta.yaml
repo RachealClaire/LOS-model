@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/3b45b5efc09343d6b3bcf3973ceafb40/artifacts
+end_time: 1740660046292
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 3b45b5efc09343d6b3bcf3973ceafb40
+run_name: mercurial-slug-77
+run_uuid: 3b45b5efc09343d6b3bcf3973ceafb40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740660025233
+status: 3
+tags: []
+user_id: racheal

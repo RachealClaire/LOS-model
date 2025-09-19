@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/a1d86d278ccb4f4ebea799abd5fdccfa/artifacts
+end_time: 1739957048817
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: a1d86d278ccb4f4ebea799abd5fdccfa
+run_name: melodic-dog-355
+run_uuid: a1d86d278ccb4f4ebea799abd5fdccfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957048380
+status: 3
+tags: []
+user_id: racheal

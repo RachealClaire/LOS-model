@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/11a6aaad588b4de196702ae872bc2098/artifacts
+end_time: 1740472452898
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 11a6aaad588b4de196702ae872bc2098
+run_name: adventurous-loon-651
+run_uuid: 11a6aaad588b4de196702ae872bc2098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740472451846
+status: 3
+tags: []
+user_id: racheal

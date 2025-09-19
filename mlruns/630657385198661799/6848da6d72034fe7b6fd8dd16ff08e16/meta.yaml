@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/6848da6d72034fe7b6fd8dd16ff08e16/artifacts
+end_time: 1740660987825
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 6848da6d72034fe7b6fd8dd16ff08e16
+run_name: mysterious-newt-186
+run_uuid: 6848da6d72034fe7b6fd8dd16ff08e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740660976819
+status: 3
+tags: []
+user_id: racheal

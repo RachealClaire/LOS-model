@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/5c0aa424decb474f9d3eb610d57cd6b4/artifacts
+end_time: 1741257953409
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 5c0aa424decb474f9d3eb610d57cd6b4
+run_name: bouncy-boar-163
+run_uuid: 5c0aa424decb474f9d3eb610d57cd6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741257949592
+status: 3
+tags: []
+user_id: kyomukama

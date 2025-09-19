@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/195726cf7eb94eb98a44c27b74f74825/artifacts
+end_time: 1740559182722
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 195726cf7eb94eb98a44c27b74f74825
+run_name: powerful-ox-91
+run_uuid: 195726cf7eb94eb98a44c27b74f74825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740559182060
+status: 3
+tags: []
+user_id: racheal

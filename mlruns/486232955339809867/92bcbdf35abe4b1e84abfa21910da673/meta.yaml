@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/92bcbdf35abe4b1e84abfa21910da673/artifacts
+end_time: 1739956743444
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 92bcbdf35abe4b1e84abfa21910da673
+run_name: dashing-yak-307
+run_uuid: 92bcbdf35abe4b1e84abfa21910da673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956743072
+status: 3
+tags: []
+user_id: racheal

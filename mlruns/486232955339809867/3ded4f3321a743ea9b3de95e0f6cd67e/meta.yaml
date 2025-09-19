@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/3ded4f3321a743ea9b3de95e0f6cd67e/artifacts
+end_time: 1739966222536
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 3ded4f3321a743ea9b3de95e0f6cd67e
+run_name: skittish-gnat-720
+run_uuid: 3ded4f3321a743ea9b3de95e0f6cd67e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966222029
+status: 3
+tags: []
+user_id: racheal

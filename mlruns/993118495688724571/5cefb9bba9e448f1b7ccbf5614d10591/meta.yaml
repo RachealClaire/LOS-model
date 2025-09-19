@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/5cefb9bba9e448f1b7ccbf5614d10591/artifacts
+end_time: 1740654178199
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 5cefb9bba9e448f1b7ccbf5614d10591
+run_name: monumental-steed-335
+run_uuid: 5cefb9bba9e448f1b7ccbf5614d10591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740654177231
+status: 3
+tags: []
+user_id: racheal

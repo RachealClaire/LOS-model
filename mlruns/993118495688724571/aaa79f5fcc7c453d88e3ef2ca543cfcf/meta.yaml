@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/aaa79f5fcc7c453d88e3ef2ca543cfcf/artifacts
+end_time: 1739974490270
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: aaa79f5fcc7c453d88e3ef2ca543cfcf
+run_name: calm-loon-138
+run_uuid: aaa79f5fcc7c453d88e3ef2ca543cfcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739974480833
+status: 3
+tags: []
+user_id: racheal

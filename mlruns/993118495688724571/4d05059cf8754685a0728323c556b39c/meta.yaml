@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/4d05059cf8754685a0728323c556b39c/artifacts
+end_time: 1741624610316
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 4d05059cf8754685a0728323c556b39c
+run_name: secretive-newt-430
+run_uuid: 4d05059cf8754685a0728323c556b39c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741624610173
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/af7c8025a8ba4c55bff3661c737ca13c/artifacts
+end_time: 1741624609401
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: af7c8025a8ba4c55bff3661c737ca13c
+run_name: caring-rook-398
+run_uuid: af7c8025a8ba4c55bff3661c737ca13c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741624609303
+status: 3
+tags: []
+user_id: kyomukama

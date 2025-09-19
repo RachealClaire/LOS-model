@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/d4427e52e50d4754be1f660ccb54c297/artifacts
+end_time: 1741082401686
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: d4427e52e50d4754be1f660ccb54c297
+run_name: redolent-gnat-304
+run_uuid: d4427e52e50d4754be1f660ccb54c297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082401495
+status: 3
+tags: []
+user_id: kyomukama

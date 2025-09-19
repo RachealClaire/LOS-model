@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/7b8fe301dde3469da78aa7aa9da62687/artifacts
+end_time: 1741069207249
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 7b8fe301dde3469da78aa7aa9da62687
+run_name: rare-sponge-287
+run_uuid: 7b8fe301dde3469da78aa7aa9da62687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741069207182
+status: 3
+tags: []
+user_id: kyomukama

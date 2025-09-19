@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/666d2d2baaef4c8e941feb57c830953f/artifacts
+end_time: 1739965868755
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 666d2d2baaef4c8e941feb57c830953f
+run_name: exultant-cow-67
+run_uuid: 666d2d2baaef4c8e941feb57c830953f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965868549
+status: 3
+tags: []
+user_id: racheal

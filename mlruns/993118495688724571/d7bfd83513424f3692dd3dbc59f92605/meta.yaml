@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/d7bfd83513424f3692dd3dbc59f92605/artifacts
+end_time: 1741067572812
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: d7bfd83513424f3692dd3dbc59f92605
+run_name: welcoming-goose-971
+run_uuid: d7bfd83513424f3692dd3dbc59f92605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741067572751
+status: 3
+tags: []
+user_id: kyomukama

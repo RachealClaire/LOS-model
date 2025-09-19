@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/bfac9d9b56d44898a42ce51c31b272eb/artifacts
+end_time: 1740467758496
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: bfac9d9b56d44898a42ce51c31b272eb
+run_name: bustling-auk-725
+run_uuid: bfac9d9b56d44898a42ce51c31b272eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740467757681
+status: 3
+tags: []
+user_id: racheal

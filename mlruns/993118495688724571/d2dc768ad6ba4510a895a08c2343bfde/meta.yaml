@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/d2dc768ad6ba4510a895a08c2343bfde/artifacts
+end_time: 1739969014619
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: d2dc768ad6ba4510a895a08c2343bfde
+run_name: sincere-ant-357
+run_uuid: d2dc768ad6ba4510a895a08c2343bfde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739969014050
+status: 3
+tags: []
+user_id: racheal

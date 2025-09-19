@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/1be101a331b447d481d497e1b50d98db/artifacts
+end_time: 1739966531099
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 1be101a331b447d481d497e1b50d98db
+run_name: righteous-slug-97
+run_uuid: 1be101a331b447d481d497e1b50d98db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966530729
+status: 3
+tags: []
+user_id: racheal

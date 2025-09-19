@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/1103b72d07b1469f9e04eb7f795dc1b0/artifacts
+end_time: 1741072616754
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 1103b72d07b1469f9e04eb7f795dc1b0
+run_name: hilarious-horse-892
+run_uuid: 1103b72d07b1469f9e04eb7f795dc1b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741072613472
+status: 3
+tags: []
+user_id: kyomukama

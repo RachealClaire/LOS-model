@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/50a91da99483489585aeeef51dc3641e/artifacts
+end_time: 1739965903282
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 50a91da99483489585aeeef51dc3641e
+run_name: sassy-grouse-597
+run_uuid: 50a91da99483489585aeeef51dc3641e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965902838
+status: 3
+tags: []
+user_id: racheal

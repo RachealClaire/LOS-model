@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/f680951fec9d459a8dc63ae912d69904/artifacts
+end_time: 1739957311395
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: f680951fec9d459a8dc63ae912d69904
+run_name: casual-grouse-271
+run_uuid: f680951fec9d459a8dc63ae912d69904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957311070
+status: 3
+tags: []
+user_id: racheal

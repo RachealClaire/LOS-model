@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/822887533196691341/9c041e015ae64967b60845cbda71b812/artifacts
+end_time: 1741685992757
+entry_point_name: ''
+experiment_id: '822887533196691341'
+lifecycle_stage: active
+run_id: 9c041e015ae64967b60845cbda71b812
+run_name: clumsy-wasp-93
+run_uuid: 9c041e015ae64967b60845cbda71b812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741685990318
+status: 3
+tags: []
+user_id: kyomukama

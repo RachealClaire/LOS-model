@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/f4739a4825ee4256802dea3e498a569c/artifacts
+end_time: 1739966501120
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: f4739a4825ee4256802dea3e498a569c
+run_name: unequaled-vole-753
+run_uuid: f4739a4825ee4256802dea3e498a569c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966500479
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/c610d27539bf4011adac26e327e9edba/artifacts
+end_time: 1741245775511
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: c610d27539bf4011adac26e327e9edba
+run_name: fortunate-bug-469
+run_uuid: c610d27539bf4011adac26e327e9edba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741245775399
+status: 3
+tags: []
+user_id: kyomukama

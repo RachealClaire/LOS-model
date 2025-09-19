@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/1bc461f25c4943a79c14a8b5ab1944dd/artifacts
+end_time: 1741247970420
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 1bc461f25c4943a79c14a8b5ab1944dd
+run_name: nosy-gull-561
+run_uuid: 1bc461f25c4943a79c14a8b5ab1944dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741247966027
+status: 3
+tags: []
+user_id: kyomukama

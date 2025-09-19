@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/ea34ff2241274b3e8ab8b1c19d336865/artifacts
+end_time: 1740467728088
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: ea34ff2241274b3e8ab8b1c19d336865
+run_name: sincere-cat-711
+run_uuid: ea34ff2241274b3e8ab8b1c19d336865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740467687176
+status: 3
+tags: []
+user_id: racheal

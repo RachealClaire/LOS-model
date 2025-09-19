@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/27f5c668bd5b44bdba6494265529777b/artifacts
+end_time: 1739956815223
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 27f5c668bd5b44bdba6494265529777b
+run_name: bedecked-ram-450
+run_uuid: 27f5c668bd5b44bdba6494265529777b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956814817
+status: 3
+tags: []
+user_id: racheal

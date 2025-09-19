@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/d735b70dff464ae3840da0fa20cc6a35/artifacts
+end_time: 1741241885608
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: d735b70dff464ae3840da0fa20cc6a35
+run_name: dazzling-moose-473
+run_uuid: d735b70dff464ae3840da0fa20cc6a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241885429
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/ec51e6542ddd46eebf52f12ad1d87d26/artifacts
+end_time: 1741680492142
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: ec51e6542ddd46eebf52f12ad1d87d26
+run_name: abrasive-shrike-547
+run_uuid: ec51e6542ddd46eebf52f12ad1d87d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741680485182
+status: 3
+tags: []
+user_id: kyomukama

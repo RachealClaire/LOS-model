@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/66dd65a4727740cf932e307a1dff633d/artifacts
+end_time: 1740466354592
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 66dd65a4727740cf932e307a1dff633d
+run_name: serious-croc-789
+run_uuid: 66dd65a4727740cf932e307a1dff633d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740466353660
+status: 3
+tags: []
+user_id: racheal

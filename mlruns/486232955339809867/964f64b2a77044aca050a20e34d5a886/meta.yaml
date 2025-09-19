@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/964f64b2a77044aca050a20e34d5a886/artifacts
+end_time: 1739965680494
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 964f64b2a77044aca050a20e34d5a886
+run_name: monumental-newt-281
+run_uuid: 964f64b2a77044aca050a20e34d5a886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965680226
+status: 3
+tags: []
+user_id: racheal

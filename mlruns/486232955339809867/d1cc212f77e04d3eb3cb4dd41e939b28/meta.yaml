@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/d1cc212f77e04d3eb3cb4dd41e939b28/artifacts
+end_time: 1739956669245
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: d1cc212f77e04d3eb3cb4dd41e939b28
+run_name: receptive-shark-831
+run_uuid: d1cc212f77e04d3eb3cb4dd41e939b28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956668922
+status: 3
+tags: []
+user_id: racheal

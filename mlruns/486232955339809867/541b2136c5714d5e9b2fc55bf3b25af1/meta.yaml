@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/541b2136c5714d5e9b2fc55bf3b25af1/artifacts
+end_time: 1739965736421
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 541b2136c5714d5e9b2fc55bf3b25af1
+run_name: skittish-mole-106
+run_uuid: 541b2136c5714d5e9b2fc55bf3b25af1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965736354
+status: 3
+tags: []
+user_id: racheal

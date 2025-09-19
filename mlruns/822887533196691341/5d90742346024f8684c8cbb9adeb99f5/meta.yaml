@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/822887533196691341/5d90742346024f8684c8cbb9adeb99f5/artifacts
+end_time: 1740654973070
+entry_point_name: ''
+experiment_id: '822887533196691341'
+lifecycle_stage: active
+run_id: 5d90742346024f8684c8cbb9adeb99f5
+run_name: vaunted-calf-564
+run_uuid: 5d90742346024f8684c8cbb9adeb99f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740654966081
+status: 3
+tags: []
+user_id: racheal

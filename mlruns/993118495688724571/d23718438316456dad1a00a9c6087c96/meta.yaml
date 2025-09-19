@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/d23718438316456dad1a00a9c6087c96/artifacts
+end_time: 1740559189196
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: d23718438316456dad1a00a9c6087c96
+run_name: dapper-squirrel-758
+run_uuid: d23718438316456dad1a00a9c6087c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740559188678
+status: 3
+tags: []
+user_id: racheal

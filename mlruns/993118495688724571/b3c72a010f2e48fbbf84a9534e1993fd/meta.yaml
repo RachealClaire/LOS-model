@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/b3c72a010f2e48fbbf84a9534e1993fd/artifacts
+end_time: 1739972050697
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: b3c72a010f2e48fbbf84a9534e1993fd
+run_name: treasured-moth-553
+run_uuid: b3c72a010f2e48fbbf84a9534e1993fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739972039786
+status: 3
+tags: []
+user_id: racheal

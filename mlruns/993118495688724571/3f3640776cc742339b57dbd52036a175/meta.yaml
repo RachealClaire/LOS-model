@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/3f3640776cc742339b57dbd52036a175/artifacts
+end_time: 1741082403375
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 3f3640776cc742339b57dbd52036a175
+run_name: adorable-horse-805
+run_uuid: 3f3640776cc742339b57dbd52036a175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082403202
+status: 3
+tags: []
+user_id: kyomukama

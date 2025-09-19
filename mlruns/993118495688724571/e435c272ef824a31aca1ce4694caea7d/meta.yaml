@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/e435c272ef824a31aca1ce4694caea7d/artifacts
+end_time: 1740559191092
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: e435c272ef824a31aca1ce4694caea7d
+run_name: popular-grouse-414
+run_uuid: e435c272ef824a31aca1ce4694caea7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740559190115
+status: 3
+tags: []
+user_id: racheal

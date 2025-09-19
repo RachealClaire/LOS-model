@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/7e397f6078094a25947ee5a8bb2e9374/artifacts
+end_time: 1740039098498
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 7e397f6078094a25947ee5a8bb2e9374
+run_name: wise-robin-789
+run_uuid: 7e397f6078094a25947ee5a8bb2e9374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740039090864
+status: 3
+tags: []
+user_id: racheal

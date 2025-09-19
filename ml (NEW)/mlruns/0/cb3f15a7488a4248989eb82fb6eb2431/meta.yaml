@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyomukama/ACE/camonet/ml%20%28NEW%29/mlruns/0/cb3f15a7488a4248989eb82fb6eb2431/artifacts
+end_time: 1741241113125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb3f15a7488a4248989eb82fb6eb2431
+run_name: stately-bee-624
+run_uuid: cb3f15a7488a4248989eb82fb6eb2431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241109009
+status: 3
+tags: []
+user_id: kyomukama

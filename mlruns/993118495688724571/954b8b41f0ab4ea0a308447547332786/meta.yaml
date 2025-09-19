@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/954b8b41f0ab4ea0a308447547332786/artifacts
+end_time: 1740984532334
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 954b8b41f0ab4ea0a308447547332786
+run_name: blushing-mare-603
+run_uuid: 954b8b41f0ab4ea0a308447547332786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740984532121
+status: 3
+tags: []
+user_id: kyomukama

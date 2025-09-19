@@ -1,0 +1,31 @@
+artifact_path: Lasso_regressor_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 761
+model_uuid: a5afe345d4a64e0b8e6a617e9d384f27
+run_id: 9d42cbd122eb4a588369dae0e3db1019
+signature:
+  inputs: '[{"type": "long", "name": "complications", "required": true}, {"type":
+    "long", "name": "Resistance", "required": true}, {"type": "long", "name": "referral",
+    "required": true}, {"type": "long", "name": "antib_prior_admi", "required": true},
+    {"type": "long", "name": "sympt_dura", "required": true}, {"type": "long", "name":
+    "ward", "required": true}, {"type": "double", "name": "age", "required": true},
+    {"type": "long", "name": "sex", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-06 06:44:00.105794'

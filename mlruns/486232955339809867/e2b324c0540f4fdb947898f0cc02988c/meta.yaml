@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/e2b324c0540f4fdb947898f0cc02988c/artifacts
+end_time: 1739965674141
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: e2b324c0540f4fdb947898f0cc02988c
+run_name: wistful-worm-606
+run_uuid: e2b324c0540f4fdb947898f0cc02988c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965673825
+status: 3
+tags: []
+user_id: racheal

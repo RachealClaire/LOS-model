@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/4dd09f6f3d6b44fc97a3216a638c71a7/artifacts
+end_time: 1741246525140
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 4dd09f6f3d6b44fc97a3216a638c71a7
+run_name: whimsical-skink-859
+run_uuid: 4dd09f6f3d6b44fc97a3216a638c71a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741246525030
+status: 3
+tags: []
+user_id: kyomukama

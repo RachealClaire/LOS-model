@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/d9e5fc28db244beebe527d8800cc98bc/artifacts
+end_time: 1739965686638
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: d9e5fc28db244beebe527d8800cc98bc
+run_name: skittish-fawn-996
+run_uuid: d9e5fc28db244beebe527d8800cc98bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965686359
+status: 3
+tags: []
+user_id: racheal

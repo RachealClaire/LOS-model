@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/9ef09e870aad42f0901a2971d80670d8/artifacts
+end_time: 1739956773585
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 9ef09e870aad42f0901a2971d80670d8
+run_name: salty-worm-741
+run_uuid: 9ef09e870aad42f0901a2971d80670d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956773047
+status: 3
+tags: []
+user_id: racheal

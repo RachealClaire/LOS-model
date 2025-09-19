@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/94c18792d33d41dd95fe121bf2eb5899/artifacts
+end_time: 1739974477318
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 94c18792d33d41dd95fe121bf2eb5899
+run_name: persistent-auk-983
+run_uuid: 94c18792d33d41dd95fe121bf2eb5899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739974466600
+status: 3
+tags: []
+user_id: racheal

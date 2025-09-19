@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/deb3352f66014290bcfba82134807927/artifacts
+end_time: 1741082303634
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: deb3352f66014290bcfba82134807927
+run_name: bold-perch-188
+run_uuid: deb3352f66014290bcfba82134807927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082303445
+status: 3
+tags: []
+user_id: kyomukama

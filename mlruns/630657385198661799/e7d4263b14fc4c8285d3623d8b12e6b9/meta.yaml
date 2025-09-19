@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/e7d4263b14fc4c8285d3623d8b12e6b9/artifacts
+end_time: 1741257948983
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: e7d4263b14fc4c8285d3623d8b12e6b9
+run_name: placid-rat-743
+run_uuid: e7d4263b14fc4c8285d3623d8b12e6b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741257945578
+status: 3
+tags: []
+user_id: kyomukama

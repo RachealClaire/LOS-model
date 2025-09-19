@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/6314d95fdf1e4438a59fdc92c09eec44/artifacts
+end_time: 1741007061978
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 6314d95fdf1e4438a59fdc92c09eec44
+run_name: suave-ox-968
+run_uuid: 6314d95fdf1e4438a59fdc92c09eec44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741007060202
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/c194517bc9064efea22c65a96f9bfd3c/artifacts
+end_time: 1741241117097
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: c194517bc9064efea22c65a96f9bfd3c
+run_name: silent-fly-547
+run_uuid: c194517bc9064efea22c65a96f9bfd3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241113746
+status: 3
+tags: []
+user_id: kyomukama

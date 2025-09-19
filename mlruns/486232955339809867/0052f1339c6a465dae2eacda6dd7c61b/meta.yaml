@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/0052f1339c6a465dae2eacda6dd7c61b/artifacts
+end_time: 1739956694233
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 0052f1339c6a465dae2eacda6dd7c61b
+run_name: carefree-sow-417
+run_uuid: 0052f1339c6a465dae2eacda6dd7c61b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956693863
+status: 3
+tags: []
+user_id: racheal

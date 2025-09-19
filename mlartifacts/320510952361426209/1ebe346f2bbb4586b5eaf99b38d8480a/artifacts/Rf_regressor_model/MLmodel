@@ -1,0 +1,30 @@
+artifact_path: Rf_regressor_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 1740756
+model_uuid: 11b3dd208c4741d09fbc91ae7d3cb09a
+run_id: 1ebe346f2bbb4586b5eaf99b38d8480a
+signature:
+  inputs: '[{"type": "long", "name": "name_of_rrh", "required": true}, {"type": "long",
+    "name": "ward", "required": true}, {"type": "double", "name": "age", "required":
+    true}, {"type": "long", "name": "sex", "required": true}, {"type": "long", "name":
+    "cormobid_condition", "required": true}, {"type": "long", "name": "Resistance",
+    "required": true}, {"type": "long", "name": "referral", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-03 09:28:51.479569'

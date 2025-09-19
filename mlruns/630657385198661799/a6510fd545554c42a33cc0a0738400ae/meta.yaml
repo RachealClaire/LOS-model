@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/a6510fd545554c42a33cc0a0738400ae/artifacts
+end_time: 1741082067807
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: a6510fd545554c42a33cc0a0738400ae
+run_name: dapper-owl-151
+run_uuid: a6510fd545554c42a33cc0a0738400ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082063527
+status: 3
+tags: []
+user_id: kyomukama

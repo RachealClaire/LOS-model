@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/60469fb36b484e5db779103a09f24775/artifacts
+end_time: 1739957309434
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 60469fb36b484e5db779103a09f24775
+run_name: traveling-cow-315
+run_uuid: 60469fb36b484e5db779103a09f24775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957308918
+status: 3
+tags: []
+user_id: racheal

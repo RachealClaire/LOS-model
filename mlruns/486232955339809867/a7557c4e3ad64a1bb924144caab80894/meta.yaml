@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/a7557c4e3ad64a1bb924144caab80894/artifacts
+end_time: 1739957431326
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: a7557c4e3ad64a1bb924144caab80894
+run_name: selective-frog-573
+run_uuid: a7557c4e3ad64a1bb924144caab80894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957431109
+status: 3
+tags: []
+user_id: racheal

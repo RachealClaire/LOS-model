@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/5487e8f9e0cc4fc980e88612e8f0f08f/artifacts
+end_time: 1740654169331
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 5487e8f9e0cc4fc980e88612e8f0f08f
+run_name: puzzled-foal-779
+run_uuid: 5487e8f9e0cc4fc980e88612e8f0f08f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740654168853
+status: 3
+tags: []
+user_id: racheal

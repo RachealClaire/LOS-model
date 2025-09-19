@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/554271462f71491588b50d348848005c/artifacts
+end_time: 1741165057136
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 554271462f71491588b50d348848005c
+run_name: trusting-finch-662
+run_uuid: 554271462f71491588b50d348848005c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741165057079
+status: 3
+tags: []
+user_id: kyomukama

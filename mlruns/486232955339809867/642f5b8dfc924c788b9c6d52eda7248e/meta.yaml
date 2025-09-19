@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/642f5b8dfc924c788b9c6d52eda7248e/artifacts
+end_time: 1739957419960
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 642f5b8dfc924c788b9c6d52eda7248e
+run_name: nimble-mare-59
+run_uuid: 642f5b8dfc924c788b9c6d52eda7248e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957419573
+status: 3
+tags: []
+user_id: racheal

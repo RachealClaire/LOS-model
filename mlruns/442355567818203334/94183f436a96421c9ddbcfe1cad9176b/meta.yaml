@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/94183f436a96421c9ddbcfe1cad9176b/artifacts
+end_time: 1740466322118
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 94183f436a96421c9ddbcfe1cad9176b
+run_name: dapper-bat-781
+run_uuid: 94183f436a96421c9ddbcfe1cad9176b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740466285577
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/0be84a4fddbe4cd4b45e820a3501ae6d/artifacts
+end_time: 1740654256566
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 0be84a4fddbe4cd4b45e820a3501ae6d
+run_name: upbeat-worm-971
+run_uuid: 0be84a4fddbe4cd4b45e820a3501ae6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740654247853
+status: 3
+tags: []
+user_id: racheal

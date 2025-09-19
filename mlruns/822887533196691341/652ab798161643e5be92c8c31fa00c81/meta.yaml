@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/822887533196691341/652ab798161643e5be92c8c31fa00c81/artifacts
+end_time: 1740915447121
+entry_point_name: ''
+experiment_id: '822887533196691341'
+lifecycle_stage: active
+run_id: 652ab798161643e5be92c8c31fa00c81
+run_name: useful-hare-689
+run_uuid: 652ab798161643e5be92c8c31fa00c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740915443351
+status: 3
+tags: []
+user_id: kyomukama

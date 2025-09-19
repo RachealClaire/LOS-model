@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/dd50a779697a496bae94997c1182e08c/artifacts
+end_time: 1739957165216
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: dd50a779697a496bae94997c1182e08c
+run_name: smiling-jay-426
+run_uuid: dd50a779697a496bae94997c1182e08c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957165084
+status: 3
+tags: []
+user_id: racheal

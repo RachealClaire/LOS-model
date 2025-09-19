@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/54d7846d23214c4c88039bf2ebf5535c/artifacts
+end_time: 1739957041068
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 54d7846d23214c4c88039bf2ebf5535c
+run_name: youthful-toad-872
+run_uuid: 54d7846d23214c4c88039bf2ebf5535c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957040852
+status: 3
+tags: []
+user_id: racheal

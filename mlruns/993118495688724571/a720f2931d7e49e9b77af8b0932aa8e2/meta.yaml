@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/a720f2931d7e49e9b77af8b0932aa8e2/artifacts
+end_time: 1741067571777
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: a720f2931d7e49e9b77af8b0932aa8e2
+run_name: dashing-stork-930
+run_uuid: a720f2931d7e49e9b77af8b0932aa8e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741067571718
+status: 3
+tags: []
+user_id: kyomukama

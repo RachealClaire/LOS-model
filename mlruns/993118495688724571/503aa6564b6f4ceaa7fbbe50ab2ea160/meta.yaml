@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/503aa6564b6f4ceaa7fbbe50ab2ea160/artifacts
+end_time: 1741246526197
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 503aa6564b6f4ceaa7fbbe50ab2ea160
+run_name: polite-carp-298
+run_uuid: 503aa6564b6f4ceaa7fbbe50ab2ea160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741246526066
+status: 3
+tags: []
+user_id: kyomukama

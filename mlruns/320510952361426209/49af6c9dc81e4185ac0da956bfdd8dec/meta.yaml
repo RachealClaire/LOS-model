@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/49af6c9dc81e4185ac0da956bfdd8dec/artifacts
+end_time: 1740993993393
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 49af6c9dc81e4185ac0da956bfdd8dec
+run_name: kindly-boar-643
+run_uuid: 49af6c9dc81e4185ac0da956bfdd8dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740993989929
+status: 3
+tags: []
+user_id: kyomukama

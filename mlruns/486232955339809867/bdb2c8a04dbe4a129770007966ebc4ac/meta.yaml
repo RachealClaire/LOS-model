@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/bdb2c8a04dbe4a129770007966ebc4ac/artifacts
+end_time: 1739965999162
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: bdb2c8a04dbe4a129770007966ebc4ac
+run_name: gifted-gull-709
+run_uuid: bdb2c8a04dbe4a129770007966ebc4ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965998980
+status: 3
+tags: []
+user_id: racheal

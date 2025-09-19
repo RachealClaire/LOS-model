@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/01f6877cfc744dbd819dd989fe79a25a/artifacts
+end_time: 1741246628667
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 01f6877cfc744dbd819dd989fe79a25a
+run_name: bedecked-shark-915
+run_uuid: 01f6877cfc744dbd819dd989fe79a25a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741246624311
+status: 3
+tags: []
+user_id: kyomukama

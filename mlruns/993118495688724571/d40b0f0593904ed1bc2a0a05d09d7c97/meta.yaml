@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/d40b0f0593904ed1bc2a0a05d09d7c97/artifacts
+end_time: 1741165057509
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: d40b0f0593904ed1bc2a0a05d09d7c97
+run_name: amazing-shoat-428
+run_uuid: d40b0f0593904ed1bc2a0a05d09d7c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741165057430
+status: 3
+tags: []
+user_id: kyomukama

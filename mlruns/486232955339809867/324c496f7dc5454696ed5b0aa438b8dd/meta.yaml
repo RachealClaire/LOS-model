@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/324c496f7dc5454696ed5b0aa438b8dd/artifacts
+end_time: 1739966402590
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 324c496f7dc5454696ed5b0aa438b8dd
+run_name: defiant-shad-755
+run_uuid: 324c496f7dc5454696ed5b0aa438b8dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966402267
+status: 3
+tags: []
+user_id: racheal

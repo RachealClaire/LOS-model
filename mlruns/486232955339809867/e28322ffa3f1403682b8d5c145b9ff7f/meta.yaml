@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/e28322ffa3f1403682b8d5c145b9ff7f/artifacts
+end_time: 1739965802553
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: e28322ffa3f1403682b8d5c145b9ff7f
+run_name: worried-worm-541
+run_uuid: e28322ffa3f1403682b8d5c145b9ff7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965802141
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/aa14752e19a14eb89afd854d6447240b/artifacts
+end_time: 1740398127916
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: aa14752e19a14eb89afd854d6447240b
+run_name: trusting-fawn-456
+run_uuid: aa14752e19a14eb89afd854d6447240b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740398127238
+status: 3
+tags: []
+user_id: racheal

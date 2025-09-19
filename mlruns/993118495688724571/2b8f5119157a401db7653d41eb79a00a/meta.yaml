@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/2b8f5119157a401db7653d41eb79a00a/artifacts
+end_time: 1740398186974
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 2b8f5119157a401db7653d41eb79a00a
+run_name: delightful-elk-858
+run_uuid: 2b8f5119157a401db7653d41eb79a00a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740398179523
+status: 3
+tags: []
+user_id: racheal

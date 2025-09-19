@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/d3d14888dd8f41559abf57557f35a172/artifacts
+end_time: 1739957243826
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: d3d14888dd8f41559abf57557f35a172
+run_name: capricious-steed-512
+run_uuid: d3d14888dd8f41559abf57557f35a172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957243503
+status: 3
+tags: []
+user_id: racheal

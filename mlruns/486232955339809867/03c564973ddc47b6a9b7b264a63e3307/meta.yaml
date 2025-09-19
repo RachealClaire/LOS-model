@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/03c564973ddc47b6a9b7b264a63e3307/artifacts
+end_time: 1739966453680
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 03c564973ddc47b6a9b7b264a63e3307
+run_name: legendary-seal-916
+run_uuid: 03c564973ddc47b6a9b7b264a63e3307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966453481
+status: 3
+tags: []
+user_id: racheal

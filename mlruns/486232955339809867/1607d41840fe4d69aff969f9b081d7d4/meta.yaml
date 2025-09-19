@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/1607d41840fe4d69aff969f9b081d7d4/artifacts
+end_time: 1739957087364
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 1607d41840fe4d69aff969f9b081d7d4
+run_name: kindly-bird-54
+run_uuid: 1607d41840fe4d69aff969f9b081d7d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957086988
+status: 3
+tags: []
+user_id: racheal

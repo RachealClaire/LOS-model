@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/80bf48c085eb46628bca12e1364a6e48/artifacts
+end_time: 1740398120394
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 80bf48c085eb46628bca12e1364a6e48
+run_name: clumsy-stoat-953
+run_uuid: 80bf48c085eb46628bca12e1364a6e48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740398119901
+status: 3
+tags: []
+user_id: racheal

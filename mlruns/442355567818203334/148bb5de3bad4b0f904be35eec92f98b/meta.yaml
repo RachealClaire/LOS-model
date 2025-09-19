@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/148bb5de3bad4b0f904be35eec92f98b/artifacts
+end_time: 1741079654587
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 148bb5de3bad4b0f904be35eec92f98b
+run_name: learned-auk-514
+run_uuid: 148bb5de3bad4b0f904be35eec92f98b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741079650501
+status: 3
+tags: []
+user_id: kyomukama

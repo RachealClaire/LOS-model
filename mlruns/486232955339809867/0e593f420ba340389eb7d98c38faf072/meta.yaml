@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/0e593f420ba340389eb7d98c38faf072/artifacts
+end_time: 1739957458183
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 0e593f420ba340389eb7d98c38faf072
+run_name: dashing-bug-96
+run_uuid: 0e593f420ba340389eb7d98c38faf072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957457987
+status: 3
+tags: []
+user_id: racheal

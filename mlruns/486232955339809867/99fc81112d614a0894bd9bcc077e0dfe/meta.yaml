@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/99fc81112d614a0894bd9bcc077e0dfe/artifacts
+end_time: 1739966210871
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 99fc81112d614a0894bd9bcc077e0dfe
+run_name: skillful-turtle-105
+run_uuid: 99fc81112d614a0894bd9bcc077e0dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966210418
+status: 3
+tags: []
+user_id: racheal

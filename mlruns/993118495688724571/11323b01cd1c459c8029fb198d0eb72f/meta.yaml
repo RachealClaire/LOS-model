@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/11323b01cd1c459c8029fb198d0eb72f/artifacts
+end_time: 1741082401471
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 11323b01cd1c459c8029fb198d0eb72f
+run_name: worried-kite-571
+run_uuid: 11323b01cd1c459c8029fb198d0eb72f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082401248
+status: 3
+tags: []
+user_id: kyomukama

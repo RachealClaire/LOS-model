@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/91c8242584ec4327a8233363dc5bc538/artifacts
+end_time: 1740657330419
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 91c8242584ec4327a8233363dc5bc538
+run_name: debonair-lynx-930
+run_uuid: 91c8242584ec4327a8233363dc5bc538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740657321751
+status: 3
+tags: []
+user_id: racheal

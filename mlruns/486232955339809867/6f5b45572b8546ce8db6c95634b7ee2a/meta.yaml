@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/6f5b45572b8546ce8db6c95634b7ee2a/artifacts
+end_time: 1739956841179
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 6f5b45572b8546ce8db6c95634b7ee2a
+run_name: big-grouse-816
+run_uuid: 6f5b45572b8546ce8db6c95634b7ee2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956840802
+status: 3
+tags: []
+user_id: racheal

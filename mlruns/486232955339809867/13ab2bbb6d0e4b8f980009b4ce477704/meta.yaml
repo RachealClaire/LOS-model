@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/13ab2bbb6d0e4b8f980009b4ce477704/artifacts
+end_time: 1739957375046
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 13ab2bbb6d0e4b8f980009b4ce477704
+run_name: thoughtful-robin-130
+run_uuid: 13ab2bbb6d0e4b8f980009b4ce477704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957374730
+status: 3
+tags: []
+user_id: racheal

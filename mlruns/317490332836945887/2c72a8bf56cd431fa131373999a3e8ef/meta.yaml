@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/317490332836945887/2c72a8bf56cd431fa131373999a3e8ef/artifacts
+end_time: 1740579972923
+entry_point_name: ''
+experiment_id: '317490332836945887'
+lifecycle_stage: active
+run_id: 2c72a8bf56cd431fa131373999a3e8ef
+run_name: gaudy-fowl-613
+run_uuid: 2c72a8bf56cd431fa131373999a3e8ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740579963955
+status: 3
+tags: []
+user_id: racheal

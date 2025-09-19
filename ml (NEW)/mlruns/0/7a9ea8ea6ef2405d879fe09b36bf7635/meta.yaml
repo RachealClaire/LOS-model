@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyomukama/ACE/camonet/ml%20%28NEW%29/mlruns/0/7a9ea8ea6ef2405d879fe09b36bf7635/artifacts
+end_time: 1741785691516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a9ea8ea6ef2405d879fe09b36bf7635
+run_name: treasured-ram-989
+run_uuid: 7a9ea8ea6ef2405d879fe09b36bf7635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741785689722
+status: 3
+tags: []
+user_id: kyomukama

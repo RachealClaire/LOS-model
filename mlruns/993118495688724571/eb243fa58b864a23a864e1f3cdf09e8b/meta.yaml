@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/eb243fa58b864a23a864e1f3cdf09e8b/artifacts
+end_time: 1740914982264
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: eb243fa58b864a23a864e1f3cdf09e8b
+run_name: adorable-dove-577
+run_uuid: eb243fa58b864a23a864e1f3cdf09e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740914982083
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/ef507516dae74c249f553747cdab4b45/artifacts
+end_time: 1739966468736
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: ef507516dae74c249f553747cdab4b45
+run_name: sincere-shoat-585
+run_uuid: ef507516dae74c249f553747cdab4b45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966468157
+status: 3
+tags: []
+user_id: racheal

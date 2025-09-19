@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/822887533196691341/006fc187057e46a0bb85f04bc57bc5f8/artifacts
+end_time: 1740559890195
+entry_point_name: ''
+experiment_id: '822887533196691341'
+lifecycle_stage: active
+run_id: 006fc187057e46a0bb85f04bc57bc5f8
+run_name: thundering-crab-676
+run_uuid: 006fc187057e46a0bb85f04bc57bc5f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740559883282
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/55c7d92919c94954bf97ba751aea639e/artifacts
+end_time: 1739957186437
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 55c7d92919c94954bf97ba751aea639e
+run_name: gifted-robin-946
+run_uuid: 55c7d92919c94954bf97ba751aea639e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957186291
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/4192a1766518431ea60f9e36a95031fa/artifacts
+end_time: 1739957280137
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 4192a1766518431ea60f9e36a95031fa
+run_name: hilarious-chimp-280
+run_uuid: 4192a1766518431ea60f9e36a95031fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957279734
+status: 3
+tags: []
+user_id: racheal

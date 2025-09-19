@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyomukama/ACE/camonet/ml%20%28NEW%29/mlruns/0/6685fa7057284f048c7fa8012427fc9e/artifacts
+end_time: 1740992516567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6685fa7057284f048c7fa8012427fc9e
+run_name: stately-shrimp-546
+run_uuid: 6685fa7057284f048c7fa8012427fc9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740992514094
+status: 3
+tags: []
+user_id: kyomukama

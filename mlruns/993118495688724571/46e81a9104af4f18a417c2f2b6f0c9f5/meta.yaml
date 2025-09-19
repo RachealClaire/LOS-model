@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/46e81a9104af4f18a417c2f2b6f0c9f5/artifacts
+end_time: 1740659273091
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 46e81a9104af4f18a417c2f2b6f0c9f5
+run_name: capable-cow-669
+run_uuid: 46e81a9104af4f18a417c2f2b6f0c9f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740659272501
+status: 3
+tags: []
+user_id: racheal

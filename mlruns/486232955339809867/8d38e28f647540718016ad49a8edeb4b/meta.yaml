@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/8d38e28f647540718016ad49a8edeb4b/artifacts
+end_time: 1739966333542
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 8d38e28f647540718016ad49a8edeb4b
+run_name: skillful-moth-7
+run_uuid: 8d38e28f647540718016ad49a8edeb4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966333359
+status: 3
+tags: []
+user_id: racheal

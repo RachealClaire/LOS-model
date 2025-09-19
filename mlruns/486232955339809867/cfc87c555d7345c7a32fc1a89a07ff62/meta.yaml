@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/cfc87c555d7345c7a32fc1a89a07ff62/artifacts
+end_time: 1739956690876
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: cfc87c555d7345c7a32fc1a89a07ff62
+run_name: silent-dog-147
+run_uuid: cfc87c555d7345c7a32fc1a89a07ff62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956690564
+status: 3
+tags: []
+user_id: racheal

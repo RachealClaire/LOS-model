@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/91c7dbb480ee480e90d815a9ebd81b1b/artifacts
+end_time: 1741246056367
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 91c7dbb480ee480e90d815a9ebd81b1b
+run_name: wistful-owl-650
+run_uuid: 91c7dbb480ee480e90d815a9ebd81b1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741246052636
+status: 3
+tags: []
+user_id: kyomukama

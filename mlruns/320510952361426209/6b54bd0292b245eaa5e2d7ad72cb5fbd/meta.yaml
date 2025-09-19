@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/6b54bd0292b245eaa5e2d7ad72cb5fbd/artifacts
+end_time: 1740993064983
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 6b54bd0292b245eaa5e2d7ad72cb5fbd
+run_name: auspicious-swan-521
+run_uuid: 6b54bd0292b245eaa5e2d7ad72cb5fbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740993061985
+status: 3
+tags: []
+user_id: kyomukama

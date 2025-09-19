@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/fa169219866f44c79fac5972f8caa1c3/artifacts
+end_time: 1741241884524
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: fa169219866f44c79fac5972f8caa1c3
+run_name: tasteful-finch-484
+run_uuid: fa169219866f44c79fac5972f8caa1c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241884395
+status: 3
+tags: []
+user_id: kyomukama

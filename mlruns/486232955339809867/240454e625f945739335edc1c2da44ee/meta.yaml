@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/240454e625f945739335edc1c2da44ee/artifacts
+end_time: 1739956714538
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 240454e625f945739335edc1c2da44ee
+run_name: gifted-tern-570
+run_uuid: 240454e625f945739335edc1c2da44ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956714109
+status: 3
+tags: []
+user_id: racheal

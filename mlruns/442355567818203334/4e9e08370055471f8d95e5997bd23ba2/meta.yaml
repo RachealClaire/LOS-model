@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/4e9e08370055471f8d95e5997bd23ba2/artifacts
+end_time: 1741241970000
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 4e9e08370055471f8d95e5997bd23ba2
+run_name: angry-owl-980
+run_uuid: 4e9e08370055471f8d95e5997bd23ba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241965937
+status: 3
+tags: []
+user_id: kyomukama

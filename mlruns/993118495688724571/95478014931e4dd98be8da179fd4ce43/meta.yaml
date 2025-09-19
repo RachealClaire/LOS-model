@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/95478014931e4dd98be8da179fd4ce43/artifacts
+end_time: 1740467763115
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 95478014931e4dd98be8da179fd4ce43
+run_name: auspicious-lamb-265
+run_uuid: 95478014931e4dd98be8da179fd4ce43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740467761984
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/822887533196691341/d769871e11e64c46a0bb48ace86bd386/artifacts
+end_time: 1740476157402
+entry_point_name: ''
+experiment_id: '822887533196691341'
+lifecycle_stage: active
+run_id: d769871e11e64c46a0bb48ace86bd386
+run_name: judicious-doe-823
+run_uuid: d769871e11e64c46a0bb48ace86bd386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740476149398
+status: 3
+tags: []
+user_id: racheal

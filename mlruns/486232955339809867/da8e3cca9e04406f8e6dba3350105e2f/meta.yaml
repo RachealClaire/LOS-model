@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/da8e3cca9e04406f8e6dba3350105e2f/artifacts
+end_time: 1739965737592
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: da8e3cca9e04406f8e6dba3350105e2f
+run_name: whimsical-cat-470
+run_uuid: da8e3cca9e04406f8e6dba3350105e2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965737451
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/7f3cfb6ca56e45a787d201b35f9dc37e/artifacts
+end_time: 1739957178156
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 7f3cfb6ca56e45a787d201b35f9dc37e
+run_name: kindly-shrew-592
+run_uuid: 7f3cfb6ca56e45a787d201b35f9dc37e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957177679
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/c5aa0dd6e0f0403aa9c6490758385d4b/artifacts
+end_time: 1741624672214
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: c5aa0dd6e0f0403aa9c6490758385d4b
+run_name: charming-stoat-994
+run_uuid: c5aa0dd6e0f0403aa9c6490758385d4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741624665595
+status: 3
+tags: []
+user_id: kyomukama

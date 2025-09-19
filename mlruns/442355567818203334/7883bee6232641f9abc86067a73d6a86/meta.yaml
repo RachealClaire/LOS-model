@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/7883bee6232641f9abc86067a73d6a86/artifacts
+end_time: 1741004760525
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 7883bee6232641f9abc86067a73d6a86
+run_name: nosy-pug-283
+run_uuid: 7883bee6232641f9abc86067a73d6a86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741004756492
+status: 3
+tags: []
+user_id: kyomukama

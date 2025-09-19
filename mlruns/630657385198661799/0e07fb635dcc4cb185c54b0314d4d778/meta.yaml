@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/0e07fb635dcc4cb185c54b0314d4d778/artifacts
+end_time: 1741246022249
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 0e07fb635dcc4cb185c54b0314d4d778
+run_name: tasteful-hen-470
+run_uuid: 0e07fb635dcc4cb185c54b0314d4d778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741246019027
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/6ff3028daed045018e12bed5e83a1d97/artifacts
+end_time: 1741247832953
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 6ff3028daed045018e12bed5e83a1d97
+run_name: gaudy-donkey-834
+run_uuid: 6ff3028daed045018e12bed5e83a1d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741247828020
+status: 3
+tags: []
+user_id: kyomukama

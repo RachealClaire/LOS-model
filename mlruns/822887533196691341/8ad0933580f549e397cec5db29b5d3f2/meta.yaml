@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/822887533196691341/8ad0933580f549e397cec5db29b5d3f2/artifacts
+end_time: 1740997679502
+entry_point_name: ''
+experiment_id: '822887533196691341'
+lifecycle_stage: active
+run_id: 8ad0933580f549e397cec5db29b5d3f2
+run_name: enthused-frog-810
+run_uuid: 8ad0933580f549e397cec5db29b5d3f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740997675852
+status: 3
+tags: []
+user_id: kyomukama

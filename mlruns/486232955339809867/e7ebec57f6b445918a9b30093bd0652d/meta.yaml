@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/e7ebec57f6b445918a9b30093bd0652d/artifacts
+end_time: 1739957338413
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: e7ebec57f6b445918a9b30093bd0652d
+run_name: abrasive-mouse-398
+run_uuid: e7ebec57f6b445918a9b30093bd0652d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957338027
+status: 3
+tags: []
+user_id: racheal

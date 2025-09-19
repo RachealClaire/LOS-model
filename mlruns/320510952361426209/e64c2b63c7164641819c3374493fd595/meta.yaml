@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/e64c2b63c7164641819c3374493fd595/artifacts
+end_time: 1741084452315
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: e64c2b63c7164641819c3374493fd595
+run_name: adventurous-wren-867
+run_uuid: e64c2b63c7164641819c3374493fd595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741084448659
+status: 3
+tags: []
+user_id: kyomukama

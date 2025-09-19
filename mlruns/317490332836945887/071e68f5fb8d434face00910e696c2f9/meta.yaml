@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/317490332836945887/071e68f5fb8d434face00910e696c2f9/artifacts
+end_time: 1740997688542
+entry_point_name: ''
+experiment_id: '317490332836945887'
+lifecycle_stage: active
+run_id: 071e68f5fb8d434face00910e696c2f9
+run_name: debonair-dog-384
+run_uuid: 071e68f5fb8d434face00910e696c2f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740997685472
+status: 3
+tags: []
+user_id: kyomukama

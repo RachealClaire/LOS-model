@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/0fe9734af7484e12bf883e26550f2878/artifacts
+end_time: 1741682126552
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 0fe9734af7484e12bf883e26550f2878
+run_name: overjoyed-whale-240
+run_uuid: 0fe9734af7484e12bf883e26550f2878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741682126412
+status: 3
+tags: []
+user_id: kyomukama

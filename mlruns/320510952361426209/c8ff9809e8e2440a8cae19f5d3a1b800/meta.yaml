@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/c8ff9809e8e2440a8cae19f5d3a1b800/artifacts
+end_time: 1740994163357
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: c8ff9809e8e2440a8cae19f5d3a1b800
+run_name: worried-cat-221
+run_uuid: c8ff9809e8e2440a8cae19f5d3a1b800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740994160524
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/5ec92836f91d4d83be5e97c6f3585060/artifacts
+end_time: 1741085360690
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 5ec92836f91d4d83be5e97c6f3585060
+run_name: receptive-duck-281
+run_uuid: 5ec92836f91d4d83be5e97c6f3585060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741085356305
+status: 3
+tags: []
+user_id: kyomukama

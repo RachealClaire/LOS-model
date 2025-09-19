@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/03fd024e0f9b424d88957c0e4ee1d613/artifacts
+end_time: 1739956866730
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 03fd024e0f9b424d88957c0e4ee1d613
+run_name: auspicious-squid-328
+run_uuid: 03fd024e0f9b424d88957c0e4ee1d613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956866451
+status: 3
+tags: []
+user_id: racheal

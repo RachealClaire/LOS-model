@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/69e296fa5b1b442e842c60a9cf8f6207/artifacts
+end_time: 1741624621165
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 69e296fa5b1b442e842c60a9cf8f6207
+run_name: thundering-carp-922
+run_uuid: 69e296fa5b1b442e842c60a9cf8f6207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741624616577
+status: 3
+tags: []
+user_id: kyomukama

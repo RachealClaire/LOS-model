@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/166020645284097262/871d713df63b40ae9d3954391f57c91c/artifacts
+end_time: 1739947381529
+entry_point_name: ''
+experiment_id: '166020645284097262'
+lifecycle_stage: active
+run_id: 871d713df63b40ae9d3954391f57c91c
+run_name: merciful-skink-980
+run_uuid: 871d713df63b40ae9d3954391f57c91c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739947314314
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/6ad5b915011949789ae67c49db652e39/artifacts
+end_time: 1741682127179
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 6ad5b915011949789ae67c49db652e39
+run_name: debonair-kite-210
+run_uuid: 6ad5b915011949789ae67c49db652e39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741682126984
+status: 3
+tags: []
+user_id: kyomukama

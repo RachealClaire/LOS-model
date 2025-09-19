@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/ce0ac186d55044418b9c10972528b164/artifacts
+end_time: 1739965713538
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: ce0ac186d55044418b9c10972528b164
+run_name: calm-calf-611
+run_uuid: ce0ac186d55044418b9c10972528b164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965713064
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/d88432564ebd4fd186528f2cfe4795d9/artifacts
+end_time: 1740472459716
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: d88432564ebd4fd186528f2cfe4795d9
+run_name: omniscient-loon-876
+run_uuid: d88432564ebd4fd186528f2cfe4795d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740472458870
+status: 3
+tags: []
+user_id: racheal

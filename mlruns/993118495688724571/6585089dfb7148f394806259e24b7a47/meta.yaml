@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/6585089dfb7148f394806259e24b7a47/artifacts
+end_time: 1741082305603
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 6585089dfb7148f394806259e24b7a47
+run_name: hilarious-sow-88
+run_uuid: 6585089dfb7148f394806259e24b7a47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082305420
+status: 3
+tags: []
+user_id: kyomukama

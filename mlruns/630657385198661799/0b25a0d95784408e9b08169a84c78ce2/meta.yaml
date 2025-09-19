@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/0b25a0d95784408e9b08169a84c78ce2/artifacts
+end_time: 1740915744572
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 0b25a0d95784408e9b08169a84c78ce2
+run_name: intelligent-grub-299
+run_uuid: 0b25a0d95784408e9b08169a84c78ce2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740915740045
+status: 3
+tags: []
+user_id: kyomukama

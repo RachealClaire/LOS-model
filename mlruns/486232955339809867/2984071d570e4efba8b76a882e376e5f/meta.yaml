@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/2984071d570e4efba8b76a882e376e5f/artifacts
+end_time: 1739957418706
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 2984071d570e4efba8b76a882e376e5f
+run_name: agreeable-bird-703
+run_uuid: 2984071d570e4efba8b76a882e376e5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957418352
+status: 3
+tags: []
+user_id: racheal

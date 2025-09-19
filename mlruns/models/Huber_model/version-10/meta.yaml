@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739974490031
+current_stage: None
+description: ''
+last_updated_timestamp: 1739974490031
+name: Huber_model
+run_id: aaa79f5fcc7c453d88e3ef2ca543cfcf
+run_link: ''
+source: mlflow-artifacts:/993118495688724571/aaa79f5fcc7c453d88e3ef2ca543cfcf/artifacts/growth
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/993118495688724571/aaa79f5fcc7c453d88e3ef2ca543cfcf/artifacts/growth
+user_id: null
+version: 10

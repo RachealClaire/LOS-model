@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/be72db8ec7bb4ba8982959a8211a6b9f/artifacts
+end_time: 1741624610149
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: be72db8ec7bb4ba8982959a8211a6b9f
+run_name: illustrious-bass-439
+run_uuid: be72db8ec7bb4ba8982959a8211a6b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741624609989
+status: 3
+tags: []
+user_id: kyomukama

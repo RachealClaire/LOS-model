@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/b63faf80ec7e48f7b34ae4bc6a985c39/artifacts
+end_time: 1739966398105
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: b63faf80ec7e48f7b34ae4bc6a985c39
+run_name: calm-gull-592
+run_uuid: b63faf80ec7e48f7b34ae4bc6a985c39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966397860
+status: 3
+tags: []
+user_id: racheal

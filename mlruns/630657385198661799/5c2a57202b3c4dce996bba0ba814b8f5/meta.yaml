@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/5c2a57202b3c4dce996bba0ba814b8f5/artifacts
+end_time: 1740659255757
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 5c2a57202b3c4dce996bba0ba814b8f5
+run_name: placid-grouse-462
+run_uuid: 5c2a57202b3c4dce996bba0ba814b8f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740659247609
+status: 3
+tags: []
+user_id: racheal

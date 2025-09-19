@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/fd7018e75b434baa85fa1a365360bdfd/artifacts
+end_time: 1739966135449
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: fd7018e75b434baa85fa1a365360bdfd
+run_name: sedate-mole-322
+run_uuid: fd7018e75b434baa85fa1a365360bdfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966134983
+status: 3
+tags: []
+user_id: racheal

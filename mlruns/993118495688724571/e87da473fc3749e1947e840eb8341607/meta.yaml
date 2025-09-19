@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/e87da473fc3749e1947e840eb8341607/artifacts
+end_time: 1741257688973
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: e87da473fc3749e1947e840eb8341607
+run_name: youthful-duck-316
+run_uuid: e87da473fc3749e1947e840eb8341607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741257688860
+status: 3
+tags: []
+user_id: kyomukama

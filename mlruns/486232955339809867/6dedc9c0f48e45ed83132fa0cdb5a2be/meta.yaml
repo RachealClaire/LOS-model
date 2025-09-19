@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/6dedc9c0f48e45ed83132fa0cdb5a2be/artifacts
+end_time: 1739966215434
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 6dedc9c0f48e45ed83132fa0cdb5a2be
+run_name: gifted-lamb-971
+run_uuid: 6dedc9c0f48e45ed83132fa0cdb5a2be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966214675
+status: 3
+tags: []
+user_id: racheal

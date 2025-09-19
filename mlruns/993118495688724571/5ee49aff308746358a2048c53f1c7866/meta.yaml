@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/5ee49aff308746358a2048c53f1c7866/artifacts
+end_time: 1740398123814
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 5ee49aff308746358a2048c53f1c7866
+run_name: dapper-zebra-942
+run_uuid: 5ee49aff308746358a2048c53f1c7866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740398123159
+status: 3
+tags: []
+user_id: racheal

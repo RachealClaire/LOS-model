@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/cd1edd15165548ed9473540263b6f055/artifacts
+end_time: 1740915193316
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: cd1edd15165548ed9473540263b6f055
+run_name: stately-croc-550
+run_uuid: cd1edd15165548ed9473540263b6f055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740915190387
+status: 3
+tags: []
+user_id: kyomukama

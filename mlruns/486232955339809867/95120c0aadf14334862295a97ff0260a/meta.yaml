@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/95120c0aadf14334862295a97ff0260a/artifacts
+end_time: 1739957346393
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 95120c0aadf14334862295a97ff0260a
+run_name: judicious-fish-85
+run_uuid: 95120c0aadf14334862295a97ff0260a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957346211
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/226b844d0f6a4927af661cd8f0f5d8a3/artifacts
+end_time: 1741246524447
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 226b844d0f6a4927af661cd8f0f5d8a3
+run_name: tasteful-toad-229
+run_uuid: 226b844d0f6a4927af661cd8f0f5d8a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741246524317
+status: 3
+tags: []
+user_id: kyomukama

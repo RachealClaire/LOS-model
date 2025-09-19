@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/8151e8c02668424b9e2548077faa1938/artifacts
+end_time: 1741067572681
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 8151e8c02668424b9e2548077faa1938
+run_name: puzzled-bee-430
+run_uuid: 8151e8c02668424b9e2548077faa1938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741067572603
+status: 3
+tags: []
+user_id: kyomukama

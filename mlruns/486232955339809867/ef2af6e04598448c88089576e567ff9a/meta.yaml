@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/ef2af6e04598448c88089576e567ff9a/artifacts
+end_time: 1739966450832
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: ef2af6e04598448c88089576e567ff9a
+run_name: abundant-fly-264
+run_uuid: ef2af6e04598448c88089576e567ff9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966450504
+status: 3
+tags: []
+user_id: racheal

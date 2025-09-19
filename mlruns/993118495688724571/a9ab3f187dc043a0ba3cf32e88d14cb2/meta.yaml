@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/a9ab3f187dc043a0ba3cf32e88d14cb2/artifacts
+end_time: 1741682126961
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: a9ab3f187dc043a0ba3cf32e88d14cb2
+run_name: loud-moose-811
+run_uuid: a9ab3f187dc043a0ba3cf32e88d14cb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741682126742
+status: 3
+tags: []
+user_id: kyomukama

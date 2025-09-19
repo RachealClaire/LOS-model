@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/63519a5b536c41198e3fb3a429a43f63/artifacts
+end_time: 1740915015977
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 63519a5b536c41198e3fb3a429a43f63
+run_name: puzzled-deer-299
+run_uuid: 63519a5b536c41198e3fb3a429a43f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740915013152
+status: 3
+tags: []
+user_id: kyomukama

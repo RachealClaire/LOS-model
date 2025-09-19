@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/cc21d10783954f7db89662625eeea6dd/artifacts
+end_time: 1741246525279
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: cc21d10783954f7db89662625eeea6dd
+run_name: fun-snail-722
+run_uuid: cc21d10783954f7db89662625eeea6dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741246525161
+status: 3
+tags: []
+user_id: kyomukama

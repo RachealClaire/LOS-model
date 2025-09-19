@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/69258689515d4ec79efce8d996c4b447/artifacts
+end_time: 1741081508804
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 69258689515d4ec79efce8d996c4b447
+run_name: colorful-cow-268
+run_uuid: 69258689515d4ec79efce8d996c4b447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741081504500
+status: 3
+tags: []
+user_id: kyomukama

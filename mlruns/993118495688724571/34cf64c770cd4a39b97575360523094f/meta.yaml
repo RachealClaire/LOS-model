@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/34cf64c770cd4a39b97575360523094f/artifacts
+end_time: 1740398131706
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 34cf64c770cd4a39b97575360523094f
+run_name: delicate-sheep-169
+run_uuid: 34cf64c770cd4a39b97575360523094f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740398130977
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/6fc446ca872e4739b2012903173db346/artifacts
+end_time: 1739957223107
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 6fc446ca872e4739b2012903173db346
+run_name: amazing-wasp-594
+run_uuid: 6fc446ca872e4739b2012903173db346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957222851
+status: 3
+tags: []
+user_id: racheal

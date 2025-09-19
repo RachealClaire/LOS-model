@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/2e73ee972ea9455fb5d2037b5af83663/artifacts
+end_time: 1739956104285
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 2e73ee972ea9455fb5d2037b5af83663
+run_name: indecisive-sloth-187
+run_uuid: 2e73ee972ea9455fb5d2037b5af83663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956103095
+status: 4
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/3e05b60fa1374396a8c0c9f0e7f4ee55/artifacts
+end_time: 1741241886820
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 3e05b60fa1374396a8c0c9f0e7f4ee55
+run_name: treasured-ape-635
+run_uuid: 3e05b60fa1374396a8c0c9f0e7f4ee55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241886651
+status: 3
+tags: []
+user_id: kyomukama

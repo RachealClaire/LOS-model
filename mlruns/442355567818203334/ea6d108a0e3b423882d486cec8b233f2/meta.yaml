@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/ea6d108a0e3b423882d486cec8b233f2/artifacts
+end_time: 1740473801314
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: ea6d108a0e3b423882d486cec8b233f2
+run_name: angry-cow-492
+run_uuid: ea6d108a0e3b423882d486cec8b233f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740473792555
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/4ed1515e76f14248b67656ce63425188/artifacts
+end_time: 1739966521983
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 4ed1515e76f14248b67656ce63425188
+run_name: bouncy-fly-930
+run_uuid: 4ed1515e76f14248b67656ce63425188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966521495
+status: 3
+tags: []
+user_id: racheal

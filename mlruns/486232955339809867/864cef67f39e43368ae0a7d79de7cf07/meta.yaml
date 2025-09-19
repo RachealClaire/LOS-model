@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/864cef67f39e43368ae0a7d79de7cf07/artifacts
+end_time: 1739956925734
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 864cef67f39e43368ae0a7d79de7cf07
+run_name: unruly-snipe-156
+run_uuid: 864cef67f39e43368ae0a7d79de7cf07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956925171
+status: 3
+tags: []
+user_id: racheal

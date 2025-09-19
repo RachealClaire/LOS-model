@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/a5d137d2421c4b1fa8c8f2692468fccb/artifacts
+end_time: 1740995580806
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: a5d137d2421c4b1fa8c8f2692468fccb
+run_name: honorable-gnu-482
+run_uuid: a5d137d2421c4b1fa8c8f2692468fccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740995576351
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/08e241b091b743b1b98efbb4dca62135/artifacts
+end_time: 1739957192833
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 08e241b091b743b1b98efbb4dca62135
+run_name: rambunctious-calf-25
+run_uuid: 08e241b091b743b1b98efbb4dca62135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957192465
+status: 3
+tags: []
+user_id: racheal

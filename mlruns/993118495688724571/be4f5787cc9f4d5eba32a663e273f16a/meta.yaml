@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/be4f5787cc9f4d5eba32a663e273f16a/artifacts
+end_time: 1740466370998
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: be4f5787cc9f4d5eba32a663e273f16a
+run_name: youthful-loon-62
+run_uuid: be4f5787cc9f4d5eba32a663e273f16a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740466370045
+status: 3
+tags: []
+user_id: racheal

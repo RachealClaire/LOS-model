@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/59ad5f75ff6044cdbb9fae194863ce2f/artifacts
+end_time: 1739956784737
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 59ad5f75ff6044cdbb9fae194863ce2f
+run_name: polite-colt-513
+run_uuid: 59ad5f75ff6044cdbb9fae194863ce2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956784579
+status: 3
+tags: []
+user_id: racheal

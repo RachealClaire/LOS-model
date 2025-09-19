@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/f1f9184435ff48f3a6b6ece69fbe5031/artifacts
+end_time: 1740559179217
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: f1f9184435ff48f3a6b6ece69fbe5031
+run_name: masked-gull-401
+run_uuid: f1f9184435ff48f3a6b6ece69fbe5031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740559178430
+status: 3
+tags: []
+user_id: racheal

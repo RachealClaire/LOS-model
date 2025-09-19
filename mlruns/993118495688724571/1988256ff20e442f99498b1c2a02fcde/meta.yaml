@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/1988256ff20e442f99498b1c2a02fcde/artifacts
+end_time: 1740472454558
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 1988256ff20e442f99498b1c2a02fcde
+run_name: calm-donkey-555
+run_uuid: 1988256ff20e442f99498b1c2a02fcde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740472453727
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/db13ee07246d49259627e62d381ab87d/artifacts
+end_time: 1739967941405
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: db13ee07246d49259627e62d381ab87d
+run_name: aged-stork-43
+run_uuid: db13ee07246d49259627e62d381ab87d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739967932785
+status: 3
+tags: []
+user_id: racheal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/3fa1e70992764196aada02069a8997ef/artifacts
+end_time: 1740467751503
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 3fa1e70992764196aada02069a8997ef
+run_name: serious-bass-486
+run_uuid: 3fa1e70992764196aada02069a8997ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740467750642
+status: 3
+tags: []
+user_id: racheal

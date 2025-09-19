@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/2afc83b4cae44e8ab32c525f575cc631/artifacts
+end_time: 1739966459657
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 2afc83b4cae44e8ab32c525f575cc631
+run_name: aged-dolphin-417
+run_uuid: 2afc83b4cae44e8ab32c525f575cc631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966459471
+status: 3
+tags: []
+user_id: racheal

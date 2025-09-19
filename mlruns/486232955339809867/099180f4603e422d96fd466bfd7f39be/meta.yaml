@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/099180f4603e422d96fd466bfd7f39be/artifacts
+end_time: 1739956953343
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 099180f4603e422d96fd466bfd7f39be
+run_name: adaptable-vole-457
+run_uuid: 099180f4603e422d96fd466bfd7f39be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956953179
+status: 3
+tags: []
+user_id: racheal

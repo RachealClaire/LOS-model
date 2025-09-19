@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/1aa233c70fad48deb94edff4f0564016/artifacts
+end_time: 1741257688697
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 1aa233c70fad48deb94edff4f0564016
+run_name: peaceful-shark-750
+run_uuid: 1aa233c70fad48deb94edff4f0564016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741257688567
+status: 3
+tags: []
+user_id: kyomukama

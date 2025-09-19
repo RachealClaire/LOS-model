@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/a8dd19b564b543dd93a1bb4a95de9590/artifacts
+end_time: 1741069207175
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: a8dd19b564b543dd93a1bb4a95de9590
+run_name: salty-slug-919
+run_uuid: a8dd19b564b543dd93a1bb4a95de9590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741069207062
+status: 3
+tags: []
+user_id: kyomukama

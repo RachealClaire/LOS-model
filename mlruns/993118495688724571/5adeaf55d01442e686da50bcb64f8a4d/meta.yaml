@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/5adeaf55d01442e686da50bcb64f8a4d/artifacts
+end_time: 1740915012861
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 5adeaf55d01442e686da50bcb64f8a4d
+run_name: resilient-bug-391
+run_uuid: 5adeaf55d01442e686da50bcb64f8a4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740915009497
+status: 3
+tags: []
+user_id: kyomukama

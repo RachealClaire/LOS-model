@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/5c1b6dce1cf74b859a8ebb86c25924f7/artifacts
+end_time: 1741082306003
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 5c1b6dce1cf74b859a8ebb86c25924f7
+run_name: angry-moth-222
+run_uuid: 5c1b6dce1cf74b859a8ebb86c25924f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082305817
+status: 3
+tags: []
+user_id: kyomukama

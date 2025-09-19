@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/4760d2d70fd64a51b1f83ebb61f95807/artifacts
+end_time: 1739966029126
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 4760d2d70fd64a51b1f83ebb61f95807
+run_name: melodic-cow-39
+run_uuid: 4760d2d70fd64a51b1f83ebb61f95807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966028291
+status: 3
+tags: []
+user_id: racheal

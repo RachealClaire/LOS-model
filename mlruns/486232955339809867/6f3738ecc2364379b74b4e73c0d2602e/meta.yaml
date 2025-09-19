@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/6f3738ecc2364379b74b4e73c0d2602e/artifacts
+end_time: 1739966599885
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 6f3738ecc2364379b74b4e73c0d2602e
+run_name: honorable-bass-229
+run_uuid: 6f3738ecc2364379b74b4e73c0d2602e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966599584
+status: 3
+tags: []
+user_id: racheal

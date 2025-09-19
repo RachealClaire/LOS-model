@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/fd98bfa40b96408996885491e5e907cc/artifacts
+end_time: 1739965708513
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: fd98bfa40b96408996885491e5e907cc
+run_name: righteous-quail-921
+run_uuid: fd98bfa40b96408996885491e5e907cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965708209
+status: 3
+tags: []
+user_id: racheal

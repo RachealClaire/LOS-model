@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/019f1a4794704d308dd0e8daab81afdc/artifacts
+end_time: 1741085983343
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 019f1a4794704d308dd0e8daab81afdc
+run_name: crawling-chimp-262
+run_uuid: 019f1a4794704d308dd0e8daab81afdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741085978965
+status: 3
+tags: []
+user_id: kyomukama

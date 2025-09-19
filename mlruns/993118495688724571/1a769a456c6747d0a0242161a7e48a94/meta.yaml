@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/1a769a456c6747d0a0242161a7e48a94/artifacts
+end_time: 1741246525707
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 1a769a456c6747d0a0242161a7e48a94
+run_name: sassy-sloth-708
+run_uuid: 1a769a456c6747d0a0242161a7e48a94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741246525581
+status: 3
+tags: []
+user_id: kyomukama

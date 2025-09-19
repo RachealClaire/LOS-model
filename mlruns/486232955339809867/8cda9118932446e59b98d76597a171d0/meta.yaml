@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/8cda9118932446e59b98d76597a171d0/artifacts
+end_time: 1739957194076
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 8cda9118932446e59b98d76597a171d0
+run_name: charming-shad-25
+run_uuid: 8cda9118932446e59b98d76597a171d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957193784
+status: 3
+tags: []
+user_id: racheal

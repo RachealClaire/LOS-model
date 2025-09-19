@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/7003e34344b8449fb59616266ba558bd/artifacts
+end_time: 1739957219535
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 7003e34344b8449fb59616266ba558bd
+run_name: peaceful-ape-188
+run_uuid: 7003e34344b8449fb59616266ba558bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957219257
+status: 3
+tags: []
+user_id: racheal

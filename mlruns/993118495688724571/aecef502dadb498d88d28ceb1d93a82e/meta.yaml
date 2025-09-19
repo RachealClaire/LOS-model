@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/aecef502dadb498d88d28ceb1d93a82e/artifacts
+end_time: 1740984533576
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: aecef502dadb498d88d28ceb1d93a82e
+run_name: bemused-squirrel-399
+run_uuid: aecef502dadb498d88d28ceb1d93a82e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740984533374
+status: 3
+tags: []
+user_id: kyomukama

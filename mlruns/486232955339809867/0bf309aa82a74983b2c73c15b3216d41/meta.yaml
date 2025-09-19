@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/0bf309aa82a74983b2c73c15b3216d41/artifacts
+end_time: 1739965662526
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 0bf309aa82a74983b2c73c15b3216d41
+run_name: rare-crab-219
+run_uuid: 0bf309aa82a74983b2c73c15b3216d41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965662216
+status: 3
+tags: []
+user_id: racheal

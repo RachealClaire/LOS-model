@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/e4096ff9077f4f759d7099b9f3de38a7/artifacts
+end_time: 1739966374734
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: e4096ff9077f4f759d7099b9f3de38a7
+run_name: enthused-wolf-212
+run_uuid: e4096ff9077f4f759d7099b9f3de38a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966374267
+status: 3
+tags: []
+user_id: racheal

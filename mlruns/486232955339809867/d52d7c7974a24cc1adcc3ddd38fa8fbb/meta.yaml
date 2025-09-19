@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/d52d7c7974a24cc1adcc3ddd38fa8fbb/artifacts
+end_time: 1739956687115
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: d52d7c7974a24cc1adcc3ddd38fa8fbb
+run_name: amazing-lynx-174
+run_uuid: d52d7c7974a24cc1adcc3ddd38fa8fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956686879
+status: 3
+tags: []
+user_id: racheal

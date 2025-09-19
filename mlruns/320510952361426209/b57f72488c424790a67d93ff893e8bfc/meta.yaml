@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/b57f72488c424790a67d93ff893e8bfc/artifacts
+end_time: 1741626121291
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: b57f72488c424790a67d93ff893e8bfc
+run_name: treasured-hound-98
+run_uuid: b57f72488c424790a67d93ff893e8bfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741626117051
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/a506b480b81645b3ad186db0618635af/artifacts
+end_time: 1740914982063
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: a506b480b81645b3ad186db0618635af
+run_name: powerful-toad-492
+run_uuid: a506b480b81645b3ad186db0618635af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740914981890
+status: 3
+tags: []
+user_id: kyomukama

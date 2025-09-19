@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/85b8032cc5114ffabcf084cc2109a832/artifacts
+end_time: 1740659948455
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 85b8032cc5114ffabcf084cc2109a832
+run_name: likeable-trout-424
+run_uuid: 85b8032cc5114ffabcf084cc2109a832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740659936730
+status: 3
+tags: []
+user_id: racheal

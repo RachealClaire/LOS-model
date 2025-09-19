@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/52764a595e1542ba9f4c0cc0b4772add/artifacts
+end_time: 1739956766299
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 52764a595e1542ba9f4c0cc0b4772add
+run_name: puzzled-bird-734
+run_uuid: 52764a595e1542ba9f4c0cc0b4772add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956765889
+status: 3
+tags: []
+user_id: racheal

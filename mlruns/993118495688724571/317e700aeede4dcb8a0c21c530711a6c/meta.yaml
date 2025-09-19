@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/317e700aeede4dcb8a0c21c530711a6c/artifacts
+end_time: 1740472468253
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 317e700aeede4dcb8a0c21c530711a6c
+run_name: placid-lynx-864
+run_uuid: 317e700aeede4dcb8a0c21c530711a6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740472467526
+status: 3
+tags: []
+user_id: racheal

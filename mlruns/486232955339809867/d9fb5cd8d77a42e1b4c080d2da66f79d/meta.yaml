@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/d9fb5cd8d77a42e1b4c080d2da66f79d/artifacts
+end_time: 1739956677076
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: d9fb5cd8d77a42e1b4c080d2da66f79d
+run_name: aged-bird-393
+run_uuid: d9fb5cd8d77a42e1b4c080d2da66f79d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956676845
+status: 3
+tags: []
+user_id: racheal

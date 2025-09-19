@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/4c69fc1c8d4a4b7a9b6e6fcc101b21eb/artifacts
+end_time: 1740914980199
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 4c69fc1c8d4a4b7a9b6e6fcc101b21eb
+run_name: languid-pig-70
+run_uuid: 4c69fc1c8d4a4b7a9b6e6fcc101b21eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740914980016
+status: 3
+tags: []
+user_id: kyomukama

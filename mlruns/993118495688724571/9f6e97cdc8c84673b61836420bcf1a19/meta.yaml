@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/9f6e97cdc8c84673b61836420bcf1a19/artifacts
+end_time: 1741624610958
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 9f6e97cdc8c84673b61836420bcf1a19
+run_name: judicious-hog-135
+run_uuid: 9f6e97cdc8c84673b61836420bcf1a19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741624610830
+status: 3
+tags: []
+user_id: kyomukama

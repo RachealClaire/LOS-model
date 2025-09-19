@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyomukama/ACE/camonet/ml%20%28NEW%29/mlruns/0/90bc8febdc704e83add9f72abd9826db/artifacts
+end_time: 1740914884943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90bc8febdc704e83add9f72abd9826db
+run_name: bold-zebra-498
+run_uuid: 90bc8febdc704e83add9f72abd9826db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740914880411
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/ca7e6cfbe6a542539f4be238b32f379c/artifacts
+end_time: 1739957330481
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: ca7e6cfbe6a542539f4be238b32f379c
+run_name: puzzled-skink-405
+run_uuid: ca7e6cfbe6a542539f4be238b32f379c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957330081
+status: 3
+tags: []
+user_id: racheal

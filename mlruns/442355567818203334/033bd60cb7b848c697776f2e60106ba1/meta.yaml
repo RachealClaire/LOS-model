@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/033bd60cb7b848c697776f2e60106ba1/artifacts
+end_time: 1740915281404
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 033bd60cb7b848c697776f2e60106ba1
+run_name: trusting-kite-120
+run_uuid: 033bd60cb7b848c697776f2e60106ba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740915277809
+status: 3
+tags: []
+user_id: kyomukama

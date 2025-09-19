@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/8238f8e717624132b470153b42101d93/artifacts
+end_time: 1740659275904
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 8238f8e717624132b470153b42101d93
+run_name: selective-yak-73
+run_uuid: 8238f8e717624132b470153b42101d93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740659275181
+status: 3
+tags: []
+user_id: racheal

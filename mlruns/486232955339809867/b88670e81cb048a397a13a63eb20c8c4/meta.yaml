@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/b88670e81cb048a397a13a63eb20c8c4/artifacts
+end_time: 1739957101603
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: b88670e81cb048a397a13a63eb20c8c4
+run_name: victorious-shoat-592
+run_uuid: b88670e81cb048a397a13a63eb20c8c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957101434
+status: 3
+tags: []
+user_id: racheal

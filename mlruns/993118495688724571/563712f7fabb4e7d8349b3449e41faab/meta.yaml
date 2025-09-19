@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/563712f7fabb4e7d8349b3449e41faab/artifacts
+end_time: 1741246519400
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 563712f7fabb4e7d8349b3449e41faab
+run_name: rambunctious-cub-151
+run_uuid: 563712f7fabb4e7d8349b3449e41faab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741246516046
+status: 3
+tags: []
+user_id: kyomukama

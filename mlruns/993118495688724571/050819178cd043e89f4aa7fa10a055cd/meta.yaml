@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/050819178cd043e89f4aa7fa10a055cd/artifacts
+end_time: 1741241887432
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 050819178cd043e89f4aa7fa10a055cd
+run_name: legendary-fox-848
+run_uuid: 050819178cd043e89f4aa7fa10a055cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241887270
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyomukama/ACE/camonet/ml%20%28NEW%29/mlruns/0/f7179badadb445ec93cdde30acf43784/artifacts
+end_time: 1740992704144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7179badadb445ec93cdde30acf43784
+run_name: smiling-trout-545
+run_uuid: f7179badadb445ec93cdde30acf43784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740992701491
+status: 3
+tags: []
+user_id: kyomukama

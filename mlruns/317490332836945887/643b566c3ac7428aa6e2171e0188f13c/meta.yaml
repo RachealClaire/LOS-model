@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/317490332836945887/643b566c3ac7428aa6e2171e0188f13c/artifacts
+end_time: 1740580118039
+entry_point_name: ''
+experiment_id: '317490332836945887'
+lifecycle_stage: active
+run_id: 643b566c3ac7428aa6e2171e0188f13c
+run_name: unique-calf-959
+run_uuid: 643b566c3ac7428aa6e2171e0188f13c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740580110290
+status: 3
+tags: []
+user_id: racheal

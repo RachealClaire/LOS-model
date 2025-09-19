@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/31348b8394454db396017e228569a14f/artifacts
+end_time: 1740398119046
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 31348b8394454db396017e228569a14f
+run_name: bemused-fawn-200
+run_uuid: 31348b8394454db396017e228569a14f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740398118337
+status: 3
+tags: []
+user_id: racheal

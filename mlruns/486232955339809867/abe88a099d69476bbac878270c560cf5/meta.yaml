@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/abe88a099d69476bbac878270c560cf5/artifacts
+end_time: 1739966452385
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: abe88a099d69476bbac878270c560cf5
+run_name: chill-duck-741
+run_uuid: abe88a099d69476bbac878270c560cf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966452116
+status: 3
+tags: []
+user_id: racheal

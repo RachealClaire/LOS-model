@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/ae3f6ec9e36a4b01b6218d687d17b63a/artifacts
+end_time: 1739966273129
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: ae3f6ec9e36a4b01b6218d687d17b63a
+run_name: handsome-hen-94
+run_uuid: ae3f6ec9e36a4b01b6218d687d17b63a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966272932
+status: 3
+tags: []
+user_id: racheal

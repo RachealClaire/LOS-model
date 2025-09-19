@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/29399c13eb4c44c8b4e9dc79703cb101/artifacts
+end_time: 1739957400447
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 29399c13eb4c44c8b4e9dc79703cb101
+run_name: able-kit-533
+run_uuid: 29399c13eb4c44c8b4e9dc79703cb101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739957400061
+status: 3
+tags: []
+user_id: racheal

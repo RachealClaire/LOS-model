@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/e9c5c2585b344230a81a7a48da19731c/artifacts
+end_time: 1741067571962
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: e9c5c2585b344230a81a7a48da19731c
+run_name: righteous-turtle-210
+run_uuid: e9c5c2585b344230a81a7a48da19731c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741067571910
+status: 3
+tags: []
+user_id: kyomukama

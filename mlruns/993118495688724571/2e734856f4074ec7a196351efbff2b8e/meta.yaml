@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/2e734856f4074ec7a196351efbff2b8e/artifacts
+end_time: 1741241118260
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 2e734856f4074ec7a196351efbff2b8e
+run_name: stately-foal-141
+run_uuid: 2e734856f4074ec7a196351efbff2b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241118107
+status: 3
+tags: []
+user_id: kyomukama

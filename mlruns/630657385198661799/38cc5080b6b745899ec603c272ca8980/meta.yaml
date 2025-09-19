@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630657385198661799/38cc5080b6b745899ec603c272ca8980/artifacts
+end_time: 1740658206425
+entry_point_name: ''
+experiment_id: '630657385198661799'
+lifecycle_stage: active
+run_id: 38cc5080b6b745899ec603c272ca8980
+run_name: nebulous-cub-599
+run_uuid: 38cc5080b6b745899ec603c272ca8980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740658195698
+status: 3
+tags: []
+user_id: racheal

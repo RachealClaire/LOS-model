@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/43ba7f0b5a11466da9a8484f72422a01/artifacts
+end_time: 1740472469239
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 43ba7f0b5a11466da9a8484f72422a01
+run_name: calm-gnu-941
+run_uuid: 43ba7f0b5a11466da9a8484f72422a01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740472468285
+status: 3
+tags: []
+user_id: racheal

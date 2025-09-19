@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/49e619467b0a4a0686b0368d248930b4/artifacts
+end_time: 1741082596189
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 49e619467b0a4a0686b0368d248930b4
+run_name: redolent-dog-121
+run_uuid: 49e619467b0a4a0686b0368d248930b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082592490
+status: 3
+tags: []
+user_id: kyomukama

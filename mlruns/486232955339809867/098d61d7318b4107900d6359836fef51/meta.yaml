@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/098d61d7318b4107900d6359836fef51/artifacts
+end_time: 1739966602662
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 098d61d7318b4107900d6359836fef51
+run_name: classy-owl-187
+run_uuid: 098d61d7318b4107900d6359836fef51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966602382
+status: 3
+tags: []
+user_id: racheal

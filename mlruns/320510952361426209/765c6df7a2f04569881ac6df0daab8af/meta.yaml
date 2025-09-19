@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/765c6df7a2f04569881ac6df0daab8af/artifacts
+end_time: 1741682144983
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 765c6df7a2f04569881ac6df0daab8af
+run_name: bright-stag-176
+run_uuid: 765c6df7a2f04569881ac6df0daab8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741682141136
+status: 3
+tags: []
+user_id: kyomukama

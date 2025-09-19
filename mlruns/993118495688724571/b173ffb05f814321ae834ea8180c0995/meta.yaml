@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/b173ffb05f814321ae834ea8180c0995/artifacts
+end_time: 1740659279835
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: b173ffb05f814321ae834ea8180c0995
+run_name: upbeat-dolphin-358
+run_uuid: b173ffb05f814321ae834ea8180c0995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740659278991
+status: 3
+tags: []
+user_id: racheal

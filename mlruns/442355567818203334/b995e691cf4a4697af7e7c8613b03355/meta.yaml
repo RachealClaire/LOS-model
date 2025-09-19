@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/b995e691cf4a4697af7e7c8613b03355/artifacts
+end_time: 1741069313375
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: b995e691cf4a4697af7e7c8613b03355
+run_name: whimsical-hen-332
+run_uuid: b995e691cf4a4697af7e7c8613b03355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741069310671
+status: 3
+tags: []
+user_id: kyomukama

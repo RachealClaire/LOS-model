@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/5791c74c04614257a998b574ad793ac5/artifacts
+end_time: 1739966331427
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 5791c74c04614257a998b574ad793ac5
+run_name: marvelous-grouse-975
+run_uuid: 5791c74c04614257a998b574ad793ac5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966331183
+status: 3
+tags: []
+user_id: racheal

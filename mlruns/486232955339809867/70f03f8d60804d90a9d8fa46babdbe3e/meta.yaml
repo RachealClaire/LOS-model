@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/70f03f8d60804d90a9d8fa46babdbe3e/artifacts
+end_time: 1739966420596
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 70f03f8d60804d90a9d8fa46babdbe3e
+run_name: persistent-dog-380
+run_uuid: 70f03f8d60804d90a9d8fa46babdbe3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966419999
+status: 3
+tags: []
+user_id: racheal

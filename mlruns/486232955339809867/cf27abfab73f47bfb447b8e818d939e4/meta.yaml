@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/cf27abfab73f47bfb447b8e818d939e4/artifacts
+end_time: 1739965728532
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: cf27abfab73f47bfb447b8e818d939e4
+run_name: orderly-snipe-352
+run_uuid: cf27abfab73f47bfb447b8e818d939e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739965728090
+status: 3
+tags: []
+user_id: racheal

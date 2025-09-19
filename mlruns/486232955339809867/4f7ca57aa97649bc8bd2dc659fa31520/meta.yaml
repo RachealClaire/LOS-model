@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/4f7ca57aa97649bc8bd2dc659fa31520/artifacts
+end_time: 1739956724663
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 4f7ca57aa97649bc8bd2dc659fa31520
+run_name: adaptable-rat-7
+run_uuid: 4f7ca57aa97649bc8bd2dc659fa31520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956724163
+status: 3
+tags: []
+user_id: racheal

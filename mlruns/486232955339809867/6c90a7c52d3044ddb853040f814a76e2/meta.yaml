@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/6c90a7c52d3044ddb853040f814a76e2/artifacts
+end_time: 1739956987492
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 6c90a7c52d3044ddb853040f814a76e2
+run_name: classy-midge-245
+run_uuid: 6c90a7c52d3044ddb853040f814a76e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956987239
+status: 3
+tags: []
+user_id: racheal

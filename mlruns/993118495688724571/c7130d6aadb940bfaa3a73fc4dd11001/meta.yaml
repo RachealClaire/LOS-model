@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/c7130d6aadb940bfaa3a73fc4dd11001/artifacts
+end_time: 1740467753273
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: c7130d6aadb940bfaa3a73fc4dd11001
+run_name: serious-snake-507
+run_uuid: c7130d6aadb940bfaa3a73fc4dd11001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740467752286
+status: 3
+tags: []
+user_id: racheal

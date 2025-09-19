@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/79dd856c0b1e4132aafde8fe7d9f5e3b/artifacts
+end_time: 1740659283205
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 79dd856c0b1e4132aafde8fe7d9f5e3b
+run_name: vaunted-shrew-840
+run_uuid: 79dd856c0b1e4132aafde8fe7d9f5e3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740659281665
+status: 3
+tags: []
+user_id: racheal

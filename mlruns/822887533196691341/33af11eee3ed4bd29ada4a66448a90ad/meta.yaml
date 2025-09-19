@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/822887533196691341/33af11eee3ed4bd29ada4a66448a90ad/artifacts
+end_time: 1740476063681
+entry_point_name: ''
+experiment_id: '822887533196691341'
+lifecycle_stage: active
+run_id: 33af11eee3ed4bd29ada4a66448a90ad
+run_name: caring-robin-832
+run_uuid: 33af11eee3ed4bd29ada4a66448a90ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740476054699
+status: 3
+tags: []
+user_id: racheal

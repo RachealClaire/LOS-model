@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/eb760a4291dd437db37f06c27115da95/artifacts
+end_time: 1739966144397
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: eb760a4291dd437db37f06c27115da95
+run_name: rebellious-fowl-633
+run_uuid: eb760a4291dd437db37f06c27115da95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966144192
+status: 3
+tags: []
+user_id: racheal

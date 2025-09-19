@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/663cb865880d4fefa13f3d3599b34980/artifacts
+end_time: 1739966508098
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 663cb865880d4fefa13f3d3599b34980
+run_name: delightful-bird-71
+run_uuid: 663cb865880d4fefa13f3d3599b34980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966507595
+status: 3
+tags: []
+user_id: racheal

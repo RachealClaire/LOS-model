@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/eb4cdf93b1a143839fe2e318d01a34d4/artifacts
+end_time: 1740472464103
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: eb4cdf93b1a143839fe2e318d01a34d4
+run_name: powerful-steed-340
+run_uuid: eb4cdf93b1a143839fe2e318d01a34d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740472463063
+status: 3
+tags: []
+user_id: racheal

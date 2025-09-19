@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/a6353e14dc2c4597a3cdcd7012367c0c/artifacts
+end_time: 1741241117949
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: a6353e14dc2c4597a3cdcd7012367c0c
+run_name: whimsical-panda-918
+run_uuid: a6353e14dc2c4597a3cdcd7012367c0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241117836
+status: 3
+tags: []
+user_id: kyomukama

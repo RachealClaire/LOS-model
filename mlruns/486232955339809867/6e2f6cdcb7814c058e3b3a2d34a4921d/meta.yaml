@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/6e2f6cdcb7814c058e3b3a2d34a4921d/artifacts
+end_time: 1739966190957
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 6e2f6cdcb7814c058e3b3a2d34a4921d
+run_name: adorable-stag-797
+run_uuid: 6e2f6cdcb7814c058e3b3a2d34a4921d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966190316
+status: 3
+tags: []
+user_id: racheal

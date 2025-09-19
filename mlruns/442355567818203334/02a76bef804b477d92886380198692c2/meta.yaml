@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/02a76bef804b477d92886380198692c2/artifacts
+end_time: 1741245830358
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 02a76bef804b477d92886380198692c2
+run_name: debonair-slug-404
+run_uuid: 02a76bef804b477d92886380198692c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741245826180
+status: 3
+tags: []
+user_id: kyomukama

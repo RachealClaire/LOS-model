@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/8c01426650fa4f54a5fcf9f71c38c7c8/artifacts
+end_time: 1739966601328
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 8c01426650fa4f54a5fcf9f71c38c7c8
+run_name: defiant-wren-990
+run_uuid: 8c01426650fa4f54a5fcf9f71c38c7c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966600971
+status: 3
+tags: []
+user_id: racheal

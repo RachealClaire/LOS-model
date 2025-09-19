@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/26f395deee0148fabbb6c075049a6634/artifacts
+end_time: 1741672520039
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: 26f395deee0148fabbb6c075049a6634
+run_name: skittish-rook-336
+run_uuid: 26f395deee0148fabbb6c075049a6634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741672515116
+status: 3
+tags: []
+user_id: kyomukama

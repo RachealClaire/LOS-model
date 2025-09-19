@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/4979d09c1cfc4b429a8f7361d00d8b93/artifacts
+end_time: 1741624609812
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 4979d09c1cfc4b429a8f7361d00d8b93
+run_name: sneaky-fly-652
+run_uuid: 4979d09c1cfc4b429a8f7361d00d8b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741624609688
+status: 3
+tags: []
+user_id: kyomukama

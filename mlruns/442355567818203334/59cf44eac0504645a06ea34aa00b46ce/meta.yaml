@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/442355567818203334/59cf44eac0504645a06ea34aa00b46ce/artifacts
+end_time: 1741007109442
+entry_point_name: ''
+experiment_id: '442355567818203334'
+lifecycle_stage: active
+run_id: 59cf44eac0504645a06ea34aa00b46ce
+run_name: languid-yak-678
+run_uuid: 59cf44eac0504645a06ea34aa00b46ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741007106545
+status: 3
+tags: []
+user_id: kyomukama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/b4ae8d9a676648dfa17d1e924557834f/artifacts
+end_time: 1741079594592
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: b4ae8d9a676648dfa17d1e924557834f
+run_name: bemused-ape-758
+run_uuid: b4ae8d9a676648dfa17d1e924557834f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741079590713
+status: 3
+tags: []
+user_id: kyomukama

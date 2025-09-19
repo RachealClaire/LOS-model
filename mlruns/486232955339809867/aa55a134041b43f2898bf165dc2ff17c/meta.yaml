@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/aa55a134041b43f2898bf165dc2ff17c/artifacts
+end_time: 1739956678323
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: aa55a134041b43f2898bf165dc2ff17c
+run_name: glamorous-ape-584
+run_uuid: aa55a134041b43f2898bf165dc2ff17c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739956678080
+status: 3
+tags: []
+user_id: racheal

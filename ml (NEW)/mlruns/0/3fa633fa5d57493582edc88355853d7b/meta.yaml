@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyomukama/ACE/camonet/ml%20%28NEW%29/mlruns/0/3fa633fa5d57493582edc88355853d7b/artifacts
+end_time: 1741079590449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fa633fa5d57493582edc88355853d7b
+run_name: rare-cod-420
+run_uuid: 3fa633fa5d57493582edc88355853d7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741079587823
+status: 3
+tags: []
+user_id: kyomukama

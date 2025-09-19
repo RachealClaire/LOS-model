@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/96cf4c61f2e6449dbd874c93f88bdebf/artifacts
+end_time: 1739966213038
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 96cf4c61f2e6449dbd874c93f88bdebf
+run_name: legendary-grouse-740
+run_uuid: 96cf4c61f2e6449dbd874c93f88bdebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966212603
+status: 3
+tags: []
+user_id: racheal

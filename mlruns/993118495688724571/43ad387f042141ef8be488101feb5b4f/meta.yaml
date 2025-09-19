@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/43ad387f042141ef8be488101feb5b4f/artifacts
+end_time: 1740467770146
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 43ad387f042141ef8be488101feb5b4f
+run_name: agreeable-whale-182
+run_uuid: 43ad387f042141ef8be488101feb5b4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740467769067
+status: 3
+tags: []
+user_id: racheal

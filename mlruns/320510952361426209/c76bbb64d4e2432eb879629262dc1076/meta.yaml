@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320510952361426209/c76bbb64d4e2432eb879629262dc1076/artifacts
+end_time: 1740984547454
+entry_point_name: ''
+experiment_id: '320510952361426209'
+lifecycle_stage: active
+run_id: c76bbb64d4e2432eb879629262dc1076
+run_name: receptive-koi-590
+run_uuid: c76bbb64d4e2432eb879629262dc1076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740984544497
+status: 3
+tags: []
+user_id: kyomukama

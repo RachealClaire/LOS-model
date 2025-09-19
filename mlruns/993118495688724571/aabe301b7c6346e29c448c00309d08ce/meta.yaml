@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/aabe301b7c6346e29c448c00309d08ce/artifacts
+end_time: 1740467761931
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: aabe301b7c6346e29c448c00309d08ce
+run_name: exultant-hawk-270
+run_uuid: aabe301b7c6346e29c448c00309d08ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740467760675
+status: 3
+tags: []
+user_id: racheal

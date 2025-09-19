@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/317490332836945887
+creation_time: 1740579273861
+experiment_id: '317490332836945887'
+last_update_time: 1740579273861
+lifecycle_stage: active
+name: MLflow XGB Regressor model

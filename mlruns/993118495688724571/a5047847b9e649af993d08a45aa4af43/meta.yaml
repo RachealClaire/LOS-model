@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/a5047847b9e649af993d08a45aa4af43/artifacts
+end_time: 1740466364683
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: a5047847b9e649af993d08a45aa4af43
+run_name: nebulous-chimp-937
+run_uuid: a5047847b9e649af993d08a45aa4af43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740466363584
+status: 3
+tags: []
+user_id: racheal

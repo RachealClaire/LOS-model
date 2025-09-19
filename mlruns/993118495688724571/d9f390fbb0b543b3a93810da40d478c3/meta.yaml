@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/d9f390fbb0b543b3a93810da40d478c3/artifacts
+end_time: 1741082304894
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: d9f390fbb0b543b3a93810da40d478c3
+run_name: unique-midge-654
+run_uuid: d9f390fbb0b543b3a93810da40d478c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082304728
+status: 3
+tags: []
+user_id: kyomukama

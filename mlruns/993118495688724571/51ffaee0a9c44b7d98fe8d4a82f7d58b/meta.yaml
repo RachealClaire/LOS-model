@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/51ffaee0a9c44b7d98fe8d4a82f7d58b/artifacts
+end_time: 1741241119616
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 51ffaee0a9c44b7d98fe8d4a82f7d58b
+run_name: burly-midge-799
+run_uuid: 51ffaee0a9c44b7d98fe8d4a82f7d58b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741241119453
+status: 3
+tags: []
+user_id: kyomukama

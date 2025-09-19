@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/f232bca2bc8a4f778c24e731539335c2/artifacts
+end_time: 1741082402123
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: f232bca2bc8a4f778c24e731539335c2
+run_name: judicious-bird-824
+run_uuid: f232bca2bc8a4f778c24e731539335c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741082401919
+status: 3
+tags: []
+user_id: kyomukama

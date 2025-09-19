@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/2112bc9d539d49f8855318c19b42657a/artifacts
+end_time: 1741069207583
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: 2112bc9d539d49f8855318c19b42657a
+run_name: fun-goose-183
+run_uuid: 2112bc9d539d49f8855318c19b42657a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741069207525
+status: 3
+tags: []
+user_id: kyomukama

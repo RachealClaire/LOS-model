@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741007181470
+current_stage: None
+description: ''
+last_updated_timestamp: 1741007181470
+name: Lasso Regressor model
+run_id: cedda21bb89140cf830a3219e8d64ea6
+run_link: ''
+source: mlflow-artifacts:/630657385198661799/cedda21bb89140cf830a3219e8d64ea6/artifacts/growth
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/630657385198661799/cedda21bb89140cf830a3219e8d64ea6/artifacts/growth
+user_id: null
+version: 10

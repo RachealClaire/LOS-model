@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486232955339809867/5fd0afe419d4454789bcde95fa0185f7/artifacts
+end_time: 1739966548762
+entry_point_name: ''
+experiment_id: '486232955339809867'
+lifecycle_stage: active
+run_id: 5fd0afe419d4454789bcde95fa0185f7
+run_name: invincible-fox-74
+run_uuid: 5fd0afe419d4454789bcde95fa0185f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966548515
+status: 3
+tags: []
+user_id: racheal

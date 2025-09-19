@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993118495688724571/f3fc24d211d048e6808dccb28371cd2a/artifacts
+end_time: 1739951215823
+entry_point_name: ''
+experiment_id: '993118495688724571'
+lifecycle_stage: active
+run_id: f3fc24d211d048e6808dccb28371cd2a
+run_name: youthful-tern-598
+run_uuid: f3fc24d211d048e6808dccb28371cd2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739951126498
+status: 3
+tags: []
+user_id: racheal
