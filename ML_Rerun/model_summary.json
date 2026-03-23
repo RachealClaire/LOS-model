@@ -1,0 +1,39 @@
+{
+  "analysis_date": "2026-03-23T14:08:38.888939",
+  "models_evaluated": [
+    "GradientBoosting",
+    "RandomForest",
+    "DecisionTree",
+    "SVM"
+  ],
+  "results": [
+    {
+      "Model": "GradientBoosting",
+      "Train_RMSE": 104.1135625715978,
+      "Test_RMSE": 39.29371328327265,
+      "Test_R2": 0.018580457559110974,
+      "Corrected_R2": -0.02322790623120069
+    },
+    {
+      "Model": "RandomForest",
+      "Train_RMSE": 94.28406943923005,
+      "Test_RMSE": 39.189605518569145,
+      "Test_R2": 0.023774064030804953,
+      "Corrected_R2": -0.04442321475616162
+    },
+    {
+      "Model": "DecisionTree",
+      "Train_RMSE": 66.34879354390878,
+      "Test_RMSE": 43.87210368251773,
+      "Test_R2": -0.22344789135828447,
+      "Corrected_R2": -0.04742999167202944
+    },
+    {
+      "Model": "SVM",
+      "Train_RMSE": 104.8761178127633,
+      "Test_RMSE": 39.6443056915399,
+      "Test_R2": 0.0009891837440367812,
+      "Corrected_R2": -0.026098419447474704
+    }
+  ]
+}

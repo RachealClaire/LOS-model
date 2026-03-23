@@ -1,0 +1,93 @@
+{
+  "analysis_date": "2026-03-23T14:53:18.664963",
+  "best_model": "XGBoost",
+  "n_train": 1764,
+  "n_test": 595,
+  "n_features": 9,
+  "methods": {
+    "tuning": "RandomizedSearchCV (n_iter=40, cv=5)",
+    "pooling": "Rubin's Rules via bootstrap (M=50)",
+    "df_adjustment": "Barnard-Rubin (1999)",
+    "internal_validation": "Bootstrap optimism correction (n=200)",
+    "target_transform": "log1p / expm1 (training only)"
+  },
+  "all_models": {
+    "GradientBoosting": {
+      "cv_rmse": 100.71496085966177,
+      "test_rmse": 39.259677984441815,
+      "test_mae": 15.875059920202645,
+      "test_r2": 0.020279886714847928
+    },
+    "XGBoost": {
+      "cv_rmse": 100.73843065647297,
+      "test_rmse": 38.88515339760289,
+      "test_mae": 15.758272502001594,
+      "test_r2": 0.038883150741124584
+    },
+    "LightGBM": {
+      "cv_rmse": 100.89083697949286,
+      "test_rmse": 39.18983534425933,
+      "test_mae": 15.358997500976486,
+      "test_r2": 0.023762613930482734
+    },
+    "RandomForest": {
+      "cv_rmse": 100.94266988520273,
+      "test_rmse": 39.14964728882328,
+      "test_mae": 16.022395736881926,
+      "test_r2": 0.025763794371468363
+    },
+    "ElasticNet": {
+      "cv_rmse": 101.08302529332433,
+      "test_rmse": 39.46810782901769,
+      "test_mae": 15.534469833568856,
+      "test_r2": 0.009849593924109112
+    }
+  },
+  "rubin_pooled_oob": {
+    "rmse": 104.27651127115742,
+    "rmse_ci": [
+      42.92845461065233,
+      165.6245679316625
+    ],
+    "mae": 26.254966885254397,
+    "mae_ci": [
+      18.11665543835072,
+      34.393278332158076
+    ],
+    "r2": -0.02364853641999605,
+    "r2_ci": [
+      -0.04256640724825331,
+      -0.004730665591738788
+    ]
+  },
+  "apparent_performance": {
+    "rmse": 99.72480404765385,
+    "mae": 21.740217848970236,
+    "r2": 0.07263246216851371
+  },
+  "test_performance": {
+    "rmse": 38.88515339760289,
+    "mae": 15.758272502001594,
+    "r2": 0.038883150741124584,
+    "baseline_rmse": 41.1862629851435,
+    "beats_baseline": true
+  },
+  "bootstrap_validation": {
+    "n_iterations": 200,
+    "optimism_rmse": -7.833561450655693,
+    "optimism_r2": 0.11229592163357281,
+    "corrected_rmse": 91.89124259699815,
+    "corrected_r2": -0.0396634594650591
+  },
+  "top_features": [
+    "Resistance",
+    "ward",
+    "age",
+    "name_of_rrh",
+    "cormobid_condition",
+    "sex",
+    "antibiotics_prescribed",
+    "num_infection_sites",
+    "referral"
+  ]
+}

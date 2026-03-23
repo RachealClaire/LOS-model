@@ -1,0 +1,1765 @@
+name_of_rrh,age,sex,num_infection_sites,referral,ward,cormobid_condition,antibiotics_prescribed,growth1,Resistance,length_hosp_stay
+Arua,36.0,Female,2,No,Gynaecology,No,Yes,No,No,13.0
+Arua,57.0,Female,3,No,Orthopaedic,No,Yes,Yes,Yes,46.0
+Arua,8.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,1.0
+Arua,1.0,Male,3,Yes,Paediatric,No,Yes,No,No,4.0
+Arua,21.0,Female,1,Yes,Gynaecology,No,Yes,Yes,Yes,3.0
+Arua,0.0,Male,3,No,Paediatric,No,Yes,Yes,Yes,4.0
+Arua,9.0,Male,1,No,Paediatric,No,Yes,No,No,11.0
+Arua,1.0,Male,2,Yes,Paediatric,No,Yes,No,No,11.0
+Arua,54.0,Female,1,No,Surgical,No,No,Yes,Yes,18.0
+Arua,80.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,14.0
+Arua,42.0,Male,1,No,Surgical,No,Yes,Yes,Yes,20.0
+Arua,33.0,Female,4,Yes,Maternity/Post-Natal ward,No,No,Yes,Yes,30.0
+Arua,4.0,Female,1,No,Surgical,No,Yes,Yes,Yes,19.0
+Arua,54.0,Male,1,No,Surgical,No,Yes,Yes,Yes,385.0
+Arua,1.0,Male,1,No,Paediatric,No,Yes,No,No,13.0
+Arua,26.0,Female,4,No,Gynaecology,No,Yes,Yes,Yes,11.0
+Arua,20.0,Male,1,No,Surgical,No,Yes,Yes,Yes,9.0
+Arua,25.0,Male,2,No,Surgical,No,Yes,Yes,Yes,4.0
+Arua,33.0,Male,2,No,Surgical,No,No,No,Yes,32.0
+Arua,18.0,Female,3,Yes,Maternity/Post-Natal ward,No,Yes,No,No,19.0
+Arua,40.0,Female,4,No,Gynaecology,No,No,Yes,Yes,39.0
+Arua,32.0,Female,3,No,Maternity/Post-Natal ward,No,No,Yes,Yes,31.0
+Arua,25.0,Female,2,No,Maternity/Post-Natal ward,No,No,Yes,Yes,4.0
+Arua,40.0,Male,2,No,TB ward,Yes,Yes,Yes,Yes,102.0
+Arua,25.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,32.0
+Arua,5.0,Female,1,No,Surgical,No,Yes,Yes,Yes,13.0
+Arua,50.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,12.0
+Arua,42.0,Male,1,No,Orthopaedic,No,No,No,No,42.0
+Arua,18.0,Female,1,No,Gynaecology,No,Yes,Yes,No,10.0
+Arua,58.0,Male,1,Yes,Medical,No,Yes,No,No,3.0
+Arua,0.0,Male,1,No,Paediatric,Yes,Yes,No,No,24.0
+Arua,23.0,Female,2,No,Orthopaedic,No,Yes,No,No,56.0
+Arua,53.0,Female,3,No,Surgical,No,No,No,No,13.0
+Arua,19.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,No,No,7.0
+Arua,3.0,Female,1,Yes,ICU/HDU,No,Yes,No,No,23.0
+Arua,20.0,Female,2,No,Gynaecology,Yes,Yes,No,No,7.0
+Arua,12.0,Female,1,No,Orthopaedic,No,Yes,No,No,48.0
+Arua,34.0,Female,1,No,Surgical,No,Yes,Yes,Yes,34.0
+Arua,16.0,Female,2,No,Gynaecology,No,No,No,No,4.0
+Arua,17.0,Female,4,No,Maternity/Post-Natal ward,No,Yes,No,No,13.0
+Arua,34.0,Male,2,No,Medical,No,No,No,No,27.0
+Arua,34.0,Female,2,No,Surgical,Yes,No,No,No,25.0
+Arua,24.0,Male,1,No,Surgical,No,Yes,Yes,Yes,40.0
+Arua,24.0,Female,1,Yes,Maternity/Post-Natal ward,No,No,No,No,16.0
+Arua,1.0,Male,2,No,Paediatric,No,Yes,No,No,43.0
+Arua,61.0,Female,2,No,Orthopaedic,No,No,Yes,Yes,5.0
+Arua,27.0,Female,1,No,Gynaecology,No,No,Yes,Yes,12.0
+Arua,47.0,Male,2,No,Surgical,No,Yes,Yes,Yes,5.0
+Arua,31.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,8.0
+Arua,36.0,Male,1,No,Surgical,No,No,Yes,Yes,53.0
+Arua,36.0,Male,1,No,Surgical,No,No,Yes,Yes,53.0
+Arua,63.0,Female,1,No,Maternity/Post-Natal ward,Yes,Yes,Yes,Yes,9.0
+Arua,23.0,Male,2,No,Accident and emergency,No,Yes,Yes,Yes,4.0
+Arua,15.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,4.0
+Arua,1.0,Male,2,Yes,Paediatric,No,Yes,Yes,Yes,3.0
+Arua,2.0,Female,2,Yes,Paediatric,Yes,Yes,No,No,13.0
+Arua,26.0,Female,2,No,Gynaecology,No,Yes,No,No,16.0
+Arua,27.0,Female,2,No,Gynaecology,No,Yes,No,No,2.0
+Arua,16.0,Female,2,No,Gynaecology,No,Yes,No,No,4.0
+Arua,32.0,Female,2,No,Maternity/Post-Natal ward,No,Yes,Yes,No,21.0
+Arua,2.0,Male,1,No,Paediatric,No,Yes,No,No,12.0
+Arua,4.0,Female,1,No,Paediatric,No,No,No,No,2.0
+Arua,24.0,Female,2,No,Accident and emergency,No,Yes,No,No,0.0
+Arua,9.0,Male,2,No,Paediatric,No,Yes,No,No,6.0
+Arua,8.0,Male,2,No,Paediatric,No,Yes,No,No,63.0
+Arua,32.0,Male,1,No,Accident and emergency,No,Yes,No,No,16.0
+Arua,16.0,Male,2,No,Medical,No,Yes,No,No,13.0
+Arua,11.0,Female,2,No,Paediatric,No,Yes,No,No,3.0
+Arua,14.0,Female,3,No,Medical,No,Yes,No,No,4.0
+Arua,33.0,Male,1,No,Orthopaedic,Yes,Yes,No,No,4.0
+Arua,0.0,Male,1,Yes,Paediatric,No,Yes,No,No,3.0
+Arua,20.0,Female,2,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,11.0
+Arua,30.0,Female,3,No,Gynaecology,No,Yes,Yes,Yes,8.0
+Arua,0.0,Female,2,Yes,NICU Unit,No,Yes,Yes,Yes,62.0
+Arua,18.0,Female,1,No,Accident and emergency,No,Yes,No,No,2.0
+Arua,27.0,Female,2,No,Gynaecology,No,No,Yes,Yes,12.0
+Arua,0.0,Male,1,Yes,Paediatric,No,Yes,No,No,4.0
+Arua,3.0,Female,3,No,Paediatric,Yes,Yes,No,No,370.0
+Arua,71.0,Female,2,No,Private wing,Yes,No,Yes,Yes,17.0
+Arua,12.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,5.0
+Arua,19.0,Female,1,Yes,Maternity/Post-Natal ward,No,Yes,Yes,Yes,20.0
+Arua,5.0,Male,1,No,Paediatric,Yes,Yes,Yes,Yes,65.0
+Arua,36.0,Male,1,No,Surgical,No,No,Yes,Yes,53.0
+Arua,19.0,Female,3,No,Gynaecology,No,Yes,Yes,Yes,4.0
+Arua,22.0,Female,3,Yes,Surgical,No,Yes,Yes,Yes,3.0
+Arua,28.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,10.0
+Arua,22.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,32.0
+Arua,48.0,Male,1,No,Orthopaedic,No,Yes,No,No,11.0
+Arua,78.0,Female,2,No,Surgical,Yes,Yes,Yes,Yes,14.0
+Arua,62.0,Female,2,No,Surgical,No,No,Yes,Yes,46.0
+Arua,42.0,Male,1,Yes,Accident and emergency,No,Yes,No,No,28.0
+Arua,37.0,Male,1,No,Surgical,No,No,Yes,Yes,29.0
+Arua,36.0,Male,1,No,Accident and emergency,No,Yes,Yes,Yes,21.0
+Arua,38.0,Male,1,No,Accident and emergency,No,Yes,Yes,Yes,6.0
+Arua,68.0,Female,1,No,Surgical,No,No,Yes,Yes,40.0
+Arua,26.0,Male,1,No,Accident and emergency,No,Yes,Yes,Yes,4.0
+Arua,4.0,Female,2,Yes,Paediatric,No,No,Yes,Yes,13.0
+Arua,12.0,Male,1,No,Orthopaedic,No,No,Yes,Yes,88.0
+Arua,18.0,Male,1,No,Orthopaedic,No,No,Yes,Yes,11.0
+Arua,23.0,Female,1,No,Orthopaedic,No,No,No,No,56.0
+Arua,17.0,Female,1,No,Gynaecology,No,No,No,No,22.0
+Arua,47.0,Female,1,No,Orthopaedic,No,No,No,No,7.0
+Arua,85.0,Female,2,No,Medical,Yes,Yes,Yes,Yes,84.0
+Arua,1.0,Female,1,No,Paediatric,No,Yes,No,No,3.0
+Arua,51.0,Female,1,No,Medical,Yes,Yes,Yes,Yes,350.0
+Arua,55.0,Male,1,Yes,Surgical,No,Yes,Yes,No,18.0
+Arua,42.0,Male,1,No,Accident and emergency,No,Yes,Yes,Yes,20.0
+Arua,4.0,Female,2,No,Surgical,No,Yes,Yes,Yes,19.0
+Arua,65.0,Female,1,No,Surgical,No,Yes,Yes,Yes,20.0
+Arua,23.0,Female,3,No,Gynaecology,No,Yes,Yes,Yes,7.0
+Arua,2.0,Male,1,Yes,Paediatric,No,Yes,No,No,13.0
+Arua,5.0,Male,1,No,Paediatric,No,No,No,No,10.0
+Arua,24.0,Male,1,No,Orthopaedic,No,No,Yes,Yes,1.0
+Arua,3.0,Male,3,Yes,Paediatric,No,Yes,Yes,Yes,64.0
+Arua,68.0,Female,3,No,Accident and emergency,Yes,Yes,No,No,145.0
+Arua,37.0,Female,1,Yes,Gynaecology,No,No,Yes,Yes,42.0
+Arua,26.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,No,No,2.0
+Arua,17.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,28.0
+Arua,19.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,20.0
+Arua,21.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,31.0
+Arua,26.0,Female,1,No,Surgical,No,Yes,Yes,Yes,51.0
+Arua,7.0,Female,2,No,Paediatric,Yes,Yes,Yes,Yes,13.0
+Arua,7.0,Female,2,No,Paediatric,No,Yes,Yes,Yes,13.0
+Arua,20.0,Male,1,No,Orthopaedic,No,No,Yes,Yes,1.0
+Arua,25.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,19.0
+Arua,27.0,Female,1,Yes,Medical,No,Yes,Yes,Yes,35.0
+Arua,13.0,Male,1,No,Surgical,No,No,Yes,Yes,12.0
+Arua,17.0,Female,1,No,Gynaecology,No,Yes,Yes,No,21.0
+Arua,19.0,Female,2,No,Gynaecology,No,No,Yes,Yes,27.0
+Arua,19.0,Male,2,Yes,Surgical,No,Yes,Yes,Yes,52.0
+Arua,28.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,61.0
+Kabale,14.0,Male,2,No,Surgical,No,Yes,Yes,No,32.0
+Arua,23.0,Female,1,Yes,ICU/HDU,No,Yes,Yes,Yes,51.0
+Arua,47.0,Female,3,No,Medical,Yes,No,Yes,Yes,55.0
+Arua,35.0,Female,1,No,Surgical,No,Yes,Yes,Yes,66.0
+Arua,28.0,Female,2,No,Medical,Yes,Yes,Yes,Yes,93.0
+Arua,40.0,Female,1,No,Surgical,Yes,No,Yes,Yes,17.0
+Arua,30.0,Female,1,No,ICU/HDU,No,Yes,Yes,Yes,25.0
+Arua,47.0,Male,2,Yes,Medical,Yes,Yes,Yes,Yes,35.0
+Arua,48.0,Male,2,No,Surgical,Yes,No,Yes,Yes,30.0
+Arua,57.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,51.0
+Arua,65.0,Female,2,No,Surgical,No,Yes,Yes,Yes,26.0
+Arua,1.0,Male,1,No,Paediatric,No,Yes,Yes,No,13.0
+Arua,26.0,Male,1,No,Orthopaedic,No,No,No,No,20.0
+Arua,5.0,Female,3,No,Paediatric,No,Yes,Yes,Yes,7.0
+Arua,29.0,Female,1,No,Gynaecology,No,No,Yes,Yes,35.0
+Arua,20.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,26.0
+Arua,20.0,Male,1,No,Orthopaedic,No,No,Yes,Yes,87.0
+Arua,3.0,Male,2,Yes,Surgical,No,No,No,No,23.0
+Arua,8.0,Female,3,No,Paediatric,No,Yes,No,No,9.0
+Arua,9.0,Female,2,No,Paediatric,Yes,Yes,No,No,16.0
+Arua,13.0,Male,3,Yes,Paediatric,No,Yes,No,No,5.0
+Arua,32.0,Female,1,No,Gynaecology,No,Yes,No,No,2.0
+Arua,59.0,Female,2,No,Gynaecology,No,No,Yes,Yes,35.0
+Arua,9.0,Male,3,Yes,ICU/HDU,Yes,Yes,No,No,3.0
+Arua,11.0,Female,1,Yes,Paediatric,No,Yes,Yes,No,11.0
+Arua,16.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,20.0
+Arua,24.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,28.0
+Arua,13.0,Male,1,No,Surgical,No,No,Yes,Yes,39.0
+Arua,57.0,Male,1,No,Private wing,Yes,Yes,Yes,Yes,50.0
+Arua,57.0,Male,1,No,Private wing,Yes,Yes,Yes,Yes,50.0
+Arua,26.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,18.0
+Arua,25.0,Male,2,Yes,Orthopaedic,No,Yes,Yes,Yes,42.0
+Arua,18.0,Female,3,No,Gynaecology,No,Yes,Yes,Yes,8.0
+Arua,39.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,142.0
+Arua,20.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,43.0
+Arua,20.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,87.0
+Arua,16.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,20.0
+Arua,20.0,Female,3,No,Private wing,No,Yes,Yes,Yes,18.0
+Arua,20.0,Female,3,No,Gynaecology,No,Yes,Yes,No,18.0
+Arua,17.0,Female,3,No,Gynaecology,No,Yes,No,No,62.0
+Arua,20.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,29.0
+Arua,9.0,Female,2,No,Paediatric,No,Yes,Yes,No,9.0
+Arua,60.0,Female,2,No,Surgical,No,Yes,Yes,Yes,13.0
+Arua,19.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,27.0
+Arua,19.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,31.0
+Arua,14.0,Female,1,No,Orthopaedic,No,Yes,Yes,Yes,97.0
+Arua,33.0,Female,1,No,Gynaecology,No,Yes,No,No,0.0
+Arua,1.0,Male,1,Yes,Paediatric,No,No,No,No,7.0
+Arua,81.0,Male,4,No,Medical,Yes,Yes,No,No,15.0
+Arua,0.0,Female,1,No,Paediatric,No,Yes,No,No,6.0
+Arua,2.0,Male,2,No,Paediatric,No,No,No,No,13.0
+Arua,44.0,Female,1,Yes,Private wing,Yes,Yes,Yes,Yes,37.0
+Arua,14.0,Female,2,No,Orthopaedic,No,No,Yes,No,14.0
+Arua,39.0,Male,3,No,Orthopaedic,No,Yes,Yes,Yes,142.0
+Arua,26.0,Male,2,No,Orthopaedic,No,Yes,Yes,No,26.0
+Arua,44.0,Male,1,No,Orthopaedic,Yes,No,Yes,No,3.0
+Arua,65.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,26.0
+Arua,25.0,Male,3,No,Medical,Yes,Yes,Yes,Yes,16.0
+Arua,19.0,Female,1,No,Gynaecology,No,No,Yes,Yes,27.0
+Arua,40.0,Female,1,No,Gynaecology,No,No,Yes,Yes,29.0
+Arua,60.0,Female,1,No,Surgical,No,Yes,Yes,Yes,12.0
+Arua,40.0,Male,2,Yes,Private wing,No,Yes,Yes,No,5.0
+Arua,9.0,Female,2,No,Paediatric,No,Yes,Yes,No,9.0
+Arua,80.0,Female,1,No,Medical,No,Yes,Yes,Yes,15.0
+Arua,20.0,Female,2,No,Gynaecology,No,No,Yes,Yes,26.0
+Arua,12.0,Female,1,No,Orthopaedic,No,No,No,No,11.0
+Arua,35.0,Female,2,Yes,Gynaecology,No,No,No,No,11.0
+Arua,2.0,Male,2,No,Paediatric,No,Yes,No,No,20.0
+Arua,40.0,Male,2,Yes,Private wing,No,Yes,No,No,5.0
+Arua,0.0,Male,1,Yes,Paediatric,No,Yes,Yes,Yes,20.0
+Arua,35.0,Female,2,No,Gynaecology,Yes,No,Yes,Yes,5.0
+Arua,8.0,Female,2,No,Paediatric,No,No,Yes,Yes,17.0
+Arua,19.0,Female,1,No,Gynaecology,No,No,No,No,19.0
+Arua,20.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,20.0
+Arua,26.0,Female,2,No,Surgical,No,Yes,Yes,No,51.0
+Arua,0.0,Female,1,No,Paediatric,No,Yes,Yes,Yes,17.0
+Arua,0.0,Male,1,Yes,Paediatric,No,Yes,Yes,Yes,8.0
+Arua,8.0,Male,2,No,Paediatric,No,Yes,Yes,Yes,14.0
+Arua,3.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,6.0
+Arua,22.0,Female,2,No,Gynaecology,No,No,No,No,3.0
+Arua,0.0,Female,2,Yes,Paediatric,No,Yes,No,No,10.0
+Arua,1.0,Female,1,Yes,Paediatric,No,Yes,No,No,21.0
+Arua,2.0,Female,3,Yes,Paediatric,No,No,No,No,7.0
+Arua,0.0,Female,2,Yes,Paediatric,No,Yes,No,No,8.0
+Arua,10.0,Female,2,No,Paediatric,Yes,Yes,No,No,10.0
+Arua,1.0,Female,3,Yes,Paediatric,No,Yes,No,No,22.0
+Arua,4.0,Female,2,Yes,Paediatric,No,Yes,No,No,3.0
+Arua,22.0,Female,2,No,Gynaecology,No,No,No,No,19.0
+Arua,25.0,Female,2,No,Gynaecology,No,Yes,No,No,19.0
+Arua,37.0,Female,1,No,Gynaecology,No,No,No,No,16.0
+Arua,1.0,Female,2,No,Surgical,No,Yes,No,No,19.0
+Arua,40.0,Female,2,No,Medical,Yes,No,No,No,7.0
+Arua,19.0,Female,2,No,Gynaecology,No,No,No,No,19.0
+Arua,19.0,Female,2,No,Gynaecology,No,Yes,No,No,30.0
+Arua,23.0,Female,2,No,Medical,No,Yes,No,No,4.0
+Arua,17.0,Female,2,No,Gynaecology,No,Yes,No,No,16.0
+Arua,9.0,Female,2,Yes,Paediatric,Yes,Yes,No,No,41.0
+Arua,2.0,Female,1,No,Paediatric,No,No,No,No,1.0
+Arua,0.0,Female,2,No,Paediatric,No,No,No,No,10.0
+Arua,0.0,Female,2,No,Paediatric,No,Yes,No,No,2.0
+Arua,2.0,Male,2,Yes,Paediatric,No,Yes,No,No,2.0
+Arua,5.0,Female,1,No,Paediatric,No,Yes,No,No,11.0
+Arua,3.0,Male,2,Yes,Paediatric,No,Yes,No,No,9.0
+Arua,26.0,Female,2,Yes,Maternity/Post-Natal ward,No,No,No,No,5.0
+Arua,8.0,Male,1,No,Paediatric,Yes,No,No,No,15.0
+Arua,60.0,Female,1,No,Medical,Yes,No,No,No,9.0
+Arua,23.0,Female,2,Yes,Gynaecology,No,No,No,No,17.0
+Arua,60.0,Female,1,No,Surgical,Yes,No,No,No,42.0
+Arua,0.0,Male,3,Yes,Paediatric,No,Yes,No,No,10.0
+Arua,4.0,Female,2,Yes,Paediatric,No,Yes,No,No,5.0
+Arua,0.0,Female,3,No,Paediatric,No,Yes,No,No,12.0
+Arua,0.0,Female,2,No,Paediatric,No,No,No,No,6.0
+Arua,0.0,Male,1,No,Paediatric,No,Yes,No,No,29.0
+Arua,45.0,Male,1,No,Orthopaedic,No,Yes,No,No,8.0
+Arua,0.0,Female,1,Yes,Paediatric,No,Yes,No,No,6.0
+Arua,52.0,Female,2,No,Gynaecology,No,Yes,No,No,3.0
+Arua,8.0,Male,2,No,Paediatric,Yes,Yes,No,No,15.0
+Arua,19.0,Female,1,No,Gynaecology,No,No,No,No,20.0
+Arua,63.0,Female,1,No,Surgical,Yes,No,No,No,42.0
+Arua,10.0,Female,2,No,Paediatric,Yes,Yes,No,No,10.0
+Arua,4.0,Male,3,No,Paediatric,Yes,Yes,No,No,6.0
+Arua,10.0,Female,2,Yes,Paediatric,Yes,Yes,No,No,4.0
+Arua,3.0,Female,2,No,Paediatric,No,No,No,No,16.0
+Arua,16.0,Male,2,No,Paediatric,No,Yes,No,No,23.0
+Arua,1.0,Female,2,No,Paediatric,No,Yes,No,No,15.0
+Arua,17.0,Male,3,Yes,Medical,No,Yes,No,No,9.0
+Arua,14.0,Female,3,No,Medical,Yes,No,No,No,6.0
+Arua,16.0,Female,2,No,Medical,Yes,Yes,No,No,99.0
+Arua,0.0,Male,2,No,Paediatric,No,Yes,No,No,28.0
+Arua,1.0,Male,1,No,Paediatric,Yes,Yes,No,No,162.0
+Arua,33.0,Female,1,No,Gynaecology,No,Yes,No,No,34.0
+Arua,62.0,Female,1,No,Surgical,No,Yes,Yes,No,16.0
+Arua,4.0,Male,3,No,Paediatric,No,Yes,No,No,7.0
+Arua,78.0,Male,2,No,Surgical,No,Yes,Yes,Yes,13.0
+Arua,55.0,Male,2,No,Medical,Yes,Yes,No,No,6.0
+Gulu,60.0,Female,3,No,Medical,No,No,Yes,Yes,29.0
+Gulu,1.0,Female,1,No,Paediatric,No,Yes,Yes,Yes,22.0
+Gulu,14.0,Male,3,Yes,Medical,No,Yes,Yes,Yes,20.0
+Gulu,28.0,Female,3,No,Medical,Yes,No,Yes,Yes,59.0
+Gulu,36.0,Male,1,No,Medical,Yes,Yes,Yes,Yes,72.0
+Gulu,83.0,Male,2,No,Surgical,Yes,Yes,Yes,Yes,39.0
+Gulu,14.0,Male,2,No,Medical,No,Yes,Yes,Yes,112.0
+Gulu,62.0,Male,1,No,Surgical,No,No,Yes,Yes,73.0
+Gulu,34.0,Male,2,No,Surgical,No,No,Yes,Yes,33.0
+Gulu,18.0,Female,1,No,Surgical,No,No,Yes,Yes,51.0
+Gulu,23.0,Female,3,No,Gynaecology,No,No,No,No,25.0
+Gulu,5.0,Male,3,Yes,Accident and emergency,No,Yes,No,No,10.0
+Gulu,7.0,Female,1,No,Paediatric,Yes,Yes,No,No,40.0
+Gulu,40.0,Male,1,No,Surgical,No,Yes,No,No,362.0
+Gulu,32.0,Male,1,No,Medical,Yes,Yes,Yes,Yes,17.0
+Gulu,74.0,Female,1,No,Surgical,No,Yes,No,No,3.0
+Gulu,79.0,Male,1,No,Surgical,Yes,No,Yes,Yes,61.0
+Gulu,27.0,Male,1,No,Medical,Yes,No,No,No,1125.0
+Gulu,31.0,Female,1,No,Gynaecology,No,No,No,No,3.0
+Gulu,26.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,No,No,29.0
+Gulu,0.0,Female,1,No,NICU Unit,No,Yes,Yes,No,13.0
+Gulu,6.0,Male,3,No,Surgical,No,Yes,Yes,Yes,49.0
+Gulu,2.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,42.0
+Gulu,27.0,Male,1,No,Medical,No,Yes,Yes,Yes,80.0
+Gulu,0.0,Female,1,No,NICU Unit,No,No,Yes,Yes,12.0
+Gulu,4.0,Female,1,Yes,Surgical,No,Yes,Yes,Yes,107.0
+Gulu,23.0,Female,2,No,Surgical,No,Yes,Yes,Yes,46.0
+Gulu,23.0,Female,2,No,Surgical,No,Yes,Yes,Yes,46.0
+Gulu,0.0,Female,3,No,Paediatric,No,Yes,No,No,14.0
+Gulu,23.0,Female,1,Yes,Medical,Yes,No,No,No,12.0
+Gulu,40.0,Male,1,No,Surgical,No,Yes,No,No,26.0
+Gulu,1.0,Male,1,No,Paediatric,No,No,No,No,5.0
+Gulu,38.0,Female,1,No,ICU/HDU,No,No,Yes,Yes,23.0
+Gulu,18.0,Male,1,No,Surgical,No,Yes,Yes,Yes,29.0
+Gulu,20.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,49.0
+Gulu,38.0,Female,1,No,Gynaecology,Yes,Yes,Yes,No,69.0
+Gulu,24.0,Male,2,No,Surgical,No,Yes,Yes,Yes,106.0
+Gulu,43.0,Male,2,No,ICU/HDU,Yes,Yes,Yes,Yes,21.0
+Gulu,24.0,Male,1,No,Orthopaedic,Yes,No,Yes,Yes,74.0
+Gulu,2.0,Male,2,No,Paediatric,Yes,Yes,Yes,Yes,54.0
+Gulu,29.0,Male,1,No,Medical,No,Yes,No,No,9.0
+Gulu,2.0,Female,2,Yes,Paediatric,No,Yes,No,No,36.0
+Gulu,21.0,Female,1,No,ICU/HDU,Yes,Yes,No,No,11.0
+Gulu,16.0,Female,2,No,Medical,Yes,Yes,No,No,23.0
+Gulu,2.0,Female,3,No,Paediatric,No,Yes,No,No,32.0
+Gulu,7.0,Female,2,No,Paediatric,Yes,Yes,No,No,7.0
+Gulu,7.0,Female,2,No,Paediatric,Yes,Yes,No,No,7.0
+Gulu,39.0,Male,1,No,Surgical,Yes,No,Yes,Yes,26.0
+Gulu,78.0,Female,3,No,Medical,No,Yes,Yes,No,5.0
+Gulu,63.0,Male,1,No,TB ward,Yes,Yes,No,No,4.0
+Gulu,72.0,Female,2,No,Medical,Yes,Yes,No,No,3.0
+Gulu,60.0,Male,2,No,TB ward,No,Yes,Yes,Yes,9.0
+Gulu,62.0,Female,2,No,Surgical,Yes,Yes,Yes,Yes,47.0
+Gulu,25.0,Female,2,No,Surgical,No,Yes,Yes,Yes,69.0
+Gulu,0.0,Male,1,No,NICU Unit,No,No,Yes,Yes,5.0
+Gulu,0.0,Female,2,No,NICU Unit,No,No,Yes,Yes,5.0
+Gulu,41.0,Female,2,No,Surgical,Yes,Yes,Yes,Yes,97.0
+Gulu,15.0,Female,1,No,Orthopaedic,No,No,Yes,Yes,24.0
+Gulu,28.0,Male,1,No,Surgical,No,Yes,No,No,7.0
+Gulu,18.0,Female,2,No,Surgical,No,No,No,No,21.0
+Gulu,38.0,Female,2,No,Gynaecology,Yes,Yes,No,No,13.0
+Gulu,29.0,Male,2,No,Surgical,No,No,No,No,132.0
+Gulu,0.0,Male,3,Yes,Accident and emergency,No,Yes,No,No,2.0
+Gulu,70.0,Female,1,No,Surgical,No,Yes,Yes,Yes,21.0
+Gulu,37.0,Male,2,No,Surgical,No,No,Yes,Yes,11.0
+Gulu,19.0,Female,1,Yes,Maternity/Post-Natal ward,No,Yes,Yes,Yes,4.0
+Gulu,19.0,Female,1,Yes,Maternity/Post-Natal ward,No,Yes,Yes,Yes,4.0
+Gulu,18.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,No,8.0
+Gulu,3.0,Female,1,No,Paediatric,No,Yes,No,No,12.0
+Gulu,3.0,Female,3,Yes,Paediatric,No,No,No,No,15.0
+Gulu,28.0,Female,2,No,Surgical,No,Yes,Yes,Yes,12.0
+Gulu,2.0,Male,2,No,Paediatric,Yes,Yes,Yes,Yes,54.0
+Gulu,19.0,Male,3,Yes,Surgical,No,No,Yes,Yes,15.0
+Gulu,2.0,Male,2,No,Paediatric,Yes,No,Yes,Yes,44.0
+Gulu,0.0,Male,2,No,NICU Unit,No,No,Yes,Yes,15.0
+Gulu,34.0,Female,3,No,ICU/HDU,No,No,Yes,Yes,67.0
+Gulu,75.0,Male,2,No,Surgical,No,Yes,Yes,Yes,33.0
+Gulu,34.0,Female,3,No,ICU/HDU,No,No,Yes,Yes,67.0
+Gulu,71.0,Male,3,No,Surgical,No,No,Yes,Yes,17.0
+Gulu,2.0,Male,1,No,Surgical,No,Yes,Yes,Yes,12.0
+Gulu,12.0,Female,2,No,Paediatric,No,Yes,No,No,7.0
+Gulu,26.0,Female,1,No,Surgical,No,Yes,Yes,Yes,8.0
+Gulu,51.0,Female,3,No,Gynaecology,No,Yes,Yes,Yes,4.0
+Gulu,22.0,Male,1,No,Medical,No,Yes,No,No,11.0
+Gulu,0.0,Male,1,No,NICU Unit,No,Yes,Yes,Yes,6.0
+Gulu,0.0,Male,1,No,NICU Unit,No,Yes,Yes,Yes,4.0
+Gulu,0.0,Female,1,No,Paediatric,No,Yes,Yes,Yes,6.0
+Gulu,28.0,Female,1,No,Medical,No,Yes,Yes,No,14.0
+Gulu,0.0,Female,1,No,NICU Unit,No,No,Yes,Yes,16.0
+Gulu,0.0,Female,1,No,NICU Unit,No,Yes,Yes,Yes,14.0
+Gulu,0.0,Male,1,No,Medical,No,No,Yes,No,55.0
+Gulu,0.0,Male,2,No,Paediatric,No,Yes,Yes,Yes,6.0
+Gulu,27.0,Female,3,No,Medical,Yes,No,Yes,Yes,13.0
+Gulu,22.0,Male,1,No,Surgical,No,Yes,Yes,No,8.0
+Gulu,23.0,Female,1,No,Gynaecology,No,No,Yes,Yes,35.0
+Gulu,37.0,Male,1,No,Medical,Yes,Yes,No,No,25.0
+Gulu,24.0,Male,1,No,Medical,No,Yes,No,No,44.0
+Gulu,18.0,Female,2,No,Gynaecology,No,Yes,No,No,49.0
+Gulu,2.0,Female,1,No,Paediatric,No,No,No,No,5.0
+Gulu,20.0,Male,1,No,Surgical,No,No,No,No,25.0
+Gulu,20.0,Female,1,No,Maternity/Post-Natal ward,No,No,No,No,13.0
+Gulu,0.0,Male,1,No,NICU Unit,No,Yes,No,No,5.0
+Gulu,24.0,Male,2,Yes,Medical,Yes,Yes,No,No,67.0
+Gulu,0.0,Male,1,No,Medical,Yes,Yes,No,No,10.0
+Gulu,25.0,Male,1,No,Medical,No,Yes,No,No,2.0
+Gulu,15.0,Male,1,No,Medical,No,Yes,No,No,9.0
+Gulu,43.0,Male,1,No,Medical,No,Yes,No,No,2.0
+Gulu,12.0,Male,1,No,Paediatric,No,Yes,No,No,2.0
+Gulu,50.0,Male,1,No,Orthopaedic,No,Yes,No,No,26.0
+Gulu,52.0,Male,1,No,Surgical,No,Yes,No,No,6.0
+Gulu,15.0,Male,1,No,Medical,No,No,No,No,29.0
+Gulu,25.0,Female,1,No,Gynaecology,No,Yes,No,No,17.0
+Gulu,29.0,Female,2,No,Surgical,No,Yes,Yes,Yes,39.0
+Gulu,19.0,Male,2,Yes,Surgical,No,Yes,Yes,Yes,47.0
+Gulu,0.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,4.0
+Gulu,19.0,Male,2,Yes,Surgical,No,Yes,Yes,Yes,14.0
+Gulu,76.0,Male,1,No,Surgical,No,Yes,Yes,Yes,136.0
+Gulu,26.0,Female,1,No,Medical,No,Yes,No,Yes,68.0
+Gulu,42.0,Female,2,No,Medical,Yes,Yes,No,No,9.0
+Gulu,12.0,Male,2,No,Paediatric,No,Yes,Yes,Yes,10.0
+Gulu,33.0,Female,1,No,Surgical,No,Yes,No,No,6.0
+Gulu,0.0,Male,1,No,Paediatric,Yes,No,Yes,Yes,49.0
+Gulu,40.0,Female,2,No,Orthopaedic,No,No,Yes,Yes,34.0
+Gulu,48.0,Male,3,No,ICU/HDU,Yes,Yes,Yes,Yes,8.0
+Gulu,26.0,Male,3,No,ICU/HDU,No,Yes,Yes,Yes,18.0
+Gulu,37.0,Female,3,No,Medical,No,Yes,No,No,6.0
+Gulu,26.0,Male,1,No,ICU/HDU,No,Yes,No,No,18.0
+Gulu,45.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,79.0
+Gulu,1.0,Male,2,No,Paediatric,No,No,Yes,Yes,22.0
+Gulu,1.0,Male,1,No,Paediatric,Yes,Yes,No,No,11.0
+Gulu,45.0,Male,2,No,Surgical,No,No,Yes,Yes,28.0
+Gulu,75.0,Female,3,No,Private wing,Yes,No,No,No,17.0
+Gulu,75.0,Female,2,No,Private wing,No,No,No,No,18.0
+Gulu,25.0,Female,2,No,ICU/HDU,No,No,No,No,8.0
+Gulu,35.0,Female,1,No,ICU/HDU,No,Yes,Yes,Yes,11.0
+Gulu,72.0,Female,1,No,Surgical,No,Yes,Yes,Yes,36.0
+Gulu,15.0,Female,2,No,Private wing,Yes,Yes,No,No,5.0
+Gulu,0.0,Female,3,No,NICU Unit,No,Yes,Yes,Yes,30.0
+Gulu,21.0,Female,2,No,Accident and emergency,No,Yes,Yes,Yes,31.0
+Gulu,1.0,Female,1,No,Paediatric,No,No,Yes,Yes,5.0
+Gulu,0.0,Female,2,Yes,Surgical,No,Yes,No,No,21.0
+Gulu,0.0,Male,2,No,NICU Unit,No,Yes,Yes,Yes,12.0
+Gulu,19.0,Male,2,Yes,Surgical,No,Yes,No,No,47.0
+Gulu,79.0,Male,2,Yes,Medical,No,No,Yes,Yes,6.0
+Gulu,78.0,Female,1,Yes,Surgical,No,Yes,Yes,Yes,31.0
+Gulu,21.0,Female,1,Yes,Medical,Yes,Yes,No,No,6.0
+Gulu,49.0,Female,1,No,Medical,No,Yes,No,No,3.0
+Gulu,17.0,Male,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,42.0
+Gulu,31.0,Male,1,No,Surgical,No,No,Yes,Yes,5.0
+Gulu,72.0,Female,2,No,Medical,Yes,No,No,No,94.0
+Gulu,12.0,Male,4,Yes,Paediatric,No,Yes,Yes,Yes,10.0
+Gulu,2.0,Male,3,No,Paediatric,Yes,Yes,No,No,12.0
+Gulu,2.0,Female,2,Yes,Paediatric,Yes,Yes,No,No,12.0
+Gulu,21.0,Male,1,No,Surgical,No,Yes,Yes,Yes,24.0
+Gulu,35.0,Male,1,No,Surgical,No,No,Yes,Yes,18.0
+Jinja,0.0,Male,1,Yes,NICU Unit,No,Yes,No,No,7.0
+Jinja,66.0,Male,2,Yes,ICU/HDU,Yes,Yes,Yes,Yes,5.0
+Jinja,40.0,Male,1,No,Gynaecology,No,Yes,No,No,12.0
+Jinja,27.0,Female,1,No,Medical,Yes,Yes,Yes,No,32.0
+Jinja,16.0,Male,2,No,Medical,No,Yes,Yes,Yes,34.0
+Jinja,32.0,Female,1,No,Medical,Yes,Yes,No,No,6.0
+Jinja,25.0,Female,2,No,Medical,No,Yes,No,No,2.0
+Jinja,59.0,Female,1,No,Medical,Yes,Yes,No,No,1.0
+Jinja,72.0,Female,1,No,Medical,No,No,No,No,3.0
+Jinja,50.0,Female,3,Yes,Medical,Yes,Yes,No,No,3.0
+Jinja,65.0,Female,1,No,Medical,Yes,Yes,No,No,4.0
+Jinja,52.0,Female,1,No,Accident and emergency,No,Yes,Yes,Yes,2.0
+Jinja,0.0,Male,1,No,ICU/HDU,No,Yes,No,No,14.0
+Jinja,0.0,Female,2,No,Orthopaedic,No,Yes,Yes,Yes,3.0
+Jinja,0.0,Female,2,Yes,Paediatric,No,Yes,No,No,11.0
+Jinja,76.0,Male,1,No,Orthopaedic,No,Yes,No,No,19.0
+Jinja,44.0,Male,1,No,Orthopaedic,Yes,Yes,No,No,23.0
+Jinja,25.0,Male,1,No,Orthopaedic,Yes,Yes,No,No,24.0
+Jinja,66.0,Male,1,No,Surgical,No,Yes,No,No,41.0
+Jinja,60.0,Male,1,No,Medical,No,Yes,No,No,20.0
+Jinja,24.0,Female,1,No,Orthopaedic,No,Yes,No,No,13.0
+Jinja,25.0,Male,1,No,Orthopaedic,No,Yes,No,No,60.0
+Jinja,49.0,Male,1,No,Orthopaedic,No,Yes,No,No,23.0
+Jinja,21.0,Male,1,No,Orthopaedic,No,Yes,No,No,6.0
+Jinja,30.0,Female,1,No,Orthopaedic,Yes,Yes,No,No,40.0
+Jinja,52.0,Female,1,No,Orthopaedic,No,Yes,No,No,16.0
+Jinja,23.0,Male,1,No,Orthopaedic,No,Yes,No,No,1.0
+Jinja,35.0,Female,1,Yes,Surgical,No,Yes,No,No,15.0
+Jinja,63.0,Male,1,No,Medical,Yes,Yes,No,No,15.0
+Jinja,81.0,Male,1,No,Medical,Yes,Yes,No,No,3.0
+Jinja,38.0,Male,1,No,Medical,No,Yes,No,No,8.0
+Jinja,60.0,Male,1,No,Medical,Yes,Yes,No,No,7.0
+Jinja,62.0,Male,1,No,Medical,No,Yes,No,No,2.0
+Jinja,33.0,Male,1,No,Medical,Yes,Yes,No,No,19.0
+Jinja,45.0,Male,1,No,Medical,Yes,No,No,No,51.0
+Jinja,37.0,Male,1,No,Medical,Yes,No,No,No,11.0
+Jinja,30.0,Male,1,No,Medical,Yes,No,No,No,37.0
+Jinja,38.0,Male,1,No,Medical,No,Yes,No,No,6.0
+Jinja,75.0,Female,1,No,Surgical,No,Yes,No,No,73.0
+Jinja,50.0,Male,1,No,Surgical,Yes,Yes,No,No,48.0
+Jinja,50.0,Female,1,No,Surgical,No,No,No,No,39.0
+Jinja,81.0,Female,1,Yes,Surgical,Yes,No,No,No,11.0
+Jinja,42.0,Male,1,No,Surgical,No,Yes,No,No,9.0
+Jinja,38.0,Male,1,No,Medical,Yes,Yes,No,No,3.0
+Jinja,46.0,Male,1,No,Medical,Yes,No,No,No,17.0
+Jinja,52.0,Female,1,No,ICU/HDU,Yes,No,No,No,25.0
+Jinja,0.0,Female,1,No,ICU/HDU,No,Yes,No,No,21.0
+Jinja,36.0,Male,1,No,Orthopaedic,No,Yes,No,No,34.0
+Jinja,48.0,Male,1,No,Medical,Yes,Yes,No,No,3.0
+Jinja,48.0,Male,1,No,Medical,Yes,Yes,No,No,3.0
+Jinja,70.0,Male,1,No,Medical,No,Yes,No,No,9.0
+Jinja,36.0,Male,1,No,Accident and emergency,No,No,No,No,3.0
+Jinja,45.0,Male,1,No,Medical,No,No,No,No,6.0
+Jinja,40.0,Male,1,No,Surgical,Yes,Yes,No,No,15.0
+Jinja,32.0,Male,1,No,Medical,Yes,Yes,No,No,6.0
+Jinja,41.0,Male,1,No,Medical,Yes,Yes,No,No,11.0
+Jinja,36.0,Male,1,No,Surgical,Yes,No,No,No,5.0
+Jinja,39.0,Male,2,No,Medical,Yes,Yes,No,No,5.0
+Jinja,80.0,Female,1,No,Gynaecology,Yes,Yes,No,No,48.0
+Jinja,39.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,2.0
+Jinja,52.0,Male,2,No,Medical,Yes,Yes,Yes,Yes,3.0
+Jinja,0.0,Female,2,No,Paediatric,No,Yes,No,No,4.0
+Jinja,0.0,Male,1,Yes,Paediatric,No,Yes,No,No,15.0
+Jinja,48.0,Male,1,Yes,Surgical,Yes,Yes,No,No,21.0
+Jinja,75.0,Female,1,No,Medical,Yes,Yes,No,No,17.0
+Jinja,2.0,Male,2,No,Accident and emergency,No,Yes,No,No,10.0
+Jinja,28.0,Male,2,No,Surgical,No,Yes,No,No,6.0
+Jinja,29.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,22.0
+Jinja,43.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,134.0
+Jinja,60.0,Male,1,No,Medical,No,Yes,No,No,11.0
+Jinja,0.0,Male,1,Yes,NICU Unit,No,Yes,No,No,7.0
+Jinja,50.0,Female,1,No,Medical,Yes,Yes,No,No,6.0
+Jinja,75.0,Female,1,No,Medical,No,Yes,No,No,4.0
+Jinja,18.0,Female,1,No,Medical,Yes,Yes,No,No,2.0
+Jinja,24.0,Male,2,No,Medical,Yes,Yes,No,No,2.0
+Jinja,20.0,Male,1,Yes,Medical,No,Yes,No,No,5.0
+Jinja,25.0,Female,1,No,Gynaecology,No,Yes,No,No,1099.0
+Jinja,44.0,Female,1,No,Surgical,Yes,Yes,No,No,1.0
+Jinja,23.0,Male,1,No,Surgical,No,Yes,No,No,22.0
+Jinja,63.0,Female,1,No,Medical,Yes,No,No,No,27.0
+Jinja,26.0,Female,1,No,Gynaecology,No,Yes,No,No,10.0
+Jinja,27.0,Female,1,No,Gynaecology,No,Yes,No,No,23.0
+Jinja,48.0,Male,1,No,Medical,Yes,Yes,No,No,12.0
+Jinja,38.0,Male,1,No,Medical,Yes,Yes,No,No,5.0
+Jinja,60.0,Female,1,No,ICU/HDU,No,Yes,No,No,14.0
+Jinja,52.0,Male,1,No,ICU/HDU,Yes,Yes,No,No,10.0
+Jinja,64.0,Male,1,No,ICU/HDU,Yes,Yes,No,No,8.0
+Jinja,45.0,Male,1,No,Medical,No,Yes,No,No,4.0
+Jinja,75.0,Female,1,Yes,ICU/HDU,Yes,Yes,No,No,10.0
+Jinja,56.0,Male,1,No,ICU/HDU,No,Yes,No,No,19.0
+Jinja,84.0,Female,2,No,ICU/HDU,Yes,Yes,No,No,45.0
+Jinja,50.0,Male,1,No,Medical,No,Yes,No,No,5.0
+Jinja,0.0,Female,1,No,Paediatric,No,Yes,No,No,17.0
+Jinja,14.0,Female,2,No,ICU/HDU,No,Yes,No,No,13.0
+Jinja,37.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,49.0
+Jinja,48.0,Female,1,No,Orthopaedic,No,Yes,Yes,Yes,65.0
+Jinja,26.0,Male,1,No,Medical,Yes,Yes,No,No,6.0
+Jinja,29.0,Male,1,Yes,Medical,No,Yes,Yes,Yes,36.0
+Jinja,28.0,Male,1,No,Medical,No,No,No,No,2.0
+Jinja,23.0,Male,1,No,Surgical,No,Yes,No,No,42.0
+Jinja,56.0,Female,1,No,ICU/HDU,No,No,No,No,10.0
+Jinja,48.0,Male,1,Yes,Medical,No,No,No,No,3.0
+Jinja,80.0,Female,1,No,Orthopaedic,Yes,No,Yes,Yes,54.0
+Jinja,42.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,31.0
+Jinja,16.0,Male,1,Yes,Orthopaedic,No,Yes,No,No,14.0
+Jinja,29.0,Male,1,No,Orthopaedic,No,Yes,No,No,10.0
+Jinja,66.0,Male,1,No,Orthopaedic,No,Yes,No,No,663.0
+Jinja,41.0,Male,1,No,Surgical,Yes,Yes,No,No,16.0
+Jinja,51.0,Male,1,No,Surgical,No,Yes,Yes,Yes,61.0
+Jinja,40.0,Male,1,No,Surgical,No,Yes,No,No,10.0
+Jinja,40.0,Male,1,No,Surgical,Yes,Yes,No,No,19.0
+Jinja,33.0,Male,1,No,Orthopaedic,No,Yes,No,No,9.0
+Jinja,48.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,30.0
+Jinja,45.0,Male,1,No,Medical,Yes,Yes,No,Yes,9.0
+Jinja,60.0,Female,1,No,Medical,No,Yes,Yes,Yes,3.0
+Jinja,11.0,Female,1,No,Paediatric,Yes,Yes,Yes,Yes,31.0
+Jinja,3.0,Female,1,No,Paediatric,No,Yes,No,No,4.0
+Jinja,54.0,Male,1,No,Medical,No,Yes,No,No,9.0
+Jinja,49.0,Male,1,No,Medical,Yes,No,No,No,5.0
+Jinja,37.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,53.0
+Jinja,25.0,Female,1,No,Medical,Yes,Yes,No,No,3.0
+Jinja,25.0,Female,1,No,Medical,Yes,Yes,No,No,5.0
+Jinja,75.0,Female,1,No,Medical,Yes,Yes,No,No,7.0
+Jinja,70.0,Female,1,Yes,ICU/HDU,Yes,Yes,No,No,9.0
+Jinja,74.0,Female,1,No,ICU/HDU,Yes,Yes,No,No,11.0
+Jinja,62.0,Male,1,No,ICU/HDU,No,No,No,No,7.0
+Jinja,0.0,Male,1,Yes,NICU Unit,No,Yes,No,No,15.0
+Jinja,20.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,25.0
+Jinja,70.0,Female,1,No,Orthopaedic,Yes,Yes,Yes,Yes,58.0
+Jinja,35.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,40.0
+Jinja,19.0,Male,1,No,Orthopaedic,No,Yes,No,No,12.0
+Jinja,44.0,Male,1,No,Orthopaedic,No,Yes,No,No,20.0
+Jinja,18.0,Male,1,No,Orthopaedic,No,Yes,No,No,81.0
+Jinja,12.0,Female,1,No,Surgical,No,Yes,No,No,26.0
+Jinja,40.0,Female,1,No,Medical,No,Yes,No,No,12.0
+Jinja,20.0,Female,1,No,Surgical,No,Yes,No,No,12.0
+Kabale,16.0,Male,2,No,Surgical,No,Yes,No,No,6.0
+Kabale,2.0,Male,1,No,Surgical,No,Yes,Yes,Yes,0.0
+Kabale,37.0,Male,1,No,Surgical,No,Yes,No,No,28.0
+Kabale,30.0,Female,2,Yes,Surgical,Yes,Yes,Yes,Yes,3.0
+Kabale,0.0,Male,1,No,NICU Unit,No,Yes,No,No,3.0
+Kabale,28.0,Female,1,No,Medical,No,Yes,No,No,3.0
+Kabale,1.0,Male,3,No,Paediatric,No,Yes,No,No,12.0
+Kabale,2.0,Female,3,No,Paediatric,No,Yes,No,No,2.0
+Kabale,25.0,Female,1,No,Gynaecology,No,Yes,No,No,9.0
+Kabale,56.0,Female,2,No,Surgical,No,Yes,Yes,Yes,19.0
+Kabale,45.0,Female,1,Yes,Gynaecology,Yes,Yes,Yes,Yes,16.0
+Kabale,9.0,Female,2,Yes,Surgical,No,Yes,Yes,Yes,2.0
+Kabale,45.0,Female,1,Yes,Gynaecology,No,Yes,Yes,No,4.0
+Kabale,52.0,Female,3,No,Medical,No,Yes,No,No,8.0
+Kabale,92.0,Female,1,Yes,Medical,Yes,Yes,Yes,Yes,6.0
+Kabale,25.0,Male,1,No,Surgical,No,Yes,Yes,Yes,16.0
+Kabale,65.0,Male,1,No,Surgical,No,Yes,Yes,Yes,9.0
+Kabale,67.0,Female,1,No,Surgical,No,Yes,Yes,Yes,4.0
+Kabale,8.0,Male,1,No,Surgical,No,Yes,Yes,No,3.0
+Kabale,35.0,Female,1,No,Surgical,No,Yes,Yes,Yes,2.0
+Kabale,14.0,Male,1,No,Surgical,No,No,Yes,Yes,6.0
+Kabale,8.0,Female,1,No,Surgical,No,Yes,Yes,Yes,11.0
+Kabale,49.0,Female,2,Yes,Medical,No,Yes,Yes,No,10.0
+Kabale,26.0,Female,3,Yes,Medical,No,Yes,No,No,6.0
+Kabale,0.0,Female,1,No,Paediatric,No,Yes,No,No,0.0
+Kabale,39.0,Male,1,No,Medical,No,Yes,No,No,4.0
+Kabale,83.0,Female,1,Yes,Medical,No,Yes,No,No,10.0
+Kabale,45.0,Female,1,Yes,Orthopaedic,No,Yes,Yes,Yes,142.0
+Kabale,35.0,Male,2,No,Surgical,No,Yes,Yes,Yes,57.0
+Kabale,37.0,Male,2,Yes,Medical,Yes,No,Yes,Yes,34.0
+Kabale,1.0,Female,2,No,Paediatric,No,Yes,Yes,Yes,14.0
+Kabale,70.0,Female,2,No,Medical,No,Yes,No,No,17.0
+Kabale,23.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,10.0
+Kabale,21.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,2.0
+Kabale,12.0,Male,1,No,Surgical,No,Yes,No,No,288.0
+Kabale,80.0,Male,1,No,Medical,No,No,No,No,12.0
+Kabale,6.0,Male,1,No,Surgical,No,Yes,Yes,No,10.0
+Kabale,12.0,Female,1,No,Surgical,No,Yes,Yes,No,14.0
+Kabale,85.0,Female,1,No,Medical,Yes,No,Yes,Yes,9.0
+Kabale,5.0,Male,2,No,Paediatric,No,Yes,No,No,30.0
+Kabale,29.0,Male,1,No,Surgical,No,Yes,Yes,Yes,40.0
+Kabale,15.0,Female,1,No,Surgical,No,Yes,Yes,Yes,19.0
+Kabale,28.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,66.0
+Kabale,42.0,Female,3,No,Medical,Yes,Yes,No,No,14.0
+Kabale,22.0,Female,2,No,Medical,No,Yes,No,No,3.0
+Kabale,10.0,Male,1,No,Surgical,No,Yes,Yes,No,12.0
+Kabale,0.0,Male,2,No,Paediatric,No,Yes,No,No,4.0
+Kabale,4.0,Male,2,No,Paediatric,No,Yes,No,No,12.0
+Kabale,9.0,Male,1,No,Paediatric,No,Yes,No,No,11.0
+Kabale,2.0,Female,1,No,Surgical,No,Yes,Yes,Yes,14.0
+Kabale,2.0,Male,2,No,Paediatric,No,Yes,No,No,13.0
+Kabale,5.0,Male,2,No,Paediatric,No,Yes,No,No,13.0
+Kabale,0.0,Male,1,No,Paediatric,No,Yes,No,No,24.0
+Kabale,15.0,Female,1,No,Surgical,No,Yes,No,No,9.0
+Kabale,56.0,Male,1,No,Medical,Yes,Yes,No,No,28.0
+Kabale,44.0,Male,1,No,Surgical,No,Yes,No,No,12.0
+Kabale,17.0,Male,1,No,Surgical,No,Yes,No,No,29.0
+Kabale,34.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,10.0
+Kabale,28.0,Female,1,No,Maternity/Post-Natal ward,No,No,Yes,Yes,24.0
+Kabale,38.0,Female,1,Yes,Maternity/Post-Natal ward,No,Yes,No,No,43.0
+Kabale,22.0,Female,1,No,Maternity/Post-Natal ward,No,No,Yes,Yes,94.0
+Kabale,38.0,Male,1,Yes,Surgical,Yes,Yes,Yes,Yes,23.0
+Kabale,24.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,34.0
+Kabale,2.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,36.0
+Kabale,5.0,Male,1,No,Paediatric,Yes,No,No,No,35.0
+Kabale,0.0,Female,2,No,Paediatric,No,Yes,No,No,17.0
+Kabale,15.0,Male,1,No,Surgical,No,Yes,Yes,No,10.0
+Kabale,91.0,Male,1,No,Surgical,No,Yes,Yes,Yes,5.0
+Kabale,23.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,51.0
+Kabale,24.0,Female,1,No,Surgical,No,Yes,No,No,28.0
+Kabale,28.0,Female,1,Yes,Maternity/Post-Natal ward,No,No,No,No,1.0
+Kabale,35.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,No,No,4.0
+Kabale,75.0,Male,1,No,Medical,No,Yes,Yes,Yes,4.0
+Kabale,1.0,Female,1,No,Paediatric,No,No,No,No,293.0
+Kabale,3.0,Female,1,Yes,Paediatric,No,Yes,No,No,16.0
+Kabale,11.0,Female,1,Yes,Paediatric,No,Yes,Yes,Yes,12.0
+Kabale,32.0,Male,3,No,Surgical,No,Yes,Yes,Yes,41.0
+Kabale,21.0,Male,1,No,Surgical,No,Yes,Yes,No,10.0
+Kabale,75.0,Female,3,No,Medical,No,Yes,Yes,Yes,3.0
+Kabale,30.0,Female,2,No,Medical,No,Yes,Yes,Yes,3.0
+Kabale,18.0,Male,1,No,Surgical,No,Yes,Yes,Yes,40.0
+Kabale,1.0,Female,1,Yes,Surgical,No,Yes,Yes,Yes,7.0
+Kabale,5.0,Female,1,No,Surgical,No,Yes,Yes,No,9.0
+Kabale,2.0,Male,2,No,Paediatric,No,Yes,Yes,No,11.0
+Kabale,46.0,Female,1,No,Medical,Yes,Yes,No,No,4.0
+Kabale,0.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,30.0
+Kabale,2.0,Male,2,No,Paediatric,No,Yes,Yes,Yes,9.0
+Kabale,4.0,Male,2,No,Paediatric,Yes,Yes,No,No,1.0
+Kabale,12.0,Male,1,No,Surgical,No,Yes,Yes,Yes,40.0
+Kabale,10.0,Male,1,No,Surgical,No,Yes,Yes,No,16.0
+Kabale,9.0,Male,1,No,Surgical,No,Yes,Yes,Yes,8.0
+Kabale,5.0,Male,1,No,Surgical,No,Yes,No,No,3.0
+Kabale,23.0,Female,2,No,Maternity/Post-Natal ward,No,Yes,No,No,405.0
+Kabale,18.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,No,No,40.0
+Kabale,44.0,Male,1,No,Medical,No,Yes,Yes,Yes,5.0
+Kabale,51.0,Male,1,No,Medical,No,Yes,No,No,3.0
+Kabale,36.0,Male,2,No,Medical,No,Yes,Yes,Yes,32.0
+Kabale,0.0,Female,1,Yes,NICU Unit,No,Yes,Yes,Yes,6.0
+Kabale,25.0,Male,1,No,Surgical,No,No,Yes,Yes,47.0
+Kabale,2.0,Female,3,No,Paediatric,No,Yes,No,No,3.0
+Kabale,1.0,Female,3,Yes,Paediatric,No,Yes,No,No,9.0
+Kabale,3.0,Male,3,No,Paediatric,No,Yes,No,No,5.0
+Kabale,11.0,Male,2,Yes,Paediatric,No,Yes,No,No,11.0
+Kabale,0.0,Male,2,Yes,NICU Unit,No,Yes,Yes,Yes,7.0
+Kabale,29.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,17.0
+Kabale,26.0,Female,2,Yes,Gynaecology,No,Yes,No,No,1085.0
+Kabale,52.0,Male,1,No,Surgical,No,Yes,Yes,Yes,13.0
+Kabale,79.0,Male,2,No,Medical,Yes,Yes,Yes,Yes,1.0
+Kabale,12.0,Male,1,No,Paediatric,No,No,No,No,3.0
+Kabale,50.0,Female,1,Yes,Medical,Yes,No,Yes,Yes,2.0
+Kabale,21.0,Male,1,No,Surgical,No,Yes,Yes,Yes,34.0
+Kabale,67.0,Male,1,No,Surgical,No,Yes,Yes,Yes,42.0
+Kabale,0.0,Female,1,No,Paediatric,No,No,Yes,Yes,5.0
+Kabale,28.0,Female,1,Yes,Medical,No,No,No,No,10.0
+Kabale,9.0,Male,1,No,Paediatric,No,Yes,No,No,5.0
+Kabale,42.0,Male,1,No,Surgical,No,Yes,Yes,Yes,20.0
+Kabale,23.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,3.0
+Kabale,21.0,Female,1,No,Maternity/Post-Natal ward,No,No,No,No,16.0
+Kabale,30.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,No,No,5.0
+Kabale,26.0,Female,1,No,Gynaecology,No,No,Yes,Yes,8.0
+Kabale,36.0,Female,1,No,Gynaecology,No,No,Yes,No,1.0
+Kabale,25.0,Female,1,No,Gynaecology,No,No,Yes,Yes,7.0
+Kabale,90.0,Male,1,No,Surgical,No,No,Yes,No,4.0
+Kabale,76.0,Female,2,No,Medical,Yes,Yes,Yes,Yes,8.0
+Kabale,50.0,Female,1,Yes,Medical,No,Yes,Yes,Yes,10.0
+Kabale,35.0,Female,1,No,Medical,No,No,Yes,Yes,3.0
+Kabale,19.0,Male,1,No,Medical,Yes,No,Yes,Yes,17.0
+Kabale,28.0,Male,2,No,Medical,Yes,Yes,Yes,Yes,1101.0
+Kabale,14.0,Female,1,No,Surgical,No,Yes,Yes,Yes,33.0
+Kabale,18.0,Male,1,No,Surgical,No,No,Yes,No,7.0
+Kabale,28.0,Male,1,No,Surgical,No,No,Yes,Yes,35.0
+Kabale,0.0,Male,1,Yes,Paediatric,No,Yes,No,No,10.0
+Kabale,4.0,Male,1,No,Paediatric,No,Yes,No,No,9.0
+Kabale,0.0,Male,1,No,Paediatric,No,Yes,No,No,3.0
+Kabale,0.0,Female,1,No,Paediatric,No,Yes,No,No,4.0
+Kabale,3.0,Female,3,No,Paediatric,No,Yes,No,No,7.0
+Kabale,9.0,Male,3,No,Paediatric,No,Yes,Yes,Yes,20.0
+Kabale,2.0,Male,1,No,Paediatric,No,Yes,No,No,12.0
+Kabale,0.0,Female,1,Yes,Paediatric,No,Yes,No,No,13.0
+Kabale,1.0,Female,1,No,Paediatric,No,Yes,No,No,7.0
+Kabale,0.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,11.0
+Kabale,65.0,Male,1,No,Surgical,No,Yes,No,No,33.0
+Kabale,68.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,57.0
+Kabale,50.0,Female,1,Yes,Medical,Yes,No,Yes,Yes,10.0
+Kabale,20.0,Female,1,Yes,Gynaecology,No,Yes,No,No,6.0
+Kabale,9.0,Female,1,No,Surgical,No,No,Yes,Yes,19.0
+Kabale,10.0,Male,1,No,Surgical,No,Yes,No,No,22.0
+Kabale,38.0,Male,3,No,Surgical,No,Yes,No,No,76.0
+Kabale,13.0,Female,1,No,Orthopaedic,No,Yes,No,No,6.0
+Kabale,53.0,Male,1,No,Medical,Yes,No,No,No,13.0
+Kabale,63.0,Female,2,No,Medical,Yes,Yes,Yes,Yes,10.0
+Kabale,16.0,Male,1,No,Medical,No,Yes,No,No,8.0
+Kabale,48.0,Male,1,No,Medical,Yes,Yes,No,No,8.0
+Kabale,64.0,Female,1,No,Medical,Yes,Yes,No,No,5.0
+Kabale,82.0,Female,2,No,Medical,No,Yes,No,No,11.0
+Kabale,0.0,Male,1,No,Paediatric,No,Yes,No,No,0.0
+Kabale,1.0,Male,1,No,Paediatric,No,Yes,No,No,9.0
+Kabale,4.0,Male,1,No,Paediatric,No,Yes,No,No,6.0
+Kabale,0.0,Male,1,No,Paediatric,No,Yes,No,No,10.0
+Kabale,27.0,Male,1,No,Surgical,No,Yes,Yes,Yes,10.0
+Kabale,78.0,Male,1,Yes,Surgical,No,No,No,No,36.0
+Kabale,28.0,Male,1,No,Surgical,No,No,No,No,10.0
+Kabale,45.0,Male,1,No,Medical,No,No,No,No,16.0
+Kabale,2.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,19.0
+Kabale,1.0,Male,1,No,Surgical,No,Yes,No,No,7.0
+Kabale,63.0,Male,1,No,Surgical,Yes,Yes,No,No,22.0
+Kabale,46.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,43.0
+Kabale,52.0,Male,1,No,Surgical,Yes,Yes,No,No,34.0
+Kabale,45.0,Male,1,No,Surgical,No,No,Yes,No,4.0
+Kabale,75.0,Female,2,No,Medical,No,Yes,No,No,6.0
+Kabale,51.0,Male,1,No,Medical,No,No,No,No,5.0
+Kabale,0.0,Female,1,No,Paediatric,No,Yes,No,No,2.0
+Kabale,11.0,Male,1,No,Paediatric,No,No,Yes,Yes,8.0
+Kabale,12.0,Male,1,No,Surgical,No,Yes,Yes,No,16.0
+Kabale,39.0,Male,2,No,Medical,Yes,Yes,No,No,5.0
+Kabale,40.0,Male,1,No,Medical,Yes,No,No,No,11.0
+Kabale,32.0,Male,1,No,Medical,No,Yes,No,No,18.0
+Kabale,25.0,Female,1,No,Surgical,No,Yes,No,No,9.0
+Kabale,0.0,Male,1,No,Surgical,No,Yes,No,No,9.0
+Kabale,54.0,Male,2,No,Medical,No,No,No,No,16.0
+Kabale,63.0,Female,2,No,Accident and emergency,Yes,Yes,No,No,0.0
+Kabale,24.0,Female,1,No,Medical,Yes,Yes,No,No,16.0
+Kabale,67.0,Female,1,No,Medical,Yes,Yes,No,No,9.0
+Kabale,19.0,Female,1,No,Gynaecology,No,No,No,No,1.0
+Kabale,42.0,Female,2,No,Gynaecology,No,No,No,No,3.0
+Kabale,32.0,Female,1,Yes,Gynaecology,No,Yes,Yes,Yes,6.0
+Kabale,23.0,Female,3,No,Medical,No,Yes,No,No,3.0
+Kabale,75.0,Male,2,No,Medical,No,Yes,No,No,7.0
+Kabale,26.0,Male,1,No,Medical,Yes,Yes,No,No,7.0
+Kabale,74.0,Female,3,No,Medical,Yes,No,No,No,8.0
+Kabale,26.0,Female,1,No,Medical,No,Yes,No,No,9.0
+Kabale,0.0,Female,1,No,Surgical,No,Yes,Yes,No,9.0
+Kabale,20.0,Female,1,No,Surgical,No,Yes,No,No,21.0
+Kabale,3.0,Male,1,No,Surgical,No,Yes,No,No,25.0
+Kabale,20.0,Female,1,No,Surgical,No,Yes,Yes,Yes,12.0
+Kabale,46.0,Male,1,No,Surgical,No,Yes,Yes,Yes,12.0
+Kabale,53.0,Male,1,No,Surgical,No,Yes,Yes,Yes,19.0
+Kabale,28.0,Female,2,No,Surgical,No,Yes,Yes,Yes,19.0
+Kabale,43.0,Male,1,No,Surgical,No,Yes,No,No,5.0
+Kabale,44.0,Male,1,No,Surgical,No,Yes,Yes,Yes,10.0
+Kabale,48.0,Male,1,Yes,Surgical,No,Yes,No,No,3.0
+Kabale,12.0,Male,1,No,Surgical,No,Yes,No,No,22.0
+Kabale,24.0,Male,1,Yes,Surgical,No,No,No,No,31.0
+Kabale,42.0,Male,1,Yes,Medical,No,Yes,Yes,Yes,9.0
+Kabale,44.0,Male,1,No,Medical,Yes,Yes,Yes,Yes,4.0
+Kabale,53.0,Male,1,No,Medical,No,Yes,No,No,3.0
+Kabale,64.0,Female,1,No,Medical,No,Yes,Yes,No,35.0
+Kabale,19.0,Male,1,No,Medical,No,Yes,No,No,10.0
+Kabale,14.0,Female,1,No,Surgical,No,Yes,No,No,4.0
+Kabale,45.0,Female,1,No,Surgical,No,Yes,Yes,Yes,7.0
+Kabale,0.0,Female,3,No,Paediatric,No,No,No,No,4.0
+Kabale,35.0,Female,3,No,Medical,Yes,Yes,Yes,Yes,13.0
+Kabale,64.0,Female,1,No,Medical,No,Yes,No,No,4.0
+Kabale,80.0,Female,2,No,Medical,No,Yes,No,No,5.0
+Kabale,72.0,Female,1,No,Medical,Yes,Yes,Yes,Yes,4.0
+Kabale,40.0,Female,1,No,Medical,Yes,No,No,No,6.0
+Kabale,70.0,Female,1,No,Medical,Yes,Yes,Yes,No,3.0
+Kabale,32.0,Male,1,No,Medical,Yes,No,No,No,13.0
+Kabale,42.0,Male,1,No,Medical,No,Yes,No,No,2.0
+Kabale,30.0,Male,1,No,Surgical,No,Yes,Yes,Yes,4.0
+Kabale,84.0,Male,3,No,Surgical,Yes,No,Yes,Yes,27.0
+Kabale,28.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,83.0
+Kabale,40.0,Male,1,No,Surgical,Yes,Yes,No,No,30.0
+Kabale,21.0,Male,4,No,Surgical,No,Yes,Yes,Yes,67.0
+Kabale,38.0,Female,1,Yes,Gynaecology,Yes,Yes,Yes,Yes,6.0
+Kabale,17.0,Male,1,No,Surgical,No,Yes,No,No,62.0
+Kabale,70.0,Female,1,No,Surgical,No,Yes,Yes,Yes,5.0
+Kabale,37.0,Female,1,No,Surgical,No,Yes,No,No,12.0
+Kabale,85.0,Male,1,No,Surgical,No,No,Yes,Yes,42.0
+Kabale,37.0,Male,1,No,Surgical,No,No,Yes,Yes,52.0
+Kabale,22.0,Male,1,No,Surgical,No,Yes,Yes,Yes,32.0
+Kabale,0.0,Male,2,No,Paediatric,No,Yes,No,No,7.0
+Lira,2.0,Female,1,No,Paediatric,No,Yes,Yes,Yes,3.0
+Lira,78.0,Female,1,No,Accident and emergency,No,No,Yes,Yes,4.0
+Lira,2.0,Female,2,No,Paediatric,No,No,Yes,Yes,22.0
+Lira,75.0,Female,1,No,Surgical,No,No,Yes,Yes,5.0
+Lira,23.0,Female,1,No,Medical,No,No,Yes,No,11.0
+Lira,49.0,Male,1,No,Accident and emergency,No,Yes,Yes,Yes,15.0
+Lira,1.0,Female,2,No,Paediatric,No,Yes,Yes,Yes,3.0
+Lira,17.0,Female,1,Yes,Surgical,No,Yes,Yes,Yes,13.0
+Lira,3.0,Male,1,No,Paediatric,No,Yes,No,Yes,13.0
+Lira,93.0,Female,1,No,Surgical,No,Yes,Yes,Yes,5.0
+Lira,45.0,Male,1,No,Surgical,No,Yes,Yes,Yes,51.0
+Lira,52.0,Male,2,No,Surgical,Yes,Yes,Yes,Yes,202.0
+Lira,75.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,16.0
+Lira,61.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,12.0
+Lira,73.0,Male,1,No,Medical,Yes,Yes,Yes,Yes,10.0
+Lira,20.0,Female,1,No,Surgical,No,Yes,Yes,Yes,7.0
+Lira,74.0,Male,1,No,Surgical,No,Yes,Yes,Yes,47.0
+Lira,17.0,Female,1,No,Orthopaedic,No,No,Yes,Yes,25.0
+Lira,1.0,Male,2,No,Surgical,No,Yes,Yes,Yes,13.0
+Lira,53.0,Female,1,No,Surgical,No,Yes,Yes,Yes,48.0
+Lira,59.0,Female,1,No,Surgical,No,Yes,Yes,Yes,46.0
+Lira,61.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,38.0
+Lira,20.0,Female,1,Yes,Gynaecology,No,Yes,No,No,11.0
+Lira,31.0,Male,1,Yes,TB ward,Yes,Yes,Yes,Yes,104.0
+Lira,31.0,Male,1,Yes,TB ward,Yes,Yes,Yes,Yes,104.0
+Lira,12.0,Male,4,No,Medical,Yes,Yes,No,No,14.0
+Lira,63.0,Female,1,Yes,Medical,Yes,No,Yes,No,19.0
+Lira,38.0,Male,1,Yes,Medical,Yes,No,Yes,Yes,18.0
+Lira,24.0,Female,1,No,Medical,Yes,Yes,Yes,Yes,6.0
+Lira,24.0,Female,1,No,Medical,Yes,Yes,No,No,18.0
+Lira,58.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,7.0
+Lira,38.0,Male,1,Yes,Medical,Yes,Yes,No,No,48.0
+Lira,28.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,26.0
+Lira,17.0,Female,1,Yes,Surgical,No,Yes,No,No,14.0
+Lira,94.0,Female,1,No,Surgical,No,Yes,No,No,42.0
+Lira,49.0,Female,1,Yes,Surgical,Yes,Yes,Yes,Yes,20.0
+Lira,2.0,Male,2,Yes,Paediatric,No,Yes,Yes,Yes,12.0
+Lira,41.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,24.0
+Lira,0.0,Female,1,No,Paediatric,No,Yes,Yes,Yes,9.0
+Lira,14.0,Female,1,No,Medical,Yes,No,No,No,3.0
+Lira,32.0,Female,1,No,Surgical,No,Yes,No,No,10.0
+Lira,30.0,Male,1,No,Surgical,No,Yes,Yes,Yes,27.0
+Lira,24.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,96.0
+Lira,43.0,Female,1,No,TB ward,Yes,Yes,Yes,Yes,162.0
+Lira,62.0,Female,1,Yes,Surgical,Yes,Yes,Yes,Yes,15.0
+Lira,35.0,Male,3,Yes,Surgical,Yes,Yes,Yes,Yes,7.0
+Lira,16.0,Female,2,No,Surgical,No,No,Yes,Yes,79.0
+Lira,22.0,Female,1,No,Surgical,No,Yes,Yes,Yes,28.0
+Lira,44.0,Male,1,No,Surgical,No,Yes,Yes,Yes,61.0
+Lira,56.0,Male,2,No,Surgical,No,Yes,Yes,Yes,0.0
+Lira,25.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,53.0
+Lira,48.0,Male,1,No,Medical,No,No,No,No,8.0
+Lira,70.0,Female,1,Yes,Surgical,No,Yes,No,No,46.0
+Lira,27.0,Female,1,Yes,Medical,Yes,No,No,No,15.0
+Lira,49.0,Female,1,No,Medical,Yes,Yes,No,No,16.0
+Lira,83.0,Female,1,No,Surgical,Yes,No,No,No,29.0
+Lira,51.0,Male,2,Yes,Medical,Yes,No,No,No,19.0
+Lira,12.0,Female,2,No,Medical,No,Yes,No,No,6.0
+Lira,75.0,Female,2,No,Surgical,No,Yes,No,No,27.0
+Lira,0.0,Male,2,No,Paediatric,No,Yes,No,No,10.0
+Lira,70.0,Male,3,No,Medical,Yes,No,No,No,14.0
+Lira,58.0,Male,1,Yes,Medical,No,No,No,No,19.0
+Lira,3.0,Male,1,No,Paediatric,No,Yes,No,No,25.0
+Lira,17.0,Female,2,Yes,Surgical,No,Yes,No,No,51.0
+Lira,0.0,Male,2,No,Paediatric,No,Yes,No,No,13.0
+Lira,38.0,Male,1,No,Medical,No,Yes,No,No,29.0
+Lira,65.0,Female,1,No,Medical,Yes,Yes,No,No,19.0
+Lira,13.0,Female,2,No,Medical,Yes,No,Yes,Yes,26.0
+Lira,58.0,Female,1,No,Surgical,No,No,No,No,9.0
+Lira,6.0,Male,2,No,ICU/HDU,No,Yes,Yes,Yes,17.0
+Lira,52.0,Male,2,No,Medical,No,Yes,Yes,Yes,46.0
+Lira,20.0,Male,3,Yes,Surgical,No,Yes,Yes,Yes,22.0
+Lira,20.0,Female,3,Yes,ICU/HDU,Yes,No,Yes,Yes,22.0
+Lira,22.0,Female,2,No,Medical,No,Yes,No,No,739.0
+Lira,0.0,Male,1,No,Medical,No,No,No,No,14.0
+Lira,35.0,Female,2,No,Gynaecology,No,No,No,No,5.0
+Lira,27.0,Male,1,No,Surgical,No,Yes,Yes,Yes,9.0
+Lira,25.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,53.0
+Lira,18.0,Female,2,Yes,Gynaecology,No,Yes,Yes,Yes,59.0
+Lira,65.0,Male,1,No,Surgical,No,Yes,No,No,26.0
+Lira,59.0,Male,1,No,Surgical,No,Yes,Yes,Yes,13.0
+Lira,57.0,Male,1,Yes,Surgical,Yes,No,Yes,Yes,39.0
+Lira,60.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,25.0
+Lira,38.0,Female,1,Yes,ICU/HDU,Yes,Yes,Yes,Yes,90.0
+Lira,32.0,Male,2,No,Medical,Yes,No,Yes,Yes,411.0
+Lira,18.0,Male,1,No,Medical,No,No,No,No,7.0
+Lira,44.0,Female,1,Yes,Medical,Yes,Yes,No,No,4.0
+Lira,56.0,Female,1,No,Medical,Yes,Yes,No,No,14.0
+Lira,32.0,Female,1,No,Medical,Yes,Yes,No,No,3.0
+Lira,38.0,Male,2,No,Medical,Yes,Yes,No,No,6.0
+Lira,36.0,Female,1,No,Gynaecology,Yes,Yes,No,No,5.0
+Lira,20.0,Male,2,No,Surgical,No,Yes,No,No,13.0
+Lira,20.0,Male,2,No,Surgical,No,No,No,No,13.0
+Lira,69.0,Male,3,No,Medical,Yes,Yes,No,No,17.0
+Lira,8.0,Male,2,No,Orthopaedic,Yes,No,Yes,Yes,745.0
+Lira,30.0,Male,1,No,Medical,No,Yes,No,No,15.0
+Lira,20.0,Female,1,Yes,Gynaecology,No,Yes,No,No,15.0
+Lira,31.0,Male,1,No,Gynaecology,No,Yes,Yes,Yes,8.0
+Lira,42.0,Male,1,No,Surgical,No,No,Yes,Yes,9.0
+Lira,47.0,Male,2,Yes,Medical,No,Yes,No,No,17.0
+Lira,54.0,Male,1,No,Surgical,No,No,Yes,Yes,390.0
+Lira,79.0,Female,4,No,Medical,No,Yes,Yes,Yes,39.0
+Lira,30.0,Male,2,No,Surgical,No,Yes,Yes,Yes,27.0
+Lira,17.0,Male,1,No,Surgical,No,Yes,Yes,Yes,112.0
+Lira,18.0,Female,1,No,Surgical,No,Yes,Yes,Yes,8.0
+Lira,42.0,Male,1,No,Surgical,No,No,Yes,Yes,67.0
+Lira,27.0,Male,1,No,Surgical,No,No,Yes,No,9.0
+Lira,23.0,Male,2,No,Surgical,No,No,Yes,Yes,16.0
+Lira,24.0,Female,3,No,Medical,Yes,Yes,Yes,Yes,19.0
+Lira,42.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,61.0
+Lira,22.0,Female,1,No,Surgical,No,No,Yes,Yes,18.0
+Lira,50.0,Female,3,No,Accident and emergency,No,Yes,Yes,No,0.0
+Lira,26.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,39.0
+Lira,96.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,88.0
+Lira,42.0,Female,1,No,Orthopaedic,No,No,Yes,Yes,87.0
+Lira,40.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,5.0
+Lira,18.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,19.0
+Lira,43.0,Male,1,No,Surgical,No,Yes,No,No,16.0
+Lira,53.0,Female,1,No,Surgical,No,Yes,Yes,Yes,12.0
+Lira,71.0,Female,2,Yes,Surgical,Yes,Yes,Yes,Yes,59.0
+Lira,75.0,Female,1,Yes,Surgical,Yes,Yes,Yes,Yes,24.0
+Lira,56.0,Female,1,No,Medical,Yes,Yes,Yes,Yes,10.0
+Lira,22.0,Male,1,No,Surgical,No,Yes,Yes,Yes,44.0
+Lira,60.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,11.0
+Lira,53.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,34.0
+Soroti,78.0,Female,1,Yes,Surgical,No,Yes,Yes,Yes,54.0
+Lira,65.0,Male,1,No,Surgical,No,Yes,Yes,Yes,32.0
+Lira,17.0,Male,1,No,Surgical,No,Yes,Yes,Yes,20.0
+Lira,32.0,Female,2,No,Medical,Yes,Yes,Yes,Yes,1139.0
+Lira,25.0,Female,1,No,Surgical,No,Yes,Yes,Yes,33.0
+Lira,18.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,99.0
+Lira,39.0,Female,2,No,Medical,Yes,Yes,Yes,Yes,28.0
+Lira,1.0,Male,2,Yes,Paediatric,No,Yes,No,No,23.0
+Lira,4.0,Female,1,Yes,Paediatric,No,Yes,No,No,22.0
+Lira,32.0,Male,1,No,Medical,Yes,No,No,No,31.0
+Lira,0.0,Male,1,No,Paediatric,No,Yes,No,No,17.0
+Lira,5.0,Male,2,Yes,Paediatric,Yes,Yes,No,No,380.0
+Lira,3.0,Female,2,Yes,Paediatric,No,Yes,No,No,9.0
+Lira,80.0,Female,1,Yes,Surgical,No,Yes,No,No,22.0
+Lira,44.0,Female,1,No,Medical,Yes,Yes,No,No,32.0
+Lira,68.0,Female,1,No,Surgical,Yes,Yes,No,No,26.0
+Lira,30.0,Male,1,No,Medical,Yes,Yes,No,No,17.0
+Lira,21.0,Female,1,Yes,Medical,Yes,Yes,No,No,29.0
+Lira,0.0,Female,1,Yes,Paediatric,No,Yes,No,No,16.0
+Lira,1.0,Female,1,Yes,Paediatric,No,Yes,No,No,20.0
+Lira,30.0,Male,2,No,Medical,Yes,Yes,No,No,3.0
+Lira,10.0,Male,1,No,Medical,No,Yes,No,No,3.0
+Lira,25.0,Male,1,Yes,Medical,No,Yes,No,No,7.0
+Lira,8.0,Male,1,No,Paediatric,No,Yes,No,No,18.0
+Lira,24.0,Male,2,No,Medical,No,Yes,No,No,11.0
+Lira,0.0,Female,2,No,Paediatric,No,Yes,No,No,4.0
+Lira,21.0,Male,1,Yes,Medical,No,Yes,No,No,25.0
+Lira,17.0,Male,1,No,Medical,No,Yes,No,No,15.0
+Lira,29.0,Male,2,No,Surgical,No,Yes,No,No,36.0
+Lira,1.0,Female,1,Yes,Paediatric,No,Yes,No,No,22.0
+Lira,88.0,Male,2,No,ICU/HDU,Yes,No,Yes,Yes,94.0
+Lira,48.0,Female,1,No,Surgical,No,Yes,Yes,Yes,10.0
+Lira,1.0,Female,2,No,Paediatric,Yes,Yes,Yes,Yes,50.0
+Lira,0.0,Male,1,No,Paediatric,No,No,No,No,58.0
+Lira,60.0,Female,1,No,Surgical,No,No,No,No,67.0
+Lira,60.0,Male,1,Yes,Medical,No,Yes,No,No,11.0
+Lira,23.0,Male,1,No,Medical,Yes,Yes,No,No,11.0
+Lira,10.0,Male,1,No,Medical,No,Yes,No,No,3.0
+Lira,2.0,Female,2,No,Paediatric,No,Yes,No,No,14.0
+Lira,2.0,Female,1,No,Surgical,No,Yes,No,No,9.0
+Lira,23.0,Male,1,Yes,Medical,Yes,Yes,No,No,11.0
+Lira,80.0,Female,1,No,Surgical,No,Yes,No,No,15.0
+Lira,35.0,Male,1,No,Medical,Yes,Yes,No,No,21.0
+Lira,3.0,Male,2,Yes,Paediatric,No,Yes,No,No,15.0
+Lira,26.0,Female,1,No,Medical,Yes,Yes,No,No,19.0
+Lira,37.0,Female,2,Yes,TB ward,Yes,Yes,No,No,24.0
+Lira,7.0,Male,3,No,ICU/HDU,Yes,Yes,No,No,28.0
+Lira,55.0,Male,1,No,Medical,No,Yes,No,No,14.0
+Lira,35.0,Female,1,No,Medical,Yes,Yes,No,No,17.0
+Lira,53.0,Female,2,No,Medical,No,Yes,No,No,1.0
+Lira,15.0,Female,1,Yes,Medical,No,No,No,No,18.0
+Lira,10.0,Male,1,No,Paediatric,Yes,Yes,No,No,9.0
+Lira,30.0,Male,1,No,Medical,No,No,No,No,11.0
+Lira,25.0,Female,1,No,Medical,Yes,Yes,No,No,22.0
+Lira,52.0,Female,1,Yes,Medical,Yes,Yes,No,No,13.0
+Lira,34.0,Male,1,Yes,Medical,No,Yes,No,No,8.0
+Lira,10.0,Female,3,No,Paediatric,No,Yes,No,No,21.0
+Lira,18.0,Male,2,No,Medical,No,Yes,No,No,14.0
+Lira,51.0,Male,1,No,Medical,Yes,Yes,No,No,8.0
+Lira,39.0,Female,1,Yes,Medical,Yes,Yes,No,No,12.0
+Lira,32.0,Male,1,No,Medical,Yes,Yes,No,No,3.0
+Lira,17.0,Male,2,No,Orthopaedic,Yes,Yes,No,No,26.0
+Lira,42.0,Male,1,No,Medical,Yes,Yes,No,No,23.0
+Lira,0.0,Male,1,Yes,Paediatric,No,Yes,No,No,20.0
+Lira,9.0,Female,1,Yes,Medical,No,Yes,Yes,Yes,143.0
+Lira,22.0,Male,1,No,Surgical,No,No,Yes,Yes,49.0
+Lira,23.0,Male,3,No,Surgical,No,No,Yes,Yes,31.0
+Lira,22.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,55.0
+Lira,22.0,Female,2,No,Gynaecology,No,Yes,No,No,33.0
+Lira,37.0,Male,1,No,Medical,No,No,Yes,Yes,51.0
+Lira,70.0,Female,2,Yes,Medical,No,No,No,No,27.0
+Lira,39.0,Female,3,No,Medical,No,Yes,No,No,19.0
+Lira,4.0,Male,2,Yes,Paediatric,No,Yes,No,No,1.0
+Lira,19.0,Female,1,Yes,Surgical,Yes,No,Yes,Yes,61.0
+Lira,42.0,Female,2,No,Surgical,No,No,Yes,Yes,63.0
+Lira,20.0,Female,2,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,36.0
+Lira,20.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,36.0
+Lira,22.0,Male,1,No,Surgical,No,Yes,Yes,Yes,24.0
+Lira,54.0,Female,1,Yes,Surgical,Yes,Yes,Yes,Yes,90.0
+Lira,54.0,Female,1,Yes,Surgical,Yes,Yes,Yes,Yes,90.0
+Lira,8.0,Female,1,Yes,Medical,No,Yes,Yes,Yes,27.0
+Lira,8.0,Female,1,Yes,Medical,No,Yes,No,No,27.0
+Lira,8.0,Female,1,Yes,Medical,No,Yes,No,No,27.0
+Lira,83.0,Male,1,No,Surgical,No,Yes,No,No,6.0
+Lira,22.0,Female,1,No,Medical,No,No,No,No,9.0
+Lira,42.0,Male,1,No,Medical,Yes,Yes,No,No,7.0
+Lira,0.0,Male,2,No,Paediatric,No,Yes,No,No,14.0
+Lira,0.0,Male,1,Yes,Paediatric,No,No,No,No,7.0
+Lira,0.0,Male,1,No,Paediatric,No,Yes,No,No,9.0
+Lira,40.0,Male,1,No,Medical,No,Yes,No,No,20.0
+Lira,48.0,Female,1,No,Medical,Yes,Yes,No,No,11.0
+Lira,20.0,Male,1,No,Surgical,No,Yes,No,No,11.0
+Lira,3.0,Female,1,Yes,Paediatric,No,Yes,No,No,17.0
+Lira,0.0,Female,1,No,Paediatric,Yes,Yes,No,No,5.0
+Lira,24.0,Male,1,No,Medical,Yes,Yes,No,No,35.0
+Lira,36.0,Male,1,No,Surgical,No,Yes,No,No,11.0
+Lira,40.0,Female,3,No,Medical,Yes,Yes,No,No,17.0
+Lira,0.0,Male,2,Yes,Paediatric,No,Yes,No,No,14.0
+Lira,23.0,Male,2,Yes,Medical,Yes,Yes,No,No,16.0
+Lira,1.0,Male,1,Yes,Paediatric,Yes,No,No,No,24.0
+Lira,15.0,Female,3,Yes,Surgical,No,Yes,No,No,44.0
+Lira,15.0,Female,2,No,Surgical,No,Yes,Yes,Yes,41.0
+Lira,19.0,Female,2,No,Medical,Yes,Yes,No,No,23.0
+Lira,46.0,Male,1,No,Medical,Yes,Yes,No,No,18.0
+Lira,23.0,Male,3,Yes,Medical,No,Yes,No,No,12.0
+Lira,23.0,Male,2,Yes,Medical,Yes,Yes,No,No,4.0
+Lira,54.0,Male,1,No,Medical,Yes,No,No,No,101.0
+Lira,0.0,Male,1,Yes,Paediatric,No,Yes,No,No,7.0
+Lira,4.0,Male,1,No,Paediatric,No,Yes,No,No,15.0
+Lira,0.0,Female,2,Yes,Paediatric,No,Yes,Yes,No,20.0
+Lira,0.0,Female,2,Yes,Paediatric,No,Yes,Yes,No,20.0
+Lira,1.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,18.0
+Lira,5.0,Male,2,Yes,Surgical,Yes,Yes,No,No,7.0
+Lira,74.0,Female,1,No,Surgical,No,Yes,No,No,15.0
+Lira,23.0,Female,2,Yes,Surgical,No,Yes,No,No,25.0
+Lira,29.0,Female,1,No,Surgical,No,Yes,No,No,10.0
+Lira,39.0,Male,1,Yes,Medical,No,Yes,No,No,16.0
+Lira,28.0,Female,2,No,Medical,Yes,Yes,No,No,13.0
+Lira,1.0,Male,1,Yes,Paediatric,No,Yes,No,No,21.0
+Lira,1.0,Female,2,Yes,Paediatric,No,Yes,No,No,311.0
+Lira,46.0,Male,1,Yes,Medical,Yes,No,No,No,11.0
+Lira,50.0,Male,2,Yes,Surgical,No,Yes,Yes,Yes,15.0
+Lira,22.0,Male,2,No,Medical,No,Yes,No,No,6.0
+Lira,0.0,Female,2,No,Paediatric,No,Yes,No,No,9.0
+Lira,32.0,Male,2,Yes,Medical,Yes,No,No,No,17.0
+Lira,80.0,Female,2,Yes,Medical,Yes,Yes,No,No,91.0
+Lira,38.0,Female,2,No,Medical,Yes,No,No,No,5.0
+Lira,35.0,Female,1,Yes,Surgical,Yes,Yes,No,Yes,97.0
+Lira,7.0,Female,1,No,Paediatric,No,No,No,No,9.0
+Lira,59.0,Male,3,Yes,Medical,Yes,Yes,No,No,23.0
+Lira,25.0,Female,2,No,Medical,No,Yes,No,No,15.0
+Lira,51.0,Male,1,No,Medical,No,Yes,No,No,17.0
+Lira,36.0,Male,2,No,Medical,No,Yes,No,No,33.0
+Lira,40.0,Female,2,Yes,Surgical,Yes,Yes,No,No,26.0
+Lira,35.0,Female,1,Yes,Surgical,Yes,Yes,Yes,Yes,97.0
+Lira,19.0,Female,2,No,Medical,Yes,Yes,No,No,23.0
+Lira,96.0,Male,3,No,Surgical,No,Yes,No,No,86.0
+Lira,0.0,Female,2,No,NICU Unit,No,Yes,No,No,25.0
+Lira,19.0,Male,1,No,Surgical,No,Yes,Yes,Yes,58.0
+Lira,48.0,Male,1,No,Surgical,No,Yes,Yes,Yes,6.0
+Lira,42.0,Male,1,No,Surgical,No,No,Yes,Yes,9.0
+Lira,40.0,Female,1,No,Medical,No,No,No,No,5.0
+Lira,48.0,Male,1,No,Medical,No,No,No,No,33.0
+Lira,19.0,Female,1,No,Gynaecology,No,Yes,No,Yes,7.0
+Lira,27.0,Male,1,No,Medical,No,No,Yes,Yes,20.0
+Lira,35.0,Male,2,No,Medical,Yes,Yes,No,No,17.0
+Lira,2.0,Male,2,Yes,Paediatric,No,Yes,No,No,8.0
+Lira,50.0,Male,1,No,Surgical,No,No,Yes,Yes,14.0
+Lira,60.0,Male,2,No,Accident and emergency,Yes,Yes,Yes,Yes,14.0
+Lira,35.0,Male,2,No,Accident and emergency,No,Yes,No,No,17.0
+Lira,23.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,17.0
+Lira,0.0,Male,2,No,Paediatric,No,Yes,No,No,9.0
+Lira,10.0,Female,2,No,Medical,No,No,Yes,Yes,5.0
+Lira,3.0,Female,2,No,Paediatric,Yes,Yes,No,No,38.0
+Lira,17.0,Female,3,No,Gynaecology,No,No,No,No,0.0
+Lira,32.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,11.0
+Lira,35.0,Male,1,No,Medical,Yes,No,Yes,Yes,10.0
+Lira,25.0,Female,1,No,Gynaecology,No,Yes,No,No,19.0
+Lira,5.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,29.0
+Lira,0.0,Female,1,No,NICU Unit,No,No,No,No,7.0
+Lira,33.0,Female,1,No,Medical,No,No,No,No,9.0
+Lira,45.0,Male,2,No,Medical,Yes,Yes,No,No,15.0
+Lira,1.0,Male,2,No,Paediatric,No,Yes,No,No,4.0
+Lira,0.0,Male,1,No,Paediatric,No,No,No,No,20.0
+Lira,1.0,Male,1,No,Paediatric,No,No,No,No,9.0
+Lira,1.0,Male,2,No,Paediatric,No,Yes,No,No,3.0
+Lira,32.0,Female,1,No,Gynaecology,No,No,Yes,Yes,4.0
+Lira,32.0,Female,1,No,Gynaecology,No,Yes,No,No,4.0
+Lira,10.0,Female,1,No,Surgical,No,No,No,No,3.0
+Lira,35.0,Male,2,No,Accident and emergency,No,Yes,No,No,17.0
+Lira,87.0,Male,1,No,Medical,No,Yes,No,No,13.0
+Lira,39.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,30.0
+Lira,2.0,Female,2,No,Paediatric,No,Yes,No,No,4.0
+Lira,45.0,Male,1,No,Accident and emergency,Yes,No,No,No,5.0
+Lira,37.0,Female,2,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,18.0
+Lira,18.0,Female,2,No,Maternity/Post-Natal ward,No,No,Yes,Yes,30.0
+Lira,73.0,Female,1,No,Surgical,No,Yes,Yes,Yes,54.0
+Lira,40.0,Male,1,No,Accident and emergency,No,No,No,No,1.0
+Lira,52.0,Female,1,No,Surgical,Yes,Yes,Yes,No,108.0
+Lira,4.0,Female,2,No,Paediatric,Yes,Yes,No,No,9.0
+Lira,33.0,Female,1,No,Medical,No,No,No,No,6.0
+Lira,36.0,Female,1,No,Medical,Yes,Yes,No,No,11.0
+Lira,15.0,Female,1,Yes,Medical,No,Yes,No,No,17.0
+Lira,0.0,Male,2,No,NICU Unit,No,No,Yes,Yes,16.0
+Lira,25.0,Female,1,No,Medical,Yes,Yes,Yes,Yes,12.0
+Lira,50.0,Male,2,No,Medical,No,No,No,No,1.0
+Lira,31.0,Female,1,No,Gynaecology,No,No,No,No,2.0
+Lira,32.0,Female,1,No,Gynaecology,No,No,Yes,Yes,14.0
+Lira,1.0,Male,1,No,Paediatric,No,Yes,No,No,9.0
+Lira,0.0,Male,2,No,NICU Unit,No,Yes,No,No,2.0
+Lira,52.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,107.0
+Lira,36.0,Female,1,No,Surgical,No,No,No,No,7.0
+Lira,0.0,Male,2,No,NICU Unit,No,Yes,No,No,2.0
+Lira,30.0,Female,2,No,Maternity/Post-Natal ward,Yes,Yes,No,No,25.0
+Lira,63.0,Male,1,No,Accident and emergency,No,No,No,No,8.0
+Lira,24.0,Female,1,No,Accident and emergency,No,No,Yes,Yes,2.0
+Lira,42.0,Male,1,No,Accident and emergency,Yes,No,No,No,44.0
+Lira,33.0,Female,2,No,Gynaecology,No,Yes,No,No,22.0
+Lira,77.0,Male,1,No,Surgical,No,Yes,Yes,Yes,46.0
+Lira,61.0,Male,1,No,Surgical,No,Yes,No,No,68.0
+Lira,31.0,Male,1,No,Medical,No,No,No,No,9.0
+Lira,48.0,Male,1,No,Surgical,No,No,Yes,Yes,12.0
+Lira,90.0,Female,1,No,Accident and emergency,No,Yes,Yes,No,49.0
+Lira,1.0,Male,1,No,NICU Unit,No,Yes,No,No,16.0
+Lira,1.0,Male,2,No,Paediatric,Yes,Yes,No,No,9.0
+Lira,4.0,Male,1,No,NICU Unit,Yes,No,No,No,7.0
+Lira,16.0,Male,1,No,Surgical,No,Yes,No,No,30.0
+Lira,18.0,Male,1,No,Medical,No,Yes,Yes,Yes,30.0
+Lira,20.0,Female,2,No,Surgical,No,No,Yes,Yes,44.0
+Lira,76.0,Female,1,No,Surgical,Yes,No,Yes,Yes,57.0
+Lira,20.0,Female,2,No,Gynaecology,No,Yes,No,No,14.0
+Lira,28.0,Male,1,No,Surgical,No,No,Yes,Yes,10.0
+Lira,21.0,Female,1,No,Surgical,No,No,Yes,Yes,6.0
+Lira,4.0,Female,1,No,Paediatric,No,Yes,No,No,38.0
+Lira,18.0,Female,1,No,Surgical,No,Yes,Yes,Yes,15.0
+Lira,36.0,Male,2,No,Gynaecology,No,No,No,No,23.0
+Lira,43.0,Female,2,No,Medical,No,No,No,No,123.0
+Lira,36.0,Female,2,No,Gynaecology,No,No,Yes,Yes,24.0
+Lira,21.0,Female,1,No,Gynaecology,No,No,Yes,Yes,6.0
+Lira,4.0,Female,1,No,Paediatric,No,Yes,No,No,38.0
+Lira,18.0,Female,1,No,Surgical,No,Yes,Yes,Yes,17.0
+Lira,23.0,Female,1,No,Medical,Yes,Yes,No,No,93.0
+Lira,22.0,Female,1,No,Medical,No,No,No,No,9.0
+Lira,47.0,Male,2,No,Medical,Yes,No,No,No,16.0
+Lira,26.0,Male,1,No,Medical,No,Yes,No,No,92.0
+Lira,25.0,Male,1,No,Medical,No,No,No,No,5.0
+Lira,0.0,Female,1,No,Paediatric,No,Yes,No,No,8.0
+Lira,38.0,Female,2,No,Surgical,No,Yes,No,No,38.0
+Lira,4.0,Male,1,No,Paediatric,No,Yes,No,No,27.0
+Lira,27.0,Male,2,No,Surgical,No,No,No,No,20.0
+Lira,55.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,7.0
+Lira,26.0,Male,1,No,Medical,No,No,No,No,27.0
+Lira,15.0,Male,4,No,Accident and emergency,No,No,No,No,2.0
+Lira,12.0,Female,1,No,Accident and emergency,No,Yes,No,No,6.0
+Lira,12.0,Female,1,No,Accident and emergency,No,No,No,No,8.0
+Lira,16.0,Female,1,No,Medical,No,No,No,No,2.0
+Lira,2.0,Male,1,No,Paediatric,No,No,Yes,Yes,31.0
+Lira,6.0,Male,2,No,Paediatric,No,Yes,No,No,64.0
+Lira,38.0,Female,3,No,Accident and emergency,No,No,No,No,25.0
+Lira,17.0,Female,1,No,Medical,No,Yes,Yes,Yes,19.0
+Lira,25.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,11.0
+Lira,5.0,Male,2,No,Paediatric,Yes,No,No,No,13.0
+Lira,43.0,Female,2,No,Accident and emergency,No,No,No,No,49.0
+Lira,45.0,Male,2,No,Medical,No,No,No,No,26.0
+Lira,28.0,Female,1,No,Medical,No,No,Yes,Yes,4.0
+Lira,15.0,Female,2,No,Private wing,Yes,Yes,Yes,Yes,13.0
+Lira,0.0,Male,2,No,Paediatric,No,Yes,Yes,Yes,4.0
+Lira,1.0,Male,3,No,Paediatric,No,No,Yes,Yes,24.0
+Lira,15.0,Female,2,No,Private wing,Yes,Yes,Yes,Yes,58.0
+Lira,18.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,6.0
+Lira,48.0,Male,1,No,ICU/HDU,No,No,Yes,Yes,29.0
+Lira,16.0,Male,2,No,Surgical,Yes,Yes,Yes,Yes,11.0
+Lira,38.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,15.0
+Lira,1.0,Male,2,No,Paediatric,No,Yes,Yes,Yes,21.0
+Lira,1.0,Male,3,No,Paediatric,No,Yes,Yes,Yes,98.0
+Lira,66.0,Female,2,No,Surgical,No,No,Yes,Yes,2.0
+Lira,62.0,Female,2,No,Private wing,Yes,Yes,Yes,Yes,42.0
+Lira,24.0,Female,4,No,Private wing,No,No,Yes,Yes,25.0
+Lira,43.0,Female,2,No,Surgical,No,Yes,Yes,Yes,35.0
+Lira,0.0,Female,3,Yes,Paediatric,No,Yes,Yes,Yes,13.0
+Lira,1.0,Male,2,Yes,Paediatric,No,Yes,No,No,13.0
+Lira,1.0,Male,2,Yes,Paediatric,No,Yes,No,No,13.0
+Lira,1.0,Male,2,No,Paediatric,No,No,No,No,4.0
+Lira,22.0,Female,2,Yes,ICU/HDU,No,No,No,No,19.0
+Lira,48.0,Female,2,No,Accident and emergency,Yes,No,No,No,4.0
+Lira,19.0,Male,1,No,Surgical,No,Yes,No,No,8.0
+Lira,2.0,Male,3,No,Paediatric,Yes,Yes,No,No,3.0
+Lira,35.0,Male,3,No,Private wing,Yes,No,No,Yes,7.0
+Lira,5.0,Male,3,No,Accident and emergency,No,No,No,No,6.0
+Lira,37.0,Male,2,No,Accident and emergency,No,Yes,No,No,21.0
+Lira,0.0,Male,2,Yes,Paediatric,No,Yes,No,No,3.0
+Lira,36.0,Female,3,No,Medical,Yes,Yes,No,No,16.0
+Lira,0.0,Male,2,No,Paediatric,No,Yes,No,No,19.0
+Lira,44.0,Male,2,Yes,Accident and emergency,Yes,Yes,No,No,17.0
+Lira,25.0,Female,3,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,11.0
+Lira,40.0,Female,2,No,Accident and emergency,No,No,Yes,Yes,10.0
+Lira,2.0,Male,4,Yes,Paediatric,No,Yes,Yes,Yes,6.0
+Lira,18.0,Female,2,No,Paediatric,No,No,Yes,Yes,6.0
+Lira,23.0,Male,1,No,ICU/HDU,Yes,Yes,Yes,Yes,17.0
+Lira,0.0,Female,2,Yes,NICU Unit,No,Yes,Yes,Yes,10.0
+Lira,67.0,Female,2,No,Accident and emergency,Yes,No,Yes,Yes,9.0
+Lira,19.0,Female,1,No,Gynaecology,No,Yes,No,No,43.0
+Lira,2.0,Male,2,No,NICU Unit,No,Yes,Yes,Yes,62.0
+Lira,53.0,Male,1,No,Surgical,No,Yes,Yes,Yes,11.0
+Lira,0.0,Male,1,No,Paediatric,No,No,No,No,24.0
+Lira,9.0,Male,1,No,Paediatric,Yes,Yes,No,No,2.0
+Lira,9.0,Male,1,No,Surgical,No,Yes,Yes,Yes,14.0
+Lira,1.0,Female,2,No,Paediatric,No,Yes,No,No,52.0
+Lira,48.0,Female,1,No,ICU/HDU,Yes,Yes,No,No,6.0
+Lira,3.0,Male,1,Yes,Paediatric,Yes,Yes,No,No,48.0
+Lira,25.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,No,No,17.0
+Lira,42.0,Male,1,No,Medical,Yes,No,No,No,9.0
+Lira,6.0,Female,1,No,Accident and emergency,No,No,No,No,3.0
+Lira,0.0,Female,2,No,Paediatric,No,Yes,No,No,48.0
+Lira,0.0,Male,2,No,Paediatric,No,Yes,No,No,22.0
+Lira,7.0,Female,1,No,Accident and emergency,No,Yes,No,No,11.0
+Lira,80.0,Female,1,No,Accident and emergency,No,Yes,No,No,17.0
+Lira,0.0,Male,2,No,Paediatric,No,Yes,No,No,103.0
+Lira,0.0,Female,1,No,Paediatric,No,Yes,Yes,Yes,12.0
+Lira,3.0,Female,1,No,Paediatric,Yes,Yes,No,No,8.0
+Lira,24.0,Female,1,No,Paediatric,No,Yes,No,No,20.0
+Lira,8.0,Male,2,No,Paediatric,No,No,No,No,17.0
+Lira,66.0,Female,2,No,ICU/HDU,Yes,No,Yes,No,9.0
+Lira,67.0,Female,1,No,ICU/HDU,Yes,No,Yes,No,9.0
+Masaka,4.0,Female,1,No,Paediatric,Yes,Yes,Yes,Yes,13.0
+Masaka,10.0,Female,1,No,Paediatric,Yes,Yes,No,No,32.0
+Masaka,3.0,Male,1,No,Medical,No,No,No,No,42.0
+Masaka,40.0,Male,1,No,Medical,No,Yes,No,No,50.0
+Masaka,0.0,Male,1,No,Paediatric,No,No,No,No,20.0
+Masaka,67.0,Male,1,No,Surgical,No,Yes,No,No,83.0
+Masaka,7.0,Male,1,No,Medical,No,Yes,No,No,83.0
+Masaka,4.0,Male,1,No,Paediatric,No,Yes,No,No,6.0
+Masaka,2.0,Female,1,No,Paediatric,Yes,Yes,No,No,22.0
+Masaka,1.0,Female,1,No,Paediatric,No,Yes,Yes,Yes,46.0
+Masaka,57.0,Female,1,No,Surgical,No,Yes,Yes,Yes,22.0
+Masaka,75.0,Female,1,No,Surgical,No,Yes,Yes,Yes,38.0
+Masaka,48.0,Male,1,No,Surgical,No,Yes,No,No,88.0
+Masaka,13.0,Female,1,No,Surgical,No,Yes,Yes,Yes,25.0
+Masaka,39.0,Female,1,No,Gynaecology,No,Yes,No,No,6.0
+Masaka,19.0,Male,1,Yes,Surgical,No,No,No,No,140.0
+Masaka,0.0,Female,1,No,Paediatric,No,No,Yes,Yes,5.0
+Masaka,45.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,134.0
+Masaka,28.0,Male,1,No,Surgical,No,Yes,Yes,Yes,22.0
+Masaka,0.0,Male,1,No,Medical,No,Yes,No,No,20.0
+Masaka,43.0,Male,1,No,Surgical,No,Yes,Yes,Yes,145.0
+Masaka,71.0,Female,1,No,Gynaecology,No,No,Yes,Yes,12.0
+Masaka,42.0,Male,1,No,Surgical,No,Yes,Yes,Yes,19.0
+Masaka,2.0,Female,1,Yes,Paediatric,No,Yes,Yes,Yes,14.0
+Masaka,0.0,Male,1,No,NICU Unit,No,No,Yes,Yes,156.0
+Masaka,81.0,Male,1,No,Medical,Yes,Yes,No,No,7.0
+Masaka,63.0,Male,1,No,Surgical,No,Yes,Yes,Yes,15.0
+Masaka,42.0,Male,1,No,Surgical,No,Yes,Yes,Yes,19.0
+Masaka,44.0,Female,1,No,Surgical,No,Yes,Yes,No,44.0
+Masaka,0.0,Female,1,No,NICU Unit,No,Yes,Yes,Yes,170.0
+Masaka,40.0,Male,1,No,Surgical,No,Yes,Yes,Yes,36.0
+Masaka,31.0,Female,2,No,Medical,No,Yes,Yes,Yes,8.0
+Masaka,65.0,Male,1,No,Surgical,No,Yes,Yes,Yes,7.0
+Masaka,53.0,Female,1,No,Surgical,No,No,No,No,5.0
+Masaka,45.0,Male,1,No,Surgical,No,Yes,Yes,Yes,201.0
+Masaka,29.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,57.0
+Masaka,46.0,Male,1,No,Surgical,No,Yes,Yes,Yes,173.0
+Masaka,0.0,Female,2,Yes,NICU Unit,No,Yes,Yes,Yes,14.0
+Masaka,58.0,Male,1,No,Medical,No,Yes,Yes,Yes,12.0
+Masaka,2.0,Female,1,No,NICU Unit,No,Yes,Yes,No,9.0
+Masaka,0.0,Female,1,Yes,NICU Unit,No,Yes,Yes,Yes,30.0
+Masaka,75.0,Female,1,No,Surgical,No,Yes,No,No,33.0
+Masaka,20.0,Female,1,No,Medical,Yes,Yes,No,No,7.0
+Masaka,63.0,Male,2,No,Surgical,Yes,Yes,Yes,Yes,35.0
+Masaka,28.0,Male,1,No,Surgical,No,Yes,Yes,Yes,23.0
+Masaka,37.0,Male,2,No,Surgical,Yes,Yes,Yes,Yes,14.0
+Masaka,52.0,Male,2,No,Surgical,Yes,Yes,Yes,Yes,43.0
+Masaka,62.0,Male,2,Yes,Surgical,Yes,Yes,Yes,Yes,9.0
+Masaka,52.0,Male,1,No,Medical,No,Yes,Yes,Yes,34.0
+Masaka,43.0,Female,1,No,Medical,Yes,Yes,No,No,5.0
+Masaka,58.0,Female,1,No,Surgical,Yes,Yes,Yes,No,12.0
+Masaka,62.0,Female,1,No,Medical,Yes,Yes,Yes,Yes,23.0
+Masaka,60.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,39.0
+Masaka,39.0,Female,1,No,Medical,Yes,Yes,Yes,Yes,14.0
+Masaka,30.0,Male,1,No,Surgical,No,Yes,Yes,Yes,14.0
+Masaka,36.0,Male,1,No,Surgical,No,Yes,Yes,Yes,26.0
+Masaka,2.0,Male,1,No,Surgical,No,Yes,Yes,Yes,36.0
+Masaka,0.0,Male,1,No,NICU Unit,No,Yes,Yes,Yes,13.0
+Masaka,0.0,Female,1,No,NICU Unit,No,Yes,No,No,13.0
+Masaka,0.0,Female,1,Yes,NICU Unit,No,No,Yes,Yes,14.0
+Masaka,17.0,Male,1,No,Medical,No,Yes,No,No,7.0
+Masaka,36.0,Male,1,Yes,Medical,No,Yes,No,No,34.0
+Masaka,44.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,7.0
+Masaka,30.0,Male,1,No,Accident and emergency,No,No,Yes,Yes,196.0
+Masaka,0.0,Female,1,No,NICU Unit,No,No,Yes,Yes,209.0
+Masaka,26.0,Female,2,No,Maternity/Post-Natal ward,No,Yes,No,No,30.0
+Masaka,30.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,101.0
+Masaka,61.0,Female,1,No,Accident and emergency,No,Yes,Yes,Yes,54.0
+Masaka,45.0,Male,1,No,Surgical,No,Yes,Yes,Yes,20.0
+Masaka,48.0,Female,1,No,Medical,Yes,Yes,Yes,Yes,14.0
+Masaka,13.0,Male,1,No,Medical,No,No,Yes,Yes,99.0
+Masaka,37.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,26.0
+Masaka,48.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,37.0
+Masaka,6.0,Male,1,No,Paediatric,No,Yes,No,No,10.0
+Masaka,95.0,Male,1,No,Medical,No,No,No,No,13.0
+Masaka,74.0,Female,1,No,Medical,Yes,No,No,No,14.0
+Masaka,7.0,Male,1,No,Paediatric,No,No,No,No,20.0
+Masaka,2.0,Female,1,No,Paediatric,No,Yes,No,No,39.0
+Masaka,1.0,Male,1,No,Paediatric,Yes,Yes,No,No,53.0
+Masaka,0.0,Male,2,No,NICU Unit,No,Yes,Yes,Yes,2.0
+Masaka,0.0,Male,2,No,NICU Unit,No,Yes,Yes,Yes,20.0
+Masaka,0.0,Male,1,No,NICU Unit,No,Yes,Yes,Yes,25.0
+Masaka,0.0,Female,1,Yes,NICU Unit,No,Yes,Yes,No,6.0
+Masaka,0.0,Male,1,No,NICU Unit,No,Yes,Yes,Yes,4.0
+Masaka,65.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,7.0
+Masaka,42.0,Male,1,No,Surgical,No,Yes,Yes,Yes,26.0
+Masaka,0.0,Female,1,No,NICU Unit,No,Yes,No,No,12.0
+Masaka,38.0,Male,2,No,Surgical,No,Yes,Yes,Yes,17.0
+Masaka,32.0,Female,1,No,Medical,No,Yes,Yes,Yes,5.0
+Masaka,0.0,Male,1,No,NICU Unit,No,Yes,Yes,Yes,2.0
+Masaka,0.0,Male,1,No,NICU Unit,No,Yes,Yes,Yes,12.0
+Masaka,37.0,Female,2,Yes,Medical,No,Yes,Yes,Yes,4.0
+Masaka,23.0,Female,2,No,Medical,No,Yes,Yes,Yes,7.0
+Masaka,54.0,Male,1,No,Surgical,No,Yes,Yes,No,22.0
+Masaka,29.0,Female,1,No,Medical,No,No,Yes,Yes,11.0
+Masaka,58.0,Male,2,No,Surgical,No,No,Yes,Yes,18.0
+Masaka,85.0,Female,1,Yes,Medical,No,No,Yes,No,15.0
+Masaka,43.0,Male,1,No,Surgical,No,Yes,Yes,Yes,19.0
+Masaka,34.0,Female,1,Yes,Medical,Yes,Yes,Yes,Yes,20.0
+Masaka,30.0,Female,1,No,Surgical,No,Yes,Yes,Yes,19.0
+Masaka,3.0,Male,1,No,Surgical,No,Yes,Yes,Yes,14.0
+Masaka,54.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,9.0
+Masaka,78.0,Male,2,No,Surgical,Yes,Yes,Yes,Yes,9.0
+Masaka,0.0,Female,1,Yes,Maternity/Post-Natal ward,No,No,Yes,Yes,30.0
+Masaka,57.0,Male,1,No,Medical,No,No,No,No,10.0
+Masaka,25.0,Male,1,No,Orthopaedic,No,Yes,No,No,8.0
+Mbale,11.0,Male,1,No,Orthopaedic,No,Yes,No,No,10.0
+Mbale,56.0,Female,1,No,Orthopaedic,No,Yes,Yes,No,7.0
+Mbale,22.0,Female,1,No,Orthopaedic,No,Yes,Yes,Yes,67.0
+Mbale,62.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,38.0
+Mbale,90.0,Female,1,No,Orthopaedic,No,Yes,Yes,Yes,34.0
+Mbale,31.0,Male,1,No,Surgical,Yes,No,No,No,51.0
+Mbale,22.0,Male,2,No,Surgical,No,Yes,Yes,Yes,84.0
+Mbale,51.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,13.0
+Mbale,57.0,Male,1,No,ICU/HDU,Yes,Yes,Yes,Yes,39.0
+Mbale,40.0,Male,1,No,Accident and emergency,No,Yes,No,No,42.0
+Mbale,20.0,Female,2,Yes,Maternity/Post-Natal ward,No,Yes,No,No,10.0
+Mbale,9.0,Female,1,No,Surgical,No,Yes,Yes,Yes,15.0
+Mbale,35.0,Female,1,No,Surgical,No,Yes,Yes,Yes,58.0
+Mbale,45.0,Female,1,No,Surgical,No,Yes,Yes,Yes,8.0
+Mbale,52.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,39.0
+Mbale,51.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,10.0
+Mbale,0.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,14.0
+Mbale,39.0,Male,1,No,Surgical,No,Yes,Yes,Yes,19.0
+Mbale,56.0,Male,1,No,Surgical,Yes,No,Yes,Yes,58.0
+Mbale,29.0,Female,1,No,Gynaecology,No,Yes,No,No,12.0
+Mbale,22.0,Female,1,No,Surgical,No,Yes,Yes,Yes,30.0
+Mbale,36.0,Male,1,Yes,Surgical,No,Yes,No,No,78.0
+Mbale,30.0,Female,1,Yes,Surgical,No,Yes,Yes,Yes,37.0
+Mbale,45.0,Female,2,No,Surgical,No,Yes,Yes,Yes,36.0
+Mbale,14.0,Female,3,No,Surgical,No,Yes,Yes,Yes,14.0
+Mbale,60.0,Female,2,No,Gynaecology,Yes,No,Yes,Yes,36.0
+Mbale,1.0,Male,3,No,Surgical,No,Yes,Yes,Yes,7.0
+Mbale,32.0,Female,1,Yes,Gynaecology,No,Yes,No,No,18.0
+Mbale,30.0,Female,2,Yes,Gynaecology,No,Yes,Yes,Yes,13.0
+Mbale,35.0,Female,2,No,Gynaecology,No,No,No,No,45.0
+Mbale,32.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,8.0
+Mbale,22.0,Female,1,No,Gynaecology,Yes,Yes,Yes,Yes,26.0
+Mbale,29.0,Female,2,No,Gynaecology,No,Yes,No,No,22.0
+Mbale,50.0,Male,1,No,Surgical,No,Yes,Yes,Yes,33.0
+Mbale,24.0,Male,3,No,Surgical,No,Yes,Yes,Yes,40.0
+Mbale,59.0,Male,1,Yes,Surgical,Yes,Yes,Yes,Yes,30.0
+Mbale,50.0,Female,1,No,Medical,No,Yes,No,No,1.0
+Mbale,51.0,Male,2,No,Surgical,No,Yes,No,No,32.0
+Mbale,37.0,Male,2,No,Orthopaedic,No,Yes,Yes,Yes,13.0
+Mbale,7.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,6.0
+Mbale,7.0,Male,1,No,Orthopaedic,No,No,Yes,No,38.0
+Mbale,0.0,Male,2,No,Paediatric,No,Yes,No,No,23.0
+Mbale,72.0,Male,1,No,Medical,Yes,Yes,No,No,25.0
+Mbale,23.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,29.0
+Mbale,1.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,27.0
+Mbale,55.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,32.0
+Mbale,1.0,Male,1,No,Accident and emergency,Yes,No,Yes,Yes,7.0
+Mbale,44.0,Male,1,No,Accident and emergency,No,Yes,No,No,7.0
+Mbale,39.0,Male,1,No,Medical,Yes,Yes,No,No,18.0
+Mbale,51.0,Female,1,No,Surgical,No,Yes,Yes,Yes,1835.0
+Mbale,60.0,Male,1,No,Surgical,Yes,No,Yes,Yes,6.0
+Mbale,60.0,Male,1,No,Surgical,Yes,No,No,No,6.0
+Mbale,39.0,Male,1,No,Gynaecology,No,No,No,No,13.0
+Mbale,28.0,Female,1,No,Surgical,No,No,Yes,No,23.0
+Mbale,1.0,Male,1,No,Accident and emergency,Yes,No,Yes,Yes,7.0
+Mbale,34.0,Female,1,No,Surgical,No,No,Yes,Yes,18.0
+Mbale,1.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,1.0
+Mbale,70.0,Female,1,No,Orthopaedic,Yes,No,Yes,Yes,13.0
+Mbale,45.0,Male,1,No,Surgical,No,Yes,Yes,Yes,32.0
+Mbale,54.0,Male,1,No,ICU/HDU,Yes,Yes,Yes,Yes,1843.0
+Mbale,23.0,Female,1,No,ICU/HDU,No,No,Yes,Yes,25.0
+Mbale,55.0,Female,1,No,Medical,No,Yes,No,No,20.0
+Mbale,38.0,Female,1,No,Medical,No,Yes,No,No,11.0
+Mbale,0.0,Male,1,No,Paediatric,No,No,Yes,Yes,46.0
+Mbale,44.0,Male,1,No,Medical,No,No,No,No,46.0
+Mbale,38.0,Male,1,No,Medical,Yes,Yes,No,No,16.0
+Mbale,30.0,Male,1,No,Medical,Yes,Yes,No,No,8.0
+Mbale,43.0,Female,1,Yes,Surgical,No,Yes,Yes,Yes,32.0
+Mbale,0.0,Male,2,Yes,Surgical,No,Yes,Yes,Yes,7.0
+Mbale,45.0,Male,2,No,Surgical,No,Yes,Yes,Yes,15.0
+Mbale,62.0,Male,2,No,Surgical,No,Yes,Yes,Yes,1081.0
+Mbale,17.0,Female,1,No,Surgical,No,Yes,Yes,Yes,14.0
+Mbale,24.0,Male,2,Yes,Medical,No,Yes,No,No,18.0
+Mbale,18.0,Male,3,Yes,Medical,No,No,No,No,15.0
+Mbale,54.0,Female,3,Yes,Medical,Yes,No,No,No,13.0
+Mbale,45.0,Female,3,No,Medical,Yes,No,Yes,Yes,32.0
+Mbale,21.0,Female,1,No,Surgical,No,Yes,No,No,21.0
+Mbale,13.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,46.0
+Mbale,43.0,Male,3,No,Surgical,No,Yes,No,No,9.0
+Mbale,60.0,Female,1,Yes,Medical,Yes,Yes,No,No,21.0
+Mbale,13.0,Male,1,Yes,Paediatric,No,No,No,No,9.0
+Mbale,45.0,Male,1,No,Surgical,No,No,Yes,Yes,7.0
+Mbale,61.0,Female,1,Yes,Medical,Yes,No,No,No,58.0
+Mbale,55.0,Male,1,No,Medical,Yes,Yes,No,No,6.0
+Mbale,12.0,Male,1,Yes,Accident and emergency,No,Yes,No,No,6.0
+Mbale,29.0,Female,2,No,Gynaecology,No,Yes,No,No,7.0
+Mbale,29.0,Female,2,No,Gynaecology,No,Yes,No,No,7.0
+Mbale,0.0,Female,2,No,Surgical,No,No,No,No,6.0
+Mbale,15.0,Female,1,No,Gynaecology,No,No,No,No,20.0
+Mbale,15.0,Female,1,No,Gynaecology,No,No,No,No,20.0
+Mbale,40.0,Female,3,Yes,Gynaecology,No,Yes,No,No,1.0
+Mbale,40.0,Female,3,Yes,Gynaecology,No,Yes,No,No,1.0
+Mbale,25.0,Male,4,No,Medical,No,Yes,No,No,39.0
+Mbale,33.0,Female,1,No,Surgical,No,Yes,Yes,Yes,36.0
+Mbale,27.0,Female,1,No,Surgical,No,No,Yes,Yes,53.0
+Mbale,67.0,Male,2,No,Surgical,Yes,Yes,Yes,Yes,55.0
+Mbale,38.0,Female,1,No,Surgical,No,No,Yes,Yes,10.0
+Mbale,35.0,Female,1,No,Surgical,No,Yes,Yes,Yes,31.0
+Mbale,45.0,Female,1,Yes,Medical,No,No,No,No,13.0
+Mbale,67.0,Male,1,No,Surgical,No,Yes,No,No,21.0
+Mbale,27.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,44.0
+Mbale,3.0,Male,2,No,Paediatric,No,No,No,No,12.0
+Mbale,29.0,Female,1,No,Orthopaedic,No,No,No,No,154.0
+Mbale,12.0,Female,1,No,Orthopaedic,No,No,No,No,8.0
+Mbale,53.0,Female,1,No,Orthopaedic,Yes,Yes,Yes,Yes,25.0
+Mbale,22.0,Female,1,No,Orthopaedic,No,Yes,Yes,No,6.0
+Mbale,7.0,Male,1,No,Orthopaedic,No,Yes,Yes,Yes,28.0
+Mbale,22.0,Female,1,Yes,Medical,No,Yes,Yes,Yes,53.0
+Gulu,43.0,Female,1,Yes,ICU/HDU,Yes,Yes,Yes,Yes,14.0
+Mbale,22.0,Female,1,Yes,Medical,No,Yes,Yes,Yes,53.0
+Mbale,64.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,17.0
+Mbale,17.0,Male,1,Yes,Medical,No,No,No,No,7.0
+Mbale,90.0,Male,1,Yes,Medical,Yes,Yes,Yes,Yes,22.0
+Mbale,65.0,Male,2,No,Medical,Yes,Yes,No,No,7.0
+Mbale,52.0,Female,1,Yes,Surgical,Yes,Yes,Yes,No,41.0
+Mbale,60.0,Male,1,Yes,Surgical,Yes,Yes,Yes,Yes,45.0
+Mbale,34.0,Female,1,Yes,Surgical,No,No,Yes,Yes,52.0
+Mbale,73.0,Male,1,Yes,ICU/HDU,No,Yes,Yes,Yes,19.0
+Mbale,50.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,23.0
+Mbale,63.0,Male,2,No,Medical,Yes,No,Yes,Yes,15.0
+Mbale,68.0,Female,1,No,Surgical,No,Yes,Yes,Yes,63.0
+Mbale,60.0,Female,1,No,Surgical,No,Yes,Yes,Yes,27.0
+Mbale,30.0,Male,1,No,Surgical,No,Yes,No,No,37.0
+Mbale,42.0,Male,1,No,Surgical,Yes,Yes,Yes,Yes,70.0
+Mbale,55.0,Female,3,No,Surgical,Yes,Yes,Yes,Yes,29.0
+Mbale,21.0,Female,2,Yes,Gynaecology,No,No,Yes,No,48.0
+Mbale,21.0,Female,2,Yes,Gynaecology,No,No,Yes,No,48.0
+Mbale,23.0,Female,2,Yes,ICU/HDU,No,Yes,No,No,26.0
+Mbale,28.0,Female,4,Yes,Surgical,Yes,Yes,Yes,Yes,12.0
+Mbale,16.0,Male,2,Yes,Surgical,No,Yes,Yes,Yes,15.0
+Mbale,31.0,Male,2,No,Accident and emergency,No,No,Yes,Yes,15.0
+Mbale,0.0,Male,2,No,Surgical,No,Yes,No,No,9.0
+Mbale,18.0,Male,1,Yes,ICU/HDU,No,Yes,No,No,9.0
+Mbale,52.0,Female,3,Yes,Surgical,No,Yes,Yes,Yes,29.0
+Mbale,22.0,Female,3,No,Surgical,No,Yes,Yes,Yes,20.0
+Mbale,20.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,32.0
+Mbale,39.0,Male,1,Yes,Surgical,Yes,Yes,Yes,Yes,24.0
+Mbarara,78.0,Female,1,No,Surgical,Yes,Yes,Yes,Yes,67.0
+Mbarara,39.0,Male,1,No,ICU/HDU,No,Yes,Yes,Yes,7.0
+Mbarara,40.0,Female,2,No,Medical,Yes,Yes,Yes,Yes,4.0
+Mbarara,30.0,Male,2,No,Medical,No,Yes,No,No,4.0
+Mbarara,24.0,Male,1,No,Surgical,No,Yes,Yes,Yes,58.0
+Mbarara,55.0,Female,2,No,ICU/HDU,No,Yes,Yes,Yes,16.0
+Mbarara,11.0,Male,2,No,ICU/HDU,No,Yes,Yes,No,10.0
+Mbarara,27.0,Male,1,No,Surgical,No,Yes,Yes,Yes,24.0
+Mbarara,28.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,6.0
+Mbarara,0.0,Female,2,No,NICU Unit,No,Yes,Yes,No,28.0
+Mbarara,0.0,Female,1,No,Paediatric,No,Yes,No,No,30.0
+Mbarara,75.0,Female,1,No,Medical,Yes,Yes,No,No,6.0
+Mbarara,38.0,Male,1,No,Medical,No,No,No,No,6.0
+Mbarara,78.0,Female,2,No,Surgical,No,Yes,No,No,6.0
+Mbarara,76.0,Female,1,No,Medical,No,No,Yes,Yes,14.0
+Mbarara,54.0,Male,1,No,Medical,No,No,No,No,18.0
+Mbarara,27.0,Female,1,No,Gynaecology,No,Yes,No,No,3.0
+Mbarara,18.0,Female,2,No,Gynaecology,No,Yes,No,No,11.0
+Mbarara,23.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,0.0
+Mbarara,64.0,Male,1,No,Medical,Yes,Yes,Yes,Yes,3.0
+Mbarara,19.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,13.0
+Mbarara,50.0,Male,1,No,Surgical,No,Yes,No,No,18.0
+Mbarara,0.0,Female,2,No,Paediatric,No,Yes,Yes,Yes,49.0
+Mbarara,0.0,Female,2,Yes,Paediatric,No,Yes,Yes,No,1127.0
+Mbarara,74.0,Male,1,No,Medical,Yes,Yes,No,No,2.0
+Mbarara,73.0,Female,1,No,Medical,Yes,Yes,No,No,7.0
+Mbarara,65.0,Female,2,No,Medical,Yes,No,No,No,9.0
+Mbarara,41.0,Female,1,Yes,Medical,Yes,Yes,No,No,26.0
+Mbarara,24.0,Female,2,No,Gynaecology,No,No,No,No,7.0
+Mbarara,46.0,Female,1,No,Medical,Yes,No,No,No,10.0
+Mbarara,31.0,Male,2,No,Medical,No,Yes,No,No,25.0
+Mbarara,73.0,Female,2,Yes,ICU/HDU,Yes,Yes,No,No,2.0
+Mbarara,0.0,Male,1,Yes,Paediatric,No,Yes,Yes,Yes,52.0
+Mbarara,28.0,Male,1,No,Medical,No,Yes,No,No,12.0
+Mbarara,70.0,Male,2,No,Medical,No,Yes,No,No,6.0
+Mbarara,29.0,Female,2,No,Medical,Yes,Yes,No,No,8.0
+Mbarara,27.0,Male,2,No,Medical,No,Yes,No,No,16.0
+Mbarara,35.0,Male,1,No,Medical,No,Yes,No,No,19.0
+Mbarara,30.0,Male,1,Yes,Medical,Yes,No,No,No,70.0
+Mbarara,18.0,Male,1,No,Medical,Yes,Yes,No,No,6.0
+Mbarara,53.0,Female,1,Yes,Medical,Yes,No,No,No,4.0
+Mbarara,95.0,Female,2,No,Medical,No,Yes,No,No,7.0
+Mbarara,54.0,Male,1,No,Medical,Yes,Yes,No,No,7.0
+Mbarara,30.0,Female,1,No,Medical,No,Yes,No,No,6.0
+Mbarara,45.0,Female,2,No,Medical,Yes,Yes,No,No,14.0
+Mbarara,84.0,Female,1,No,Medical,Yes,Yes,No,No,8.0
+Mbarara,30.0,Male,1,No,ICU/HDU,No,Yes,Yes,Yes,62.0
+Mbarara,36.0,Male,1,No,Surgical,No,Yes,Yes,Yes,39.0
+Mbarara,20.0,Male,1,No,Medical,No,Yes,Yes,Yes,3.0
+Mbarara,40.0,Male,1,No,Medical,No,No,Yes,Yes,13.0
+Mbarara,20.0,Female,2,No,Medical,No,Yes,Yes,Yes,6.0
+Mbarara,59.0,Female,2,No,Medical,Yes,Yes,Yes,Yes,22.0
+Mbarara,32.0,Female,2,No,Medical,Yes,Yes,Yes,Yes,11.0
+Mbarara,24.0,Female,1,No,Medical,Yes,Yes,No,No,10.0
+Mbarara,41.0,Female,1,No,Gynaecology,No,Yes,No,No,59.0
+Mbarara,63.0,Female,1,No,Medical,No,Yes,Yes,Yes,6.0
+Mbarara,73.0,Female,1,No,ICU/HDU,Yes,Yes,Yes,Yes,21.0
+Mbarara,86.0,Male,1,No,Surgical,No,Yes,Yes,Yes,8.0
+Mbarara,36.0,Male,2,No,Medical,Yes,Yes,Yes,Yes,10.0
+Mbarara,58.0,Female,2,No,Surgical,Yes,Yes,No,No,14.0
+Mbarara,43.0,Male,1,No,Surgical,Yes,Yes,Yes,No,20.0
+Mbarara,27.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,15.0
+Mbarara,38.0,Male,1,No,Surgical,No,No,Yes,Yes,8.0
+Mbarara,48.0,Female,1,No,Surgical,Yes,Yes,Yes,No,13.0
+Mbarara,22.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,8.0
+Mbarara,30.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,8.0
+Mbarara,73.0,Male,1,No,Surgical,No,Yes,Yes,Yes,10.0
+Mbarara,10.0,Male,1,No,Surgical,No,No,Yes,Yes,67.0
+Mbarara,24.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,17.0
+Mbarara,60.0,Female,3,No,Accident and emergency,No,No,No,No,36.0
+Mbarara,31.0,Female,1,No,Medical,Yes,Yes,No,No,13.0
+Mbarara,45.0,Female,1,No,Surgical,Yes,No,Yes,Yes,7.0
+Mbarara,64.0,Female,1,No,Medical,Yes,Yes,Yes,Yes,28.0
+Mbarara,29.0,Female,2,No,Medical,Yes,Yes,No,No,22.0
+Mbarara,70.0,Female,2,Yes,Medical,Yes,No,Yes,No,9.0
+Mbarara,0.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,80.0
+Mbarara,56.0,Male,1,No,Medical,Yes,Yes,Yes,No,1.0
+Mbarara,48.0,Female,2,No,Surgical,No,No,Yes,Yes,219.0
+Mbarara,84.0,Female,2,No,Medical,No,Yes,Yes,Yes,1.0
+Mbarara,50.0,Female,1,No,Medical,No,No,Yes,Yes,68.0
+Mbarara,28.0,Female,2,No,Medical,Yes,Yes,Yes,Yes,15.0
+Mbarara,5.0,Female,2,Yes,Surgical,No,Yes,Yes,Yes,22.0
+Mbarara,29.0,Female,2,No,ICU/HDU,No,Yes,Yes,No,13.0
+Mbarara,72.0,Male,1,No,Medical,Yes,Yes,Yes,Yes,2.0
+Mbarara,44.0,Male,1,No,Medical,No,No,Yes,Yes,7.0
+Mbarara,22.0,Female,1,No,Surgical,No,Yes,Yes,Yes,27.0
+Mbarara,0.0,Male,2,Yes,NICU Unit,No,Yes,Yes,Yes,9.0
+Mbarara,29.0,Female,2,No,Medical,No,Yes,Yes,Yes,3.0
+Mbarara,75.0,Female,1,No,Medical,Yes,Yes,Yes,Yes,1.0
+Mbarara,30.0,Female,2,No,Gynaecology,No,Yes,Yes,Yes,57.0
+Mbarara,24.0,Male,1,No,ICU/HDU,No,Yes,Yes,Yes,12.0
+Mbarara,21.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,4.0
+Mbarara,1.0,Male,1,Yes,Surgical,No,Yes,Yes,Yes,51.0
+Mbarara,65.0,Male,1,No,Surgical,No,No,Yes,Yes,13.0
+Mbarara,51.0,Female,1,Yes,Surgical,Yes,Yes,Yes,No,11.0
+Mbarara,0.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,20.0
+Mbarara,47.0,Female,1,Yes,Surgical,Yes,Yes,Yes,Yes,46.0
+Mbarara,5.0,Female,1,No,Paediatric,No,Yes,Yes,Yes,89.0
+Mbarara,87.0,Female,1,Yes,Medical,No,Yes,No,No,43.0
+Mbarara,100.0,Female,1,No,Medical,No,Yes,No,No,2.0
+Mbarara,36.0,Male,1,No,Medical,No,Yes,No,No,7.0
+Mbarara,0.0,Male,1,Yes,Paediatric,Yes,Yes,Yes,Yes,13.0
+Mbarara,0.0,Female,1,No,Paediatric,No,Yes,No,No,3.0
+Mbarara,2.0,Female,1,No,Paediatric,Yes,Yes,No,No,15.0
+Mbarara,8.0,Male,1,No,ICU/HDU,Yes,No,No,No,5.0
+Mbarara,7.0,Male,1,No,Paediatric,No,Yes,No,No,12.0
+Mbarara,1.0,Male,1,No,Paediatric,No,Yes,No,No,6.0
+Mbarara,0.0,Male,2,Yes,Paediatric,No,Yes,Yes,No,14.0
+Mbarara,0.0,Female,2,No,Paediatric,No,Yes,No,No,13.0
+Mbarara,2.0,Male,1,No,Paediatric,No,Yes,No,No,4.0
+Mbarara,2.0,Female,1,No,Paediatric,No,Yes,No,No,6.0
+Mbarara,0.0,Male,1,Yes,Paediatric,No,Yes,No,No,10.0
+Mbarara,10.0,Male,1,No,Paediatric,No,Yes,No,No,66.0
+Mbarara,13.0,Male,1,No,Medical,No,Yes,No,No,24.0
+Mbarara,0.0,Female,3,No,Paediatric,Yes,Yes,No,No,8.0
+Mbarara,0.0,Female,2,No,NICU Unit,No,Yes,No,No,4.0
+Mbarara,1.0,Male,2,No,ICU/HDU,No,Yes,No,No,40.0
+Mbarara,1.0,Male,1,No,Paediatric,No,Yes,Yes,Yes,4.0
+Mbarara,0.0,Female,3,No,NICU Unit,No,Yes,Yes,Yes,19.0
+Mbarara,0.0,Female,3,Yes,NICU Unit,No,Yes,No,No,19.0
+Mbarara,13.0,Female,1,No,Paediatric,Yes,Yes,Yes,No,32.0
+Mbarara,13.0,Female,3,No,Paediatric,Yes,Yes,No,No,32.0
+Mbarara,1.0,Female,1,No,Paediatric,Yes,No,No,No,28.0
+Mbarara,0.0,Male,2,No,Paediatric,Yes,Yes,No,No,16.0
+Mbarara,1.0,Female,1,No,Paediatric,Yes,Yes,Yes,Yes,42.0
+Mbarara,7.0,Male,1,No,Paediatric,No,Yes,No,No,26.0
+Mbarara,25.0,Female,1,No,Gynaecology,No,Yes,No,No,9.0
+Mbarara,18.0,Female,1,No,Gynaecology,No,No,No,No,31.0
+Mbarara,32.0,Female,1,No,Maternity/Post-Natal ward,No,No,No,No,12.0
+Mbarara,0.0,Male,2,No,Paediatric,No,Yes,Yes,Yes,7.0
+Mbarara,0.0,Male,3,No,Paediatric,No,Yes,No,No,2.0
+Mbarara,0.0,Male,1,No,Paediatric,No,Yes,No,No,10.0
+Mbarara,1.0,Male,1,No,Paediatric,Yes,No,Yes,Yes,6.0
+Mbarara,66.0,Female,1,Yes,Medical,Yes,Yes,Yes,Yes,12.0
+Mbarara,66.0,Male,1,Yes,Medical,Yes,Yes,Yes,Yes,12.0
+Mbarara,13.0,Female,3,No,Paediatric,No,No,Yes,Yes,3.0
+Mbarara,2.0,Male,2,No,Paediatric,Yes,Yes,No,No,23.0
+Mbarara,1.0,Male,1,No,Paediatric,No,Yes,No,No,5.0
+Mbarara,19.0,Male,2,Yes,Surgical,No,Yes,Yes,Yes,27.0
+Mbarara,0.0,Male,1,No,Paediatric,No,Yes,No,No,10.0
+Mbarara,2.0,Male,1,No,Surgical,No,No,Yes,Yes,20.0
+Mbarara,18.0,Male,1,No,Surgical,No,No,Yes,Yes,72.0
+Mbarara,1.0,Male,1,No,Surgical,No,No,Yes,Yes,87.0
+Mbarara,50.0,Male,2,No,Medical,Yes,Yes,Yes,Yes,6.0
+Mbarara,62.0,Female,1,No,Medical,Yes,Yes,No,No,32.0
+Mbarara,0.0,Male,1,No,NICU Unit,No,No,Yes,Yes,10.0
+Mbarara,0.0,Male,2,No,Paediatric,Yes,No,Yes,Yes,11.0
+Mbarara,55.0,Female,1,No,Medical,No,Yes,Yes,Yes,49.0
+Mbarara,28.0,Male,1,Yes,ICU/HDU,No,Yes,Yes,Yes,38.0
+Mbarara,73.0,Male,3,No,Medical,Yes,Yes,Yes,Yes,3.0
+Mbarara,19.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,15.0
+Mbarara,19.0,Female,1,No,Gynaecology,No,Yes,No,No,15.0
+Mbarara,43.0,Male,2,No,Surgical,Yes,No,Yes,Yes,159.0
+Mbarara,82.0,Female,1,No,Surgical,No,Yes,Yes,Yes,7.0
+Mbarara,25.0,Female,1,No,TB ward,No,No,Yes,Yes,18.0
+Mbarara,44.0,Male,1,No,Surgical,No,No,Yes,Yes,68.0
+Mbarara,82.0,Male,1,No,Medical,Yes,Yes,Yes,Yes,16.0
+Mbarara,58.0,Male,2,No,Medical,Yes,No,No,No,55.0
+Mbarara,19.0,Female,3,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,43.0
+Mbarara,18.0,Male,2,Yes,Medical,Yes,No,No,No,50.0
+Mbarara,42.0,Female,2,Yes,Medical,Yes,No,Yes,Yes,52.0
+Mbarara,76.0,Male,3,No,Medical,Yes,No,No,No,5.0
+Mbarara,35.0,Female,3,No,Medical,Yes,Yes,Yes,Yes,4.0
+Mbarara,39.0,Female,1,No,Surgical,No,No,Yes,Yes,11.0
+Mbarara,0.0,Male,4,No,Paediatric,No,Yes,Yes,Yes,10.0
+Mbarara,0.0,Male,3,No,Paediatric,No,Yes,No,No,61.0
+Mbarara,25.0,Female,1,No,Gynaecology,No,No,Yes,Yes,17.0
+Mbarara,67.0,Male,1,No,Surgical,No,Yes,Yes,Yes,4.0
+Mbarara,77.0,Male,1,Yes,Medical,No,Yes,Yes,Yes,1.0
+Mbarara,21.0,Female,1,No,Gynaecology,No,No,Yes,Yes,33.0
+Mbarara,21.0,Female,1,No,Gynaecology,No,No,No,No,2.0
+Mbarara,24.0,Female,1,Yes,Gynaecology,No,No,Yes,Yes,2.0
+Mbarara,0.0,Female,2,No,Paediatric,Yes,No,Yes,No,8.0
+Mbarara,0.0,Male,1,No,Paediatric,Yes,Yes,Yes,Yes,4.0
+Mbarara,35.0,Female,1,No,Surgical,No,No,Yes,Yes,53.0
+Mbarara,25.0,Male,1,No,Medical,No,No,Yes,Yes,21.0
+Mbarara,83.0,Male,1,No,Medical,No,No,Yes,Yes,2.0
+Mbarara,0.0,Female,1,No,Paediatric,No,Yes,No,No,38.0
+Mbarara,22.0,Female,1,No,Medical,Yes,Yes,No,No,4.0
+Mbarara,20.0,Male,1,No,Medical,Yes,Yes,No,No,24.0
+Mbarara,0.0,Female,1,No,ICU/HDU,Yes,Yes,No,No,29.0
+Mbarara,35.0,Male,1,No,Medical,Yes,No,No,No,4.0
+Mbarara,25.0,Female,1,Yes,Gynaecology,No,Yes,No,No,9.0
+Mbarara,36.0,Female,1,No,Gynaecology,No,No,Yes,Yes,26.0
+Mbarara,33.0,Female,2,No,Medical,Yes,No,No,No,3.0
+Mbarara,85.0,Male,1,No,Surgical,No,Yes,No,No,84.0
+Mbarara,39.0,Male,3,Yes,Surgical,No,Yes,Yes,Yes,26.0
+Mbarara,35.0,Female,2,No,Surgical,No,Yes,Yes,Yes,67.0
+Mbarara,45.0,Male,1,No,TB ward,No,No,Yes,Yes,32.0
+Mbarara,35.0,Female,1,No,TB ward,No,No,Yes,Yes,23.0
+Mbarara,40.0,Female,2,No,TB ward,No,No,Yes,Yes,20.0
+Mbarara,46.0,Female,2,Yes,Medical,No,Yes,Yes,Yes,11.0
+Mbarara,76.0,Female,1,No,Surgical,Yes,No,No,No,15.0
+Mbarara,32.0,Female,2,Yes,TB ward,Yes,No,Yes,Yes,2.0
+Mbarara,32.0,Female,1,No,TB ward,Yes,No,Yes,Yes,2.0
+Mbarara,76.0,Female,1,No,Surgical,Yes,No,Yes,Yes,15.0
+Mbarara,18.0,Female,1,Yes,Gynaecology,No,Yes,Yes,Yes,17.0
+Mbarara,20.0,Male,3,No,ICU/HDU,No,Yes,Yes,Yes,21.0
+Mbarara,20.0,Male,2,No,ICU/HDU,No,Yes,Yes,Yes,21.0
+Mbarara,20.0,Male,2,No,ICU/HDU,No,Yes,Yes,Yes,21.0
+Mbarara,33.0,Female,1,No,TB ward,No,No,Yes,Yes,7.0
+Mbarara,30.0,Female,3,No,TB ward,No,Yes,Yes,Yes,26.0
+Mbarara,49.0,Male,2,Yes,TB ward,Yes,Yes,Yes,Yes,15.0
+Mbarara,32.0,Female,1,No,TB ward,No,No,Yes,Yes,4.0
+Mbarara,80.0,Female,3,No,ICU/HDU,Yes,No,Yes,Yes,89.0
+Mbarara,25.0,Female,1,No,Maternity/Post-Natal ward,No,No,No,No,30.0
+Mbarara,0.0,Female,2,Yes,NICU Unit,No,Yes,No,No,6.0
+Mbarara,10.0,Male,1,No,NICU Unit,No,Yes,Yes,Yes,66.0
+Mbarara,34.0,Female,1,No,Medical,No,Yes,Yes,Yes,2.0
+Mbarara,70.0,Female,1,Yes,Surgical,Yes,Yes,Yes,Yes,37.0
+Mbarara,70.0,Female,1,Yes,Surgical,No,Yes,Yes,Yes,36.0
+Mbarara,64.0,Male,3,No,Medical,No,Yes,No,No,54.0
+Mbarara,0.0,Female,3,No,Paediatric,No,Yes,No,No,27.0
+Mbarara,75.0,Female,1,No,Medical,No,Yes,Yes,Yes,4.0
+Mbarara,87.0,Female,1,Yes,Medical,No,Yes,Yes,Yes,63.0
+Mbarara,0.0,Female,1,No,Paediatric,No,No,No,No,14.0
+Mbarara,32.0,Female,1,No,TB ward,No,No,Yes,Yes,15.0
+Mbarara,25.0,Female,1,No,TB ward,No,No,Yes,Yes,21.0
+Mbarara,62.0,Male,1,Yes,Surgical,Yes,Yes,Yes,Yes,6.0
+Mbarara,33.0,Male,1,No,Medical,Yes,No,Yes,Yes,7.0
+Mbarara,30.0,Female,1,No,TB ward,No,No,Yes,Yes,20.0
+Mbarara,40.0,Male,1,No,TB ward,No,No,Yes,Yes,28.0
+Mbarara,16.0,Female,1,Yes,Gynaecology,No,Yes,Yes,Yes,28.0
+Mbarara,26.0,Male,1,No,Surgical,Yes,No,No,No,21.0
+Mbarara,0.0,Female,1,No,Surgical,No,Yes,No,No,45.0
+Mbarara,80.0,Female,3,No,ICU/HDU,Yes,Yes,No,No,96.0
+Mbarara,80.0,Female,2,No,ICU/HDU,Yes,Yes,Yes,Yes,96.0
+Mbarara,80.0,Female,2,No,ICU/HDU,Yes,Yes,Yes,Yes,96.0
+Mbarara,45.0,Male,1,No,Medical,Yes,Yes,No,No,5.0
+Mbarara,0.0,Female,2,No,Paediatric,No,Yes,No,No,5.0
+Mbarara,7.0,Male,1,Yes,Paediatric,No,No,No,No,29.0
+Mbarara,87.0,Male,2,Yes,Medical,No,No,No,No,16.0
+Mbarara,87.0,Male,2,Yes,Medical,No,Yes,No,No,16.0
+Mbarara,0.0,Female,1,No,Paediatric,No,No,No,No,4.0
+Mbarara,2.0,Female,2,No,Paediatric,No,Yes,No,No,40.0
+Mbarara,9.0,Female,1,No,Paediatric,No,No,No,No,29.0
+Mbarara,58.0,Male,1,No,Medical,Yes,Yes,No,No,8.0
+Mbarara,16.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,No,No,5.0
+Mbarara,16.0,Male,1,Yes,Medical,Yes,Yes,No,No,14.0
+Mbarara,5.0,Male,2,No,Paediatric,No,Yes,No,No,13.0
+Mbarara,23.0,Male,1,No,Medical,No,No,No,No,19.0
+Mbarara,87.0,Female,2,No,Medical,Yes,No,No,No,188.0
+Mbarara,5.0,Female,2,Yes,Paediatric,No,Yes,No,No,21.0
+Mbarara,0.0,Male,1,Yes,Paediatric,No,No,No,No,4.0
+Mbarara,82.0,Male,1,No,Medical,Yes,Yes,No,No,1.0
+Mbarara,0.0,Male,1,No,ICU/HDU,No,Yes,No,No,61.0
+Mbarara,27.0,Male,2,Yes,Medical,Yes,Yes,No,No,39.0
+Mbarara,10.0,Female,3,No,ICU/HDU,No,Yes,No,No,43.0
+Mbarara,58.0,Female,3,Yes,Medical,No,Yes,No,No,6.0
+Mbarara,35.0,Male,4,Yes,Medical,Yes,No,No,No,19.0
+Mbarara,0.0,Male,1,No,Paediatric,No,No,No,No,9.0
+Mbarara,26.0,Female,1,No,Gynaecology,No,Yes,Yes,Yes,2.0
+Mbarara,33.0,Female,2,No,Medical,Yes,Yes,Yes,Yes,14.0
+Mbarara,49.0,Female,1,No,Medical,Yes,Yes,Yes,No,8.0
+Mbarara,53.0,Male,2,No,Medical,Yes,Yes,Yes,Yes,5.0
+Mbarara,39.0,Male,2,No,Surgical,No,No,Yes,Yes,27.0
+Mbarara,52.0,Male,1,No,Medical,Yes,Yes,Yes,Yes,8.0
+Mbarara,26.0,Female,1,No,Gynaecology,No,No,Yes,Yes,4.0
+Mbarara,22.0,Female,1,No,Gynaecology,No,No,Yes,Yes,23.0
+Mbarara,23.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,360.0
+Mbarara,24.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,2.0
+Mbarara,20.0,Female,1,No,Maternity/Post-Natal ward,No,No,Yes,Yes,3.0
+Mbarara,22.0,Male,1,No,ICU/HDU,No,Yes,Yes,Yes,73.0
+Mbarara,8.0,Female,1,No,Paediatric,No,Yes,Yes,Yes,11.0
+Mbarara,58.0,Male,1,No,Medical,No,Yes,No,No,11.0
+Mbarara,58.0,Male,1,Yes,Medical,No,Yes,No,No,8.0
+Mbarara,20.0,Male,1,No,Medical,No,Yes,No,No,38.0
+Mbarara,35.0,Male,1,No,Medical,No,No,No,No,16.0
+Mbarara,35.0,Female,1,No,Medical,Yes,Yes,No,No,13.0
+Mbarara,29.0,Female,1,No,Medical,Yes,Yes,No,No,394.0
+Mbarara,63.0,Male,2,No,Medical,Yes,Yes,No,No,30.0
+Soroti,64.0,Male,1,No,Surgical,Yes,No,Yes,Yes,32.0
+Soroti,18.0,Female,1,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,8.0
+Soroti,24.0,Male,1,No,Surgical,No,Yes,Yes,Yes,8.0
+Soroti,36.0,Male,2,No,Medical,No,Yes,No,No,27.0
+Soroti,34.0,Male,1,No,Surgical,Yes,No,No,No,17.0
+Soroti,16.0,Female,3,No,Maternity/Post-Natal ward,No,Yes,Yes,Yes,26.0
+Soroti,19.0,Male,1,No,Surgical,No,No,No,No,23.0
+Soroti,16.0,Female,3,No,Maternity/Post-Natal ward,No,Yes,No,No,26.0
+Soroti,5.0,Male,1,No,Surgical,No,No,Yes,Yes,28.0
+Soroti,63.0,Female,2,Yes,Medical,Yes,No,No,No,17.0
+Soroti,13.0,Female,1,No,Medical,No,Yes,No,No,3.0
+Soroti,22.0,Male,1,No,Medical,No,Yes,No,No,2.0
+Soroti,18.0,Female,1,No,Medical,Yes,Yes,No,No,4.0
+Soroti,35.0,Female,1,No,Medical,Yes,Yes,No,No,9.0
+Soroti,43.0,Female,1,No,Medical,Yes,Yes,No,No,5.0
+Lira,65.0,Male,1,No,Medical,Yes,Yes,No,No,8.0
+Soroti,52.0,Female,1,No,Medical,No,Yes,No,No,7.0
+Soroti,6.0,Male,2,No,Paediatric,No,Yes,No,No,346.0
+Soroti,52.0,Female,1,No,Medical,No,Yes,No,No,7.0
+Soroti,1.0,Male,1,No,Paediatric,Yes,Yes,No,No,37.0
+Soroti,7.0,Male,2,No,Paediatric,No,Yes,No,No,7.0
+Soroti,22.0,Male,1,No,Medical,No,No,No,No,6.0
+Soroti,50.0,Male,2,Yes,Medical,No,Yes,No,No,12.0
+Soroti,34.0,Male,1,No,Medical,No,Yes,Yes,Yes,11.0
+Soroti,30.0,Female,1,No,Surgical,No,Yes,No,No,11.0
+Soroti,65.0,Male,3,No,Medical,No,No,Yes,Yes,68.0
+Soroti,20.0,Male,2,No,Medical,No,Yes,No,No,3.0
+Soroti,20.0,Male,2,No,Medical,No,Yes,No,No,3.0
+Soroti,24.0,Female,1,No,Medical,Yes,No,No,No,20.0
+Soroti,24.0,Female,1,No,Medical,Yes,No,No,No,20.0
+Soroti,45.0,Female,4,No,Medical,No,Yes,No,No,14.0
+Lira,50.0,Female,2,No,Medical,Yes,Yes,No,No,2.0
