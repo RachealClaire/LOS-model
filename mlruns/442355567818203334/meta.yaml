@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/442355567818203334
-creation_time: 1740463550179
-experiment_id: '442355567818203334'
-last_update_time: 1740463550179
-lifecycle_stage: active
-name: MLflow GB Regressor model

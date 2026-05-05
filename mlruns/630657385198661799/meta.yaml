@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/630657385198661799
-creation_time: 1740657146842
-experiment_id: '630657385198661799'
-last_update_time: 1740657146842
-lifecycle_stage: active
-name: MLflow Lasso Regressor model

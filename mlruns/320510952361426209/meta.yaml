@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/320510952361426209
-creation_time: 1740036770134
-experiment_id: '320510952361426209'
-last_update_time: 1740036770134
-lifecycle_stage: active
-name: MLflow RandomForest Regressor model
